@@ -1,0 +1,2 @@
+﻿Wow, a genuine fairy tale planet. I bet the princess looks just like Snow White, and there is an almighty King and his beloved Queen. I'm a softy for this kind of stuff.
+Anyway, we should go down to the village and talk to the people. They surely know the way to the Kingsburg. That's where we will meet the King and ask for the medallion piece.

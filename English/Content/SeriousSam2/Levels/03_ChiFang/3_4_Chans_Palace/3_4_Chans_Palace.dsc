@@ -1,0 +1,2 @@
+See what happens when you don't act quickly. Now we have to find Chan's Palace. When we find it, we have to make Chan step outside.
+You saw how he fled. The guy's a coward, so we must find a way to lure him out. Maybe if we leave heaps of food outside his doors or if we can go trick or treating he'll come out.

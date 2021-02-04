@@ -1,0 +1,23 @@
+1
+00:00:35,000 --> 00:00:39,000
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Impressive.wav">Impressive...
+
+2
+00:00:40,050 --> 00:00:42,500
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Damn_What_Now.wav">Damn, what now? 
+
+3
+00:00:49,070 --> 00:00:50,900
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Of_Course.wav">Of course!
+
+4
+00:00:51,000 --> 00:00:53,500
+PENETRATE SIRIUS SHIELD
+
+5
+00:00:55,722 --> 00:00:57,990
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Ok_Here_We_Go.wav">Time to get serious! 
+
+6
+00:01:25,700 --> 00:01:30,000
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Yeeehaaaw.wav">Yeeehaw!

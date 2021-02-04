@@ -1,0 +1,3 @@
+Well, we didn't find the Zixies, they found us. Whatever. The important thing is that we are here.
+Now get rid of all this Mental scum, and reach the medallion plateau. It is on the other side of the village, so you'll have to jump across the treetops to get there.
+There are two main sections of the village. We are now in the community area, where most of the Zixies live. On the other side are wood milling workshops with primitive machinery. These two sections are connected with a gondola used for transferring goods and people. So, try to reach it.

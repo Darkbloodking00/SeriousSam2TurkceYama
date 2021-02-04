@@ -1,0 +1,2 @@
+WOW, the one and only Land of Giants. I read about it somewhere, something about beans and a princess, but I didn't know it would look like this. 
+Anyways, the Chieftain said Zum Zum took the medallion and hid it somewhere around here. Go  through the hollow log to get across the stream, he should be over there. If he isn't, we can always call Bosses R Us.

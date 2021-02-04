@@ -1,0 +1,198 @@
+﻿1
+00:00:03,570 --> 00:00:07,540
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode01/Wizards/Wizard1_Line01_How_many_times.wav">How many times do I
+have to tell you...he IS the one!
+
+2
+00:00:07,541 --> 00:00:11,879
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode01/Wizards/Wizard2_Line01_If_that_is_our_last_hope.wav">If THAT is our last hope,
+I don't believe we'll ever get rid of Mental.
+
+3
+00:00:11,880 --> 00:00:17,250
+C'mon, look at him! Would anyone sane believe that
+this man can actually save the universe?!?!
+
+4
+00:00:17,251 --> 00:00:24,258
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode01/Wizards/Wizard1_Line02_Well_It_Is_Written.wav">Well, it is written that a stranger
+from a galaxy far, far away will come
+and rescue us from the upcoming evil.
+
+5
+00:00:24,259 --> 00:00:26,525
+And the evil had already come...
+
+6
+00:00:26,526 --> 00:00:29,595
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode01/Wizards/Wizard2_Line02_Was_Is_Also_Written.wav">Was it also written that he
+will wear red sneakers? 
+
+7
+00:00:29,596 --> 00:00:32,632
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode01/Wizards/Wizard1_Line03_What_Do_You_Have.wav">What do you have against sneakers?!
+You used to wear pink tights with yellow...
+
+8
+00:00:32,633 --> 00:00:36,202
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode01/Wizards/Wizard2_Line03_Yes_Yes_And_You.wav">Yes, yes,... And you with
+your ridiculous...
+
+9
+00:00:36,203 --> 00:00:38,939
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode01/Wizards/Wizard_Woman_Line02_Guys_Guys_Stop.wav">Guys, guys, STOP!!!!!
+
+10
+00:00:39,907 --> 00:00:44,310
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode01/Wizards/Wizard_Woman_Line03_Lets_not_forget.wav">Let's not forget why we are here.
+We must contact him NOW.
+
+11
+00:00:44,311 --> 00:00:46,713
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode01/Wizards/Wizard_Woman_Line01_Concentrate_Boys.wav">Concentrate, boys.
+
+12
+00:00:53,720 --> 00:00:58,258
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode01/Sam/Sam_You_Have_Exactly_5.wav">You have exactly 5 seconds to explain
+what I'm doing here.
+
+13
+00:00:58,259 --> 00:01:01,294
+And 2 seconds have just passed...
+
+14
+00:01:01,295 --> 00:01:05,231
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode01/Wizards/Wizard_Woman_Line04_Please_mr_stone.wav">Please Mr.Stone, calm down.
+We can help you in your quest.
+
+15
+00:01:05,232 --> 00:01:10,469
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode01/Wizards/Wizard_Woman_Line05_My_Name_Is.wav">My name is Rolanda and these are my
+brothers, Jebediah and Rajiv.
+
+16
+00:01:10,470 --> 00:01:13,406
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode01/Sam/Sam_I_Am_Sam_Serious.wav">I'm Sam. Serious Sam.
+
+17
+00:01:13,407 --> 00:01:20,250
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode01/Wizards/Wizard_Woman_Line06_We_Are_The_Sirian.wav">We are the Sirian Great Council and we are here
+to show you the way how to stop Mental. Look...
+
+18
+00:01:21,515 --> 00:01:27,486
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode01/Wizards/Wizard_Woman_Line07_This_is_medallion.wav">This is the Medallion of Power...the only thing
+that can make Mental weak and vulnerable.
+
+19
+00:01:27,487 --> 00:01:36,362
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode01/Wizards/Wizard_Woman_Line08_It_was_forged.wav">It was forged by a blind blacksmith Gromlin
+and we, the wizards, threw a spell on it
+following the instructions in our holy manual (revision 2).
+
+20
+00:01:36,363 --> 00:01:42,000
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode01/Wizards/Wizard_Woman_Line09_It_was_split.wav">It was split into 5 pieces, and those
+pieces were given to 5 different races...
+
+21
+00:01:42,069 --> 00:01:44,403
+Simbas from planet M'digbo...
+
+22
+00:01:44,404 --> 00:01:46,907
+...ChiChe from planet Chi Fang...
+
+23
+00:01:46,910 --> 00:01:49,242
+...Zixies from planet Magnor...
+
+24
+00:01:49,243 --> 00:01:51,544
+...Kleers from the planet Kleer...
+
+25
+00:01:51,545 --> 00:01:54,313
+...and Elvians from planet Ellenier!
+
+26
+00:01:54,314 --> 00:01:59,852
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode01/Wizards/Wizard2_Line04_But_that_simply.wav">But that simply wasn't enough!
+Pretty soon Mental had all the parts in its possession.
+
+27
+00:01:59,853 --> 00:02:05,391
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode01/Wizards/Wizard1_Line04_Thankfully_those_pieces.wav">Thankfully, those pieces are indestructable,
+so Mental can only guard them.
+
+28
+00:02:05,392 --> 00:02:13,165
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode01/Wizards/Wizard2_Line05_When_All_Five_Pieces.wav">When all 5 pieces become joined again, medallion
+will activate releasing it's power 
+and making Mental vulnerable.
+
+29
+00:02:13,166 --> 00:02:18,471
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode01/Wizards/Wizard_Woman_Line10_Your_task_is_to_go.wav">Your task is to go to planet M'digbo and
+retrieve the first part of the Medallion!
+
+30
+00:02:18,572 --> 00:02:22,308
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode01/Wizards/Wizard1_Line05_And_If_You_Bring.wav">And if you bring this piece back,
+it could really mean you are...
+
+31
+00:02:22,309 --> 00:02:24,309
+...THE ONE!!!
+
+32
+00:02:25,178 --> 00:02:27,000
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode01/Sam/Sam_The_One.wav">The... one?
+
+33
+00:02:27,714 --> 00:02:31,584
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode01/Wizards/Wizard1_Line06_The_One_Our_Holy.wav">The one that our holy manual,
+(revision 2), keeps talking about.
+
+34
+00:02:31,585 --> 00:02:34,920
+The one who will 
+save the universe.
+
+35
+00:02:32,866 --> 00:02:34,920
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode01/Wizards/Wizard2_Line06_Yeah_Right.wav">Yeah, right!
+
+36
+00:02:34,921 --> 00:02:36,423
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode01/Wizards/Wizard_Woman_Line11_Well_you_should_go.wav">Well, you should go now.
+
+37
+00:02:36,424 --> 00:02:40,893
+We'll get in touch with
+you when you finish...
+
+38
+00:02:38,125 --> 00:02:40,893
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode01/Wizards/Wizard2_Line07_If_You_finish.wav">IF you finish your mission!
+
+39
+00:02:40,894 --> 00:02:42,194
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode01/Wizards/Wizard_Woman_Line12_Shhh.wav">Shhhhhhh....
+
+40
+00:02:42,195 --> 00:02:47,001
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode01/Sam/Sam_No_One_Is_Gonna.wav">No one's gonna believe this. Oh well...
+
+41
+00:02:57,711 --> 00:03:00,001
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Aaaargh.wav">AAAAAAAAARGH!
+
+42
+00:03:19,766 --> 00:03:23,001
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Aaaaaaaa.wav">AAAAA!
+
+43
+00:03:24,604 --> 00:03:26,000
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode07/Sam/Sam_Crap.wav">CRAP!
+

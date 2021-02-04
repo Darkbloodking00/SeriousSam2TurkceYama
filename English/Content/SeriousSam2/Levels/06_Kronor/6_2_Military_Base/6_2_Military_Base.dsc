@@ -1,0 +1,2 @@
+﻿Well done, Sam, you released most of the prisoners. There are a couple of prison cells in this area, so it would be great if you release those guys too.
+Well, after we pass this first courtyard, we will be getting into the Airfield area. There are a number of hangars and big crates containing weapons and technology. With the released prisoners, we can capture enemy Jet Fighters and do a direct strike on Sirius.

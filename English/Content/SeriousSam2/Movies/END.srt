@@ -1,0 +1,313 @@
+﻿1
+00:00:05,138 --> 00:00:07,840
+Welcome to my humble home.
+
+2
+00:00:07,841 --> 00:00:10,543
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Yeah_Well_I_Am.wav">Yeah, well. I am here now!
+
+3
+00:00:10,544 --> 00:00:13,246
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_We_Shall_Settle_This.wav">We'll settle this once and for all!
+
+4
+00:00:13,247 --> 00:00:17,817
+You need to know something first...
+
+5
+00:00:17,818 --> 00:00:19,585
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Yeah_What.wav">Yeah? WHAT?!!
+
+6
+00:00:19,586 --> 00:00:21,454
+Sam... I... am...
+
+7
+00:00:21,455 --> 00:00:23,500
+...your.... f...
+
+8
+00:00:25,592 --> 00:00:27,100
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Whatever.wav">Whatever...
+
+10
+00:01:12,339 --> 00:01:13,173
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Whadda_Hell.wav">Whadda hell ?!
+
+11
+00:01:14,274 --> 00:01:15,909
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Aw_Crap.wav">Aw crap!
+
+12
+00:01:17,210 --> 00:01:19,246
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_I_Knew_It_I.wav">I knew it! I knew it!
+
+13
+00:01:20,247 --> 00:01:23,917
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_I_Am_Going_To.wav">I am gonna have to have serious talk
+with Croteam one of these days...
+
+
+14
+00:01:28,508 --> 00:01:31,800
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Guys/Guy1_You_Are_Kidding_Me.wav">Oh, what, 
+you're kidding me, right?
+
+
+15
+00:01:31,811 --> 00:01:34,915
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Guys/Guy1_This_Can_Not_Be.wav">Aww, this can't be the end!
+
+
+16
+00:01:34,925 --> 00:01:37,249
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Guys/Guy2_Of_Course_It_Is.wav">Well, err...
+Of course it's not, man!
+
+17
+00:01:37,250 --> 00:01:39,484
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Guys/Guy3_I_want_To_Fight.wav">I want to fight!!!
+
+18
+00:01:39,485 --> 00:01:41,386
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Guys/Guy4_Me_too.wav">YEAH! Me too!
+
+19
+00:01:41,387 --> 00:01:43,956
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Guys/Guy2_Haha_This_Is_Funny.wav">Ha, ha, ha, this is funny!
+
+20
+00:01:43,957 --> 00:01:45,791
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Guys/Guy3_Its_Not_Funny_At.wav">It's NOT funny at all!
+
+21
+00:01:45,792 --> 00:01:49,127
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Guys/Guy3_They_Are_Not_Serious.wav">Hey, they aren't serious...
+Are they?
+
+22
+00:01:49,128 --> 00:01:52,531
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Guys/Guy2_I_Know_They_Are.wav">Uh, y'know, they are just messing
+with our minds, man...
+
+23
+00:01:52,532 --> 00:01:55,167
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Guys/Guy1_Maybe_Its_Really_The.wav">Hey, maybe it really is,
+like, the end...
+
+24
+00:01:55,168 --> 00:01:58,470
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Guys/Guy4_Or_Its_One_Of.wav">...or it's one of Croteam's bad jokes... again?
+
+25
+00:01:58,471 --> 00:02:02,175
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Guys/Guy5_Hey_Who_Is_Mental.wav">Hey guys, who is this
+Mental anyway?
+
+26
+00:02:02,174 --> 00:02:04,676
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Guys/Guy4_Dont_Know_Nobody_Ever.wav">I don't know.
+Nobody ever saw him.
+
+27
+00:02:04,677 --> 00:02:06,611
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Guys/Guy5_Does_He_Even_Exist.wav">Does he even exist, huh?
+
+28
+00:02:06,612 --> 00:02:09,881
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Guys/Guy2_I_Wonder_How_Big.wav">Yeah, I wonder how big he is...
+
+29
+00:02:09,882 --> 00:02:14,152
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Guys/Guy1_I_Would_Bet_That.wav">Oh yeah, I would bet he's
+even bigger than that Ugh-Zan...
+
+30
+00:02:14,153 --> 00:02:18,825
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Guys/Guy5_Yeah_He_Is_Probably.wav">Yeah, he is probably
+bigger than planet Sirius...
+
+31
+00:02:18,823 --> 00:02:20,859
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Guys/Guy1_We_Will_Never_Know.wav">Oh, we will never know...
+
+32
+00:02:20,860 --> 00:02:22,594
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Guys/Guy3_I_want_To_Fight.wav">I WANNA fight!
+
+33
+00:02:23,000 --> 00:02:27,165
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Guys/Guy2_Haha_This_Is_Really.wav">Ha, ha, ha, 
+this is really funny, man!
+
+34
+00:02:27,166 --> 00:02:28,500
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Guys/Guy3_No_It_Is_Not.wav">No, it isn't!
+
+35
+00:02:28,501 --> 00:02:34,473
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Guys/Guy5_Guys_How_Many_Rockets.wav">Guys, listen... how many
+rockets would it take to kill Mental?
+
+36
+00:02:34,474 --> 00:02:38,443
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Guys/Guy2_I_Guess_More_Than.wav">I guess more than a hundred.
+
+37
+00:02:38,444 --> 00:02:43,348
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Guys/Guy5_With_Hundred_Rockets_you.wav">With a hundred rockets you
+couldn't even kill Bosses in other games.
+
+38
+00:02:43,348 --> 00:02:46,151
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Guys/Guy3_Stupid_Conversation_Cos_He.wav">Well, its a stupid conversation
+'cos he ain't gonna appear.
+
+39
+00:02:46,152 --> 00:02:50,622
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Guys/Guy2_Ha_Ha_Ha_This.wav">Ha, ha, ha, this is 
+the greatest Boss in gaming history, man!
+
+40
+00:02:50,623 --> 00:02:53,058
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Guys/Guy4_Dude_Do_You_Work.wav">Hey mate, do you work for Croteam?
+
+41
+00:02:53,059 --> 00:02:57,362
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Guys/Guy5_I_Must_Go_To.wav">Listen guys, I gotta go to the toilet,
+I hope he doesn't appear while I'm gone...
+
+42 
+00:02:57,363 --> 00:03:00,165
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Guys/Guy3_He_Wont_Appear_At.wav">Like, man, he ain't gonna
+appear at all, you understand that!?!
+
+43
+00:03:00,166 --> 00:03:01,733
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Guys/Guy4_I_Am_Sure_He.wav">Oh, I'm sure he will.
+
+44
+00:03:01,734 --> 00:03:06,573
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Guys/Guy3_No_Way_You_See.wav">No way man, look, you see,
+this is the E. N. D...end...END!
+
+45
+00:03:06,573 --> 00:03:10,842
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Guys/Guy5_I_Am_Back_Did.wav">Oooh-kay, I'm back, I would leave it
+a little while, so...did he appear?
+
+46
+00:03:10,843 --> 00:03:14,379
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Guys/Guy3_How_Does_It_Look.wav">How does it look to you!
+Did he appear? What do you think, huh?
+
+47
+00:03:14,380 --> 00:03:17,750
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Guys/Guy5_Hey_Maybe_We_Must.wav">You know while I was in toilet,
+something popped up.
+
+48
+00:03:17,751 --> 00:03:21,486
+Maybe we've got to beat 
+the game on Serious difficulty?
+
+49
+00:03:21,487 --> 00:03:23,455
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Guys/GuysAll_Yes_That_Must_Be.wav">Yes, that must be it!
+
+50
+00:03:23,456 --> 00:03:25,425
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Guys/Guy4_Damn_I_Could_Never.wav">Aww...damn,
+I could never do that.
+
+51
+00:03:25,426 --> 00:03:27,759
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Guys/Guy3_It_Is_Not_Fair.wav">Oh man, it's not fair.
+
+52
+00:03:27,760 --> 00:03:33,231
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Guys/Guy6_Sorry_Guys_I_Have.wav">Err, I'm sorry gentlemen,
+I have beaten the game on Serious,
+but Mental didn't appear anyway.
+
+53
+00:03:33,232 --> 00:03:37,803
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Guys/Guy1_I_Never_Saw_More.wav">I never seen a more
+stupid ending to a game...
+
+54
+00:03:37,804 --> 00:03:40,739
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Guys/Guy2_Maybe_They_Are_Preparing.wav">Allright, well, maybe they are
+preparing a sequel, man?
+
+55
+00:03:40,740 --> 00:03:42,941
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Guys/Guy1_Hey_Maybe_It_Is.wav">Maybe. It's, like, not the end!
+
+56
+00:03:42,942 --> 00:03:45,977
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Guys/Guy3_Yes_Now_The_Real.wav">Yeah, hey, 
+now the real fightin' begins!
+
+57
+00:03:45,978 --> 00:03:49,015
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Guys/GuysAll_Pheeew_Yooohooo.wav">Pheeew, yoooohoooooooo,
+GREAT!
+
+58
+00:03:49,016 --> 00:03:52,520
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Guys/Guy2_Lets_Kick_Some_Ass.wav">Let's kick some ass, man.
+
+59
+00:03:55,153 --> 00:03:58,958
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Guys/GuysAll_Nooooooooo.wav">Awww, noooooo...
+
+60
+00:04:01,494 --> 00:04:05,931
+Here is the medallion!
+
+61
+00:04:05,932 --> 00:04:08,967
+Erm.. what!?
+
+62
+00:04:08,968 --> 00:04:11,870
+Nevermind,
+let me take care of it.
+
+63
+00:04:12,805 --> 00:04:15,373
+Oh, what,
+you're kidding me, right?
+
+64
+00:04:15,374 --> 00:04:18,443
+Whadda hell?!?
+
+65
+00:04:18,444 --> 00:04:21,647
+x@$^%!&*|!!
+
+66
+00:04:21,648 --> 00:04:24,082
+You can run,
+but you cannot hide!
+
+67
+00:04:24,083 --> 00:04:26,018
+Can we just forget
+about it?
+
+68
+00:04:26,019 --> 00:04:27,953
+I'm gonna shove that
+Medallion up your a..!!!
+
+69
+00:04:27,954 --> 00:04:29,122
+You can't be serious?
+
+70
+00:04:29,123 --> 00:04:31,858
+Oh, yes I am!!!
+

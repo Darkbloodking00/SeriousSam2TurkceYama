@@ -1,0 +1,61 @@
+1
+00:00:08,242 --> 00:00:10,000
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Wow.wav">Wow!
+
+2
+00:00:17,751 --> 00:00:22,688
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_My_Friends_There_Comes.wav">My friends, there comes a time
+in life when one must take a stand...
+
+3
+00:00:22,689 --> 00:00:24,790
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_And_That_Time_Is.wav">... and that time is now.
+
+4
+00:00:24,791 --> 00:00:27,293
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_And_If_You_Ever.wav">And if you ever feel like giving up 
+
+5
+00:00:27,294 --> 00:00:28,928
+just remember my words!
+
+6
+00:00:28,929 --> 00:00:31,740
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_If_We_Try_Now.wav">If we try now, we...  
+
+7
+00:00:33,300 --> 00:00:36,000
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Shall_Never_Have_A.wav">... shall never have a chance... 
+
+8
+00:00:37,170 --> 00:00:39,300
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_To_Stand_Up.wav">... to stand up...
+
+9
+00:00:40,073 --> 00:00:42,141
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_And_Defeat_Mental.wav">...and defeat Mental! 
+
+10
+00:00:42,142 --> 00:00:44,250
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_So_Be_Brave.wav">So, be brave... 
+
+11
+00:00:44,912 --> 00:00:47,200
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Enter_Those_Starships.wav">... enter those starships...
+
+12
+00:00:47,781 --> 00:00:51,000
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_That_Faith_Awaits_You.wav">... that fate awaits you!
+
+13
+00:00:58,225 --> 00:01:01,300
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Damn_It_Did_Not.wav">Damn, it didn't work. 
+
+14
+00:01:41,468 --> 00:01:43,936
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_You_Go_I_Will.wav">You go, I'll catch up with you. 
+
+15
+00:01:43,937 --> 00:01:47,000
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Still_Have_Some_Business.wav">Still have some business to do here... 
+

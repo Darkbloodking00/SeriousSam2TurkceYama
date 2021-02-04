@@ -1,0 +1,105 @@
+1
+00:00:03,203 --> 00:00:08,407
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Gnaar/Gnaar_Chifang_Line01.wav">Hi, this is George B. Gnaar, reporting
+live from Chi Fang City!
+
+2
+00:00:08,408 --> 00:00:13,145
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Gnaar/Gnaar_Chifang_Line02.wav">The citizens are gathered here
+to celebrate their Majesty's birthday.
+
+3
+00:00:13,146 --> 00:00:18,300
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Gnaar/Gnaar_Chifang_Line03.wav">The ceremony will start any second,
+with beautiful fireworks and entertainment programme.
+
+4
+00:00:19,152 --> 00:00:24,523
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Gnaar/Gnaar_Chifang_Line04.wav">There are even certain indicies,
+that Prince Chan will perform his latest musical poem!
+
+5
+00:00:24,524 --> 00:00:30,000
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Gnaar/Gnaar_Chifang_Line05.wav">The citizens are eagerly awaiting the ceremony
+to start and are truly honoured to be here.
+
+6
+00:00:33,433 --> 00:00:39,600
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Gnaar/Gnaar_Chifang_Line06.wav">Enjoy the event, LIVE, brought to you by
+GNAAR NEWS NETWORK!
+
+7
+00:00:45,913 --> 00:00:47,500
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Gross.wav">Gross!
+
+8
+00:00:58,525 --> 00:01:03,030
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Oh_My_God_That.wav">Oh my god, that's AWFUL!
+
+9
+00:01:00,694 --> 00:01:03,030
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_My_Turn_Now.wav">Now it's my turn!
+
+10
+00:01:04,064 --> 00:01:06,900
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Aaaaaarrrghhh.wav">Aaaargh!!!
+
+11
+00:01:09,336 --> 00:01:12,200
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Yeeehaaaw.wav">Yeeehaaaw!
+
+12
+00:01:14,908 --> 00:01:19,178
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Ok_Who_Is_Gonna.wav">Ok, who's gonna go first, scumbags!
+
+13
+00:01:19,179 --> 00:01:20,613
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Time_Out.wav">Time out!
+
+14
+00:01:20,614 --> 00:01:23,115
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_I_Think_We_Should.wav">I think we should wait for the old guy to leave!
+
+15
+00:01:23,116 --> 00:01:24,400
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_I_Will_Wait_If.wav">I'll wait, if YOU wait! 
+
+16
+00:01:26,086 --> 00:01:27,320
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Deal.wav">Deal?
+
+17
+00:01:28,021 --> 00:01:31,400
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Quickly_Old_Man_Save.wav">Hurry old man, SAVE yourself!
+
+18
+00:01:39,800 --> 00:01:42,800
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Oh_For_Crying_Out.wav">Oh, for crying out loud...
+
+19
+00:01:48,141 --> 00:01:51,000
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Will_You_Go_Already.wav">WILL YOU GO ALREADY!
+
+20
+00:01:53,046 --> 00:01:55,115
+20 minutes later
+
+21
+00:01:59,186 --> 00:02:03,200
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Ok_Guys_Lets_Do.wav">Ok, guys, lets do it!
+
+22
+00:02:17,771 --> 00:02:20,370
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Netricsa/Netricsa_Prince_Chan_Is_Escaping.wav">Prince Chan is escaping!
+
+23
+00:02:21,375 --> 00:02:24,543
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Damn_What_Now.wav">Damn! What now?
+
+24
+00:02:24,544 --> 00:02:27,279
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Netricsa/Netricsa_I_Bet_He_Is.wav">I bet he is heading to Chan's Palace!
+
+25
+00:02:27,280 --> 00:02:29,000
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Netricsa/Netricsa_Lets_Go_There.wav">Let's go there!

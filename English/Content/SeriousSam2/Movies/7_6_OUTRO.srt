@@ -1,0 +1,9 @@
+1
+00:00:14,500 --> 00:00:17,000
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Gnaar/Gnaar_Tram_11_Now_Leaving.wav">Tram 11 now leaving for Mental Institution!
+
+2
+00:00:17,100 --> 00:00:20,000
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Yeah_Thats_My_Ride.wav">Yeah, that's my ride...
+
+

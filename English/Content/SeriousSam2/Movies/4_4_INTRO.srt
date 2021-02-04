@@ -1,0 +1,37 @@
+1
+00:00:15,749 --> 00:00:20,487
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Gnaar/Gnaar_Kleer_Line01.wav">And now, for the first time in our show,
+we present you... M.G. Kleerofski!
+
+2
+00:00:20,488 --> 00:00:24,758
+He'll try expanding to FIVE TIMES 
+his normal size. Let's observe ...
+
+3
+00:00:33,867 --> 00:00:37,671
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Gnaar/Gnaar_Kleer_Line02.wav">Well, you can't blame him for trying!
+He's about to give it another shot!
+
+4
+00:00:37,672 --> 00:00:42,000
+Watch him summon and unleash the powers of 
+the underworld, to manifest ...
+
+5
+00:00:51,218 --> 00:00:55,422
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Gnaar/Gnaar_Kleer_Line03.wav">Live rabbits!? Well, that's impressive,
+considering this is a planet of the undead.
+
+6
+00:00:55,423 --> 00:00:58,458
+Ok, the great Kleerofski will try it one more time ...
+
+7
+00:00:58,459 --> 00:01:00,000
+Silence please!
+
+8
+00:01:07,200 --> 00:01:10,600
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Gnaar/Gnaar_Kleer_Line04.wav">And he did it! Give him a
+worthy applause, gentlemen.

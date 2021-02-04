@@ -1,0 +1,2 @@
+Finally! The Shaman summoned Kwongo. Now two of you can do a little dance of death. I'm checking out.
+Remember, your weapons won't do him much damage. The best tactic could be to protect the Simbas while they operate the catapult. The Lava Mixture Shaman has prepared should do the rest.

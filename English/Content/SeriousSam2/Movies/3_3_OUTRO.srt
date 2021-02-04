@@ -1,0 +1,33 @@
+1
+00:00:10,200 --> 00:00:13,215
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Aaah_This_Brings_Back_Some.wav">Aaah, this brings back some old memories...
+
+2
+00:00:13,850 --> 00:00:16,850
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Now_That_One_Was.wav">Now, that one was special!
+
+3
+00:00:19,200 --> 00:00:21,000
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Haha_Beautiful.wav">Haha, beautiful!
+
+4
+00:00:27,000 --> 00:00:30,599
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Ha_Ha_Yeah_I.wav">Haha, yeah, I remember that one!
+
+5
+00:00:30,600 --> 00:00:33,200
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Croteam_Rulez.wav">Croteam rulez!
+
+6
+00:00:33,700 --> 00:00:35,300
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Cool.wav">COOOL!
+
+7
+00:00:39,000 --> 00:00:41,799
+<B sound="Content/SeriousSam2/Sounds/CutSequences/ChicheFemale/Chiche_Female_Can_I_Have_Your.wav">Can I have your autograph, please?
+
+8
+00:00:41,800 --> 00:00:43,000
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Of_Course.wav">Of course!
+
+

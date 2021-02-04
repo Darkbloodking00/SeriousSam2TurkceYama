@@ -1,0 +1,3 @@
+Awesome! We made it. Now all we have to do is reach Mental's front door, ring the bell, and kick his ass.
+Proceed with caution as there are probably more enemies than we've seen so far. The Alliance threw a lot of weapons and ammo around, so you should be ok with your toys of death. Just make sure you destroy as many as you can, just to be sure they don't interfere when we are in Mental's living room.
+I wish you the best of luck, Sam!

@@ -1,0 +1,108 @@
+1
+00:00:02,636 --> 00:00:04,136
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode03/Wizards/Wizard1_Line01_See_Told_Ya.wav">See... Told ya!!
+
+2
+00:00:04,137 --> 00:00:05,671
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode03/Wizards/Wizard2_Line01_I_Could_Have_Done.wav">Pih...I could have done it too!
+
+3
+00:00:05,672 --> 00:00:13,212
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode03/Wizards/Wizard1_Line02_You_You_Couldnt_Even.wav">You?!? You couldn't even integrate 
+accelerated alpha voids into simple
+polymorph submolecular quadristructures...
+
+4
+00:00:13,213 --> 00:00:16,983
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode03/Wizards/Wizard2_Line02_Ha_Look_Who_Is.wav">Hah, look who's talking! YOU, on the other hand, 
+couldn't even...
+
+5
+00:00:16,984 --> 00:00:19,418
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode03/Wizards/Wizard_Woman_Line01_Enough_We_Have_No.wav">Enough! We have no time to lose.
+
+6
+00:00:19,419 --> 00:00:24,490
+Prince Chan's birthday party is in progress and we 
+must send Sam to Chi-Fang immediately!
+
+7
+00:00:24,491 --> 00:00:27,360
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode03/Sam/Sam_That_Was_A_Piece.wav">That was a piece of cake, what's next!
+
+8
+00:00:27,361 --> 00:00:32,498
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode03/Wizards/Wizard2_Line03_You_Did_Pretty_Good.wav">You did pretty good down there. Maybe you are 
+now ready for a real deal!
+
+9
+00:00:32,499 --> 00:00:36,536
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode03/Sam/Sam_Yeah_And_What_Was.wav">Yeah? And what was that before? 
+Playing a videogame???
+
+10
+00:00:40,040 --> 00:00:42,276
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode03/Wizards/Wizard_Woman_Line02_Nevermind_Lets_Get_It.wav">Nevermind. Let's get it on.
+
+11
+00:00:43,577 --> 00:00:46,646
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode03/Wizards/Wizard1_Line03_The_Next_Part_Of.wav">The next part of the medallion is
+on planet Chi-Fang.
+
+12
+00:00:46,647 --> 00:00:51,884
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode03/Wizards/Wizard1_Line04_Chiche_The_Residents_Of.wav">ChiChe, the residents of Chi-Fang, will help
+you, but there is nothing much they can do. 
+
+13
+00:00:51,885 --> 00:00:58,858
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode03/Wizards/Wizard1_Line05_They_Live_In_Constant.wav">They live in constant fear of being eaten by Prince Chan,
+Mental's minion that is terrorizing the planet.
+
+14
+00:00:58,859 --> 00:01:03,596
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode03/Wizards/Wizard1_Line06_And_What_Is_Most.wav">And what is most important and gruesome,
+that damned thing ATE the medallion.
+
+15
+00:01:03,596 --> 00:01:06,465
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode03/Wizards/Wizard_Woman_Line03_Lets_Just_Hope_He.wav">Let's just hope he didn't go to the 
+toilet since then...
+
+16
+00:01:06,466 --> 00:01:11,971
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode03/Wizards/Wizard2_Line04_Today_Is_His_Birthday.wav">Today is his birthday! There will be a big
+ceremony on the main square. We made a plan! 
+
+17
+00:01:11,972 --> 00:01:15,600
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode03/Wizards/Wizard1_Line07_Yes_Here_Is_The.wav">Yes, here is the plan: You'll enter town...
+
+18
+00:01:17,377 --> 00:01:20,080
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode03/Wizards/Wizard1_Line08_Arrive_At_Prince_Chans.wav">...arrive at Prince Chan's birthday party...
+
+19
+00:01:21,148 --> 00:01:23,150
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode03/Wizards/Wizard1_Line09_Destroy_Him_And_His.wav">...destroy him and his servants...
+
+20
+00:01:28,355 --> 00:01:30,500
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode03/Wizards/Wizard1_Line10_And_Take_The_Medallion.wav">...and take the medallion part.
+
+21
+00:01:32,973 --> 00:01:34,760
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode03/Wizards/Wizard2_Line05_Simple_But_Effective.wav">Simple, but effective!
+
+22
+00:01:34,761 --> 00:01:40,500
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode03/Sam/Sam_Could_We_Go_Through.wav">Could we go through it one more time...
+I'm not sure I caught all of that...
+
+23
+00:01:49,509 --> 00:01:51,811
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode03/Wizards/Wizard1_Line11_Okay_You_Will_Enter.wav">Oooookay... You'll enter town...
+
+24
+00:01:51,812 --> 00:01:54,600
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode03/Sam/Sam_Hey_Hey_Hey_Just.wav">Hey hey hey... just kidding.

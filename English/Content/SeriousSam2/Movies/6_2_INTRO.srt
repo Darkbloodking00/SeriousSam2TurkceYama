@@ -1,0 +1,4 @@
+1
+00:00:04,899 --> 00:00:09,013
+<B sound="Content/SeriousSam2/Sounds/Ambient/Kronor/Voice_IntruderAlert.wav">Warning! Intruder alert!
+

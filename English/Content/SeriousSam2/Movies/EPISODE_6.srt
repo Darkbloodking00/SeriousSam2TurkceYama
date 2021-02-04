@@ -1,0 +1,86 @@
+1
+00:00:00,834 --> 00:00:05,805
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode06/Wizards/Wizard_Woman_Line01_Unbelivable_He_Collected_All.wav">Unbelievable! He collected all five parts, 
+the medallion is complete!
+
+2
+00:00:05,806 --> 00:00:08,174
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode06/Wizards/Wizard1_Line01_He_Did_It_I.wav">He did it. I knew it!
+
+3
+00:00:08,175 --> 00:00:09,610
+You owe me fifty.
+
+4
+00:00:11,712 --> 00:00:16,349
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode06/Wizards/Wizard1_Line02_Nevermind_We_Now_Have.wav">We now have the medallion!
+If we manage to get you to Sirius, Mental is doomed!
+
+6
+00:00:16,350 --> 00:00:20,419
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode06/Sam/Sam_Manage_Is_There_A.wav">If we manage? ...Is there a problem 
+in getting to Sirius?!?
+
+7
+00:00:20,420 --> 00:00:22,700
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode06/Wizards/Wizard_Woman_Line02_Oh_Yeah_You_See.wav">Oh yeah... you see...
+
+8
+00:00:24,725 --> 00:00:28,594
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode06/Wizards/Wizard_Woman_Line03_Planet_Sirius_Is_Protected.wav">Planet Sirius is protected by an 
+impenetrable shield.
+
+9
+00:00:28,595 --> 00:00:32,300
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode06/Wizards/Wizard2_Line01_Impenetrable_Even_To_Our.wav">Impenetrable even to our powers.
+
+10
+00:00:34,668 --> 00:00:37,570
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode06/Wizards/Wizard1_Line04_You_Will_Need_Whole.wav">You'll need a whole Alliance Fleet 
+to attack Sirius!
+
+11
+00:00:37,571 --> 00:00:41,207
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode06/Wizards/Wizard2_Line02_And_Mighty_Cannon_That.wav">And mighty cannon that can damage a shield.
+
+12
+00:00:41,208 --> 00:00:43,309
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode06/Sam/Sam_Where_Can_I_Get.wav">Where can I get those?
+
+13
+00:00:43,310 --> 00:00:47,680
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode06/Wizards/Wizard2_Line03_This_Is_Kronor_Small.wav">This is Kronor, small moon orbiting 
+around Sirius.
+
+14
+00:00:47,681 --> 00:00:55,922
+Huge military base is situated there which serves as 
+a Sirius defence post, as well as a prison facility.
+
+15
+00:00:55,923 --> 00:01:00,326
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode06/Wizards/Wizard1_Line05_Thousands_Of_Alliance_Warriors.wav">Thousands of Alliance warriors are 
+imprisoned there.
+
+16
+00:01:00,327 --> 00:01:07,867
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode06/Wizards/Wizard2_Line04_On_The_Colder_Side.wav">On the colder side of Kronor is another outpost,
+containing the most powerful laser cannon in the galaxy.
+
+17
+00:01:07,868 --> 00:01:15,400
+If you locate the cannon, we can use it against Mental! 
+It should have enough power to damage the shield.
+
+18
+00:01:18,111 --> 00:01:21,013
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode06/Wizards/Wizard_Woman_Line04_Sam_You_Must_Free.wav">Sam, you must free the Alliance warriors.
+
+19
+00:01:21,014 --> 00:01:26,886
+Once you free them, they will capture enemy jet-fighters
+and wait for you in orbit to activate the cannon!
+
+20
+00:01:26,887 --> 00:01:29,508
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode06/Sam/Sam_Consider_It_Done.wav">Consider it done.

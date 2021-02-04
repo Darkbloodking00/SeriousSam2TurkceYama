@@ -1,0 +1,29 @@
+1
+00:00:01,002 --> 00:00:04,002
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Now_Where_Will_I.wav">Now where will I find that Shaman..
+
+2
+00:00:04,022 --> 00:00:07,006
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Ha_Fountain_Of_Wishes.wav">Ha? A fountain of wishes?
+
+3
+00:00:07,006 --> 00:00:08,027
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Where_Did_I_Put.wav">Now where did I put those coins...?
+
+4
+00:00:09,009 --> 00:00:10,024
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Ah_Here_Is_One.wav">Ah... here's one! 
+
+5
+00:00:16,700 --> 00:00:18,900
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_I_Wish_I_Wish.wav">I wish... I wish... 
+
+6
+00:00:19,700 --> 00:00:22,600
+Show me the way to the imprisoned Simba Shaman.
+
+7
+00:00:23,800 --> 00:00:26,600
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Hm_Aha_There_He.wav">Hm... Aha, there he is!
+
+

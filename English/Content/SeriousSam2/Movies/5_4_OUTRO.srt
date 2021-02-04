@@ -1,0 +1,9 @@
+1
+00:00:01,802 --> 00:00:04,242
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Cool.wav">Cool! 
+
+2
+00:00:10,800 --> 00:00:14,000
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Finally_Some_Fresh_Air.wav">Finally, some fresh air.
+
+

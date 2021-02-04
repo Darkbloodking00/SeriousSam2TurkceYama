@@ -1,0 +1,2 @@
+Ha ha, I knew he's gonna be a softy for lollies. But the real trouble just begins.
+Prince has several dangerous attacks. His singing is probably the most unpleasant and I'm not speaking only about his choice of arias. Lucky for us, Prince Chan has sensitive ears and doesn't like the sound of the Holy Gong. Use it against him!

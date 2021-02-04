@@ -1,0 +1,29 @@
+0
+00:00:00,000 --> 00:00:01,001
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Announcer/Announcer_Arena3.wav">
+
+1
+00:00:03,000 --> 00:00:06,999
+Tonight is the third night of 
+our tournament, and guess what...
+
+2
+00:00:07,000 --> 00:00:10,176
+that annoying little human being is still with us!
+
+3
+00:00:10,177 --> 00:00:15,699
+He has won the hearts of many,
+and ripped the hearts of even more!
+
+4
+00:00:15,700 --> 00:00:19,499
+Let's greet him with a SERIOUS welcome...
+
+5
+00:00:19,500 --> 00:00:22,999
+...'cos that's probably the last he'll ever hear!
+
+6
+00:00:23,000 --> 00:00:27,200
+Tonight's challenge is about to start!

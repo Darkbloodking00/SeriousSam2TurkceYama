@@ -1,0 +1,81 @@
+0
+00:00:05,905 --> 00:00:07,640
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode04/Sam/Sam_Whadda.wav">Whadda..?!?
+
+1
+00:00:07,641 --> 00:00:09,775
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_What_Is_This.wav">What is this!?
+
+2
+00:00:09,776 --> 00:00:13,312
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode04/Wizards/Wizard1_Line01_Umm_Nothing_Next_Stop.wav">Nothing. Next stop: Kleer planet.
+
+3
+00:00:13,313 --> 00:00:15,481
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode04/Sam/Sam_Kleer_Planet_You_Say.wav">Kleer planet you say...
+
+4
+00:00:15,482 --> 00:00:18,418
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode04/Wizards/Wizard1_Line02_Yes_Kleer_Planet_Look.wav">Yes, Kleer planet...Look!
+
+5
+00:00:22,022 --> 00:00:28,394
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode04/Wizards/Wizard1_Line03_What_Could_Be_Said.wav">What can be said about Kleer Planet..? 
+Volcanoes, rocks, some more rocks, more volcanoes.
+
+6
+00:00:28,395 --> 00:00:31,898
+And that would be the summary.
+And lava. Lots of lava.
+
+7
+00:00:31,899 --> 00:00:33,032
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode04/Sam/Sam_Kleers.wav">And Kleers ...
+
+8
+00:00:33,033 --> 00:00:38,138
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode04/Wizards/Wizard2_Line01_Lots_You_See_Kleers.wav">Lots!... You see... Kleers were once keepers
+of the medallion
+
+9
+00:00:38,139 --> 00:00:43,310
+before Mental dropped 10 billion gallons of 
+napalm on their planet and wiped them all out!
+
+10
+00:00:46,046 --> 00:00:53,020
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode04/Wizards/Wizard2_Line02_Later_Mental_Raised_Them.wav">Later, Mental raised them from the ashes and 
+turned them into its most deadliest warriors!
+
+11
+00:00:54,855 --> 00:00:57,257
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode04/Sam/Sam_And_The_Medallion_Piece.wav">And what about the medallion piece?
+
+12
+00:01:01,962 --> 00:01:04,331
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode04/Wizards/Wizard_Woman_Line01_Held_By_Evil_Wizard.wav">Held by the evil wizard Kleerofski!
+
+13
+00:01:04,332 --> 00:01:08,535
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode04/Sam/Sam_Mmm_Sounds_Like_A.wav">Mmmm, sounds like a perfect place for a vacation...
+
+14
+00:01:11,772 --> 00:01:14,440
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode04/Sam/Sam_Hah_I_Knew_I.wav">Hah, I knew I saw something!!
+
+15
+00:01:14,441 --> 00:01:15,474
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode04/Wizards/Wizard1_Line04_No_You_Didnt.wav">No you didn't!
+
+16
+00:01:15,479 --> 00:01:18,577
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode04/Wizards/Wizard1_Line05_Please_Use_The_Backdoor.wav">Please use the backdoor, it should 
+take you straight to planet Kleer
+
+17
+00:01:18,575 --> 00:01:19,315
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode04/Wizards/Wizard2_Line04_Bye_Bye.wav">Bye bye!
+
+18
+00:01:22,449 --> 00:01:24,351
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode04/Wizards/Wizard1_Line06_We_Should_Really_Get.wav">We should really get this thing fixed.

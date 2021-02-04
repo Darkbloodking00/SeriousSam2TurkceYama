@@ -1,0 +1,49 @@
+1
+00:00:12,946 --> 00:00:13,747
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Huh.wav">Huh?  
+
+2
+00:00:16,149 --> 00:00:17,451
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Hmmm.wav">Hmmm...
+
+3
+00:00:18,218 --> 00:00:20,153
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_What_The_Hell_Is.wav">What the hell is that? 
+
+4
+00:00:20,721 --> 00:00:21,622
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Whoooa.wav">Whoooa!
+
+5
+00:00:21,989 --> 00:00:23,090
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Damn.wav">Damn! 
+
+6
+00:00:23,091 --> 00:00:25,092
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Aaaargh.wav">Aaaargh...
+
+7
+00:00:26,994 --> 00:00:28,950
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Phew_That_Was_Close.wav">Phew... that was close!  
+
+8
+00:00:28,962 --> 00:00:33,267
+<B sound="Content/SeriousSam2/Sounds/CutSequences/ZixieChild/Zixie_Child_Sam_Sam_Saaam.wav">Sam, Sam, Saaaam, Saaaaaam! 
+
+9
+00:00:33,268 --> 00:00:34,800
+<B sound="Content/SeriousSam2/Sounds/CutSequences/ZixieChild/Zixie_Child_Zumzum_Took_The_Medallion.wav">Zumzum took the medallion!  	
+
+10
+00:00:34,902 --> 00:00:37,905
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Uhmmm_I_Know.wav">Ummm.... I know.  
+
+11
+00:00:41,942 --> 00:00:45,479
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Zumzum_Took_The_Medallion.wav">Zumzum took the medallion! What now?
+
+12
+00:00:45,946 --> 00:00:50,684
+<B sound="Content/SeriousSam2/Sounds/CutSequences/ZixieChief/Zixie_Chief_Hehe_Dont_Worry_I.wav">Hehe... don't worry,
+I know where he left. Follow us.
+

@@ -1,0 +1,35 @@
+1
+00:00:00,367 --> 00:00:06,639
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_207_208_209_210.wav">207...208...209...
+
+2
+00:00:06,640 --> 00:00:09,775
+...210...211...
+
+3
+00:00:09,776 --> 00:00:13,379
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Hmmm_212.wav">...hmm...212...
+
+4
+00:00:13,380 --> 00:00:15,882
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_213.wav">...213!
+
+5
+00:00:15,883 --> 00:00:17,800
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_That_Should_Be_It.wav">That should be it!
+
+6
+00:00:21,054 --> 00:00:23,400
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_I_Think_I_Got.wav">I think I got all of them!
+
+7
+00:00:28,128 --> 00:00:31,000
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Hey_Whats_That_Stench.wav">Hey, what's that smell!?
+
+8
+00:00:32,866 --> 00:00:34,000
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Dieeeee.wav">DIEEEEEEEEE!
+
+9
+00:00:36,470 --> 00:00:41,120
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_214_I_Should_Not_Have.wav">214! I shouldn't have skipped math class!

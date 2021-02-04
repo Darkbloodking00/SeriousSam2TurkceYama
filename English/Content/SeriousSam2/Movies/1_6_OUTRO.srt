@@ -1,0 +1,8 @@
+1
+00:00:08,044 --> 00:00:10,667
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_God_I_Hope_I_Will.wav">God, I hope I'll smell some fresh air soon.
+
+2
+00:00:10,968 --> 00:00:14,760
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Netricsa/Netricsa_Yeah_Me_Too_You.wav">Yeah, me too. You stink like hell!
+

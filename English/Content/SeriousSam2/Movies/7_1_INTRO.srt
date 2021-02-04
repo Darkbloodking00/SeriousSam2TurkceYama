@@ -1,0 +1,18 @@
+1
+00:00:01,952 --> 00:00:05,990
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Gnaar/Gnaar_Sirius.wav">Hi, this is George B. Gnaar, reporting live
+at a crash site near Highway 25...
+
+2
+00:00:05,990 --> 00:00:11,800
+It seems that an unidentified flying object crashed
+into the priceless statue of our leader, Mr. Mental!
+
+3
+00:00:11,990 --> 00:00:14,299
+The authorities still can't confirm...
+
+4
+00:00:14,300 --> 00:00:16,854
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Ha_That_Should_Keep_Them.wav">HA! That should keep them busy for a while!
+

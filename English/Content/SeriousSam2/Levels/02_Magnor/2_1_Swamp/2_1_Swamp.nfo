@@ -1,0 +1,12 @@
+LEVEL
+LOADING_MODEL="Content/SeriousSam2/Models/Enemies/Witch/Witch_Broom.mdl"
+MODEL_ANIMATION="Witch_LoadingScreen"
+MODEL_ROTATE="Yes"
+MODEL_NAME="TTRS:WitchFlying.Name=Flying Witch"
+LOADING_SCREEN="Content/SeriousSam2/Textures/LoadingScreens/2_1_Swamp_base.tex"
+NAME="TTRS:2_1_Swamp_base.Name=DEADWOOD"
+THUMBNAIL="Content/SeriousSam2/Levels/02_Magnor/2_1_Swamp/2_1_Swamp_thumbnail.tex"
+ETA="00:10:00"
+EPISODE_MOVIE="Content/SeriousSam2/Movies/Ntsc/EPISODE_2.ogv"
+INTRO_MOVIE="Content/SeriousSam2/Movies/Ntsc/2_1_INTRO.ogv"
+OUTRO_MOVIE="Content/SeriousSam2/Movies/Ntsc/2_1_OUTRO.ogv"

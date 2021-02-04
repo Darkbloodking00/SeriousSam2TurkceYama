@@ -1,0 +1,28 @@
+1
+00:00:12,426 --> 00:00:13,999
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Guards/Guard1_What_Do_You_Want.wav">What do you want?
+
+2
+00:00:14,480 --> 00:00:16,680
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_I_Want_To_See.wav">I want to see the King!
+
+3
+00:00:17,124 --> 00:00:20,478
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Guards/Guard1_Hahaha_Hey_Nigel_He.wav">Hey, Nigel, he wants to see the King!
+
+4
+00:00:20,479 --> 00:00:24,109
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Guards/Guard2_What.wav">What?!?
+
+5
+00:00:22,000 --> 00:00:24,109
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Guards/Guard1_A_King.wav">A king??
+
+6
+00:00:34,800 --> 00:00:37,600
+Many hours later...
+
+7
+00:00:51,763 --> 00:00:53,767
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Ha_What_The.wav">Ha?! What the...
+

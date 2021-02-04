@@ -1,0 +1,38 @@
+1
+00:00:31,498 --> 00:00:35,835
+<B sound="Content/SeriousSam2/Sounds/CutSequences/PrinceChan/Chan_Thats_Enough_I_Will.wav"> That's enough! I'll bite your head off 
+and shove it up your ....
+
+2
+00:00:35,836 --> 00:00:40,806
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Look_Just_Give_Me.wav">Look, just give me the medallion
+and nobody will get hurt!
+
+3
+00:00:40,807 --> 00:00:43,142
+<B sound="Content/SeriousSam2/Sounds/CutSequences/PrinceChan/Chan_Over_My_Dead_Body.wav"> Over my dead body!!!
+
+4
+00:00:43,143 --> 00:00:46,800
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_I_Sort_Of_Hoped.wav">I was sort of hoping you'd say that.
+
+5
+00:00:50,984 --> 00:00:53,587
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Aaaaaarrrghhh.wav">Aaaaaarrrghhh!!!
+
+6
+00:00:53,820 --> 00:00:55,790
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Aaaaaaaa.wav">Aaaaaaaa!!!
+
+7
+00:00:58,225 --> 00:01:01,800
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Hey.wav">HEY!!!
+
+8
+00:01:03,063 --> 00:01:06,433
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Hey_Wait.wav">Hey, wait!!!
+
+9
+00:01:08,869 --> 00:01:12,372
+<B sound="Content/SeriousSam2/Sounds/Player/Quotes/SS_I_Knew_It_I.wav">I knew it, I KNEW IT!!!
+

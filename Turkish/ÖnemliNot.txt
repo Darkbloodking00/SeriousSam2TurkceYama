@@ -1,0 +1,32 @@
+Lisans GPL-3 olarak değiştirilmiştir.
+
+Öncelikle çeviride emeği geçen Onur Şensoy'a ve Mehmethan Önder'e teşekkür ediyorum ve siz bekleyenleri sabrınız için tebrik ediyorum.
+
+Çeviri'nin kendi rehber sayfası:
+https://steamcommunity.com/sharedfiles/filedetails/?id=1276710601
+YENİ - GitHub Sayfası:
+https://github.com/Darkbloodking00/SeriouSam2TurkceYama
+
+
+Çeviride Emeği Geçenler:
+
+DarkBlood_king(Furkan Demircioğlu) https://steamcommunity.com/id/DarkBlood007/
+
+SeoN(Onur Şensoy) https://steamcommunity.com/id/seons/
+
+~Tank~KLEER~(Mehmethan Önder) https://steamcommunity.com/profiles/76561198279527780/
+
+Kurulum:
+
+Yama içinde bulunan "Content_TUR.gro" ve "Patch_02_080_252822_TUR.gro" adlı dosyaları, oyunun doğruca içine atmanız yeterlidir.(Yama oyunun V2.080.00 : 269486 sürümünü desteklemektedir. Korsana destek vermiyor ve oyunu satın almanızı öneriyoruz. Ancak gene de korsan oynuyorsanız çalışacaktır.)
+
+Not: Dosyalar hiçbir şekilde virüs içermemektedir. Ancak, gene de buna inanmanız için virustotal linkleri eklenmiştir.
+
+Kaldırma:
+
+Yama'yı silmek için sadece oyunun içine attığınız "Content_TUR.gro" ve "Patch_02_080_252822_TUR.gro" adlı dosyaları silmeniz yeterlidir.
+
+Son olarak herhangi bir sorunuz veya çeviride gözünüze çarpan herhangi bir hata olursa
+her zaman rehber sayfamıza yorum olarak atabilirsiniz.
+
+İyi oyunlar...

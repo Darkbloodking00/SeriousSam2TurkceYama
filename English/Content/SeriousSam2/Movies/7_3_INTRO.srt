@@ -1,0 +1,38 @@
+0
+00:00:00,000 --> 00:00:01,000
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Announcer/Announcer_Arena1.wav">
+
+1
+00:00:01,179 --> 00:00:07,500
+Good evening to all you freaks from all
+over the galaxy, and welcome to the annual...
+
+2
+00:00:07,510 --> 00:00:14,500
+...*Run For Life* tournament, the most watched
+reality show in the whole universe.
+
+3
+00:00:14,600 --> 00:00:22,300
+Today's contestant is Sam 'Serious' Stone,
+hero wannabe from the small planet Earth.
+
+4
+00:00:22,400 --> 00:00:27,999
+Let's see what he's made of! 
+As you already know, game rules are fairly simple.
+
+5
+00:00:28,000 --> 00:00:37,000
+Contestant must run through checkpoints within limited 
+time or his necklace will explode and take his head off...
+
+6
+00:00:37,100 --> 00:00:40,244
+...excuse me, seems like I caught some Gnaar flu.
+
+7
+00:00:40,424 --> 00:00:45,250
+Close your bets 'cos game is due to start any second!
+
+    

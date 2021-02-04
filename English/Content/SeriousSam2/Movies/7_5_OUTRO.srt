@@ -1,0 +1,76 @@
+1
+00:00:00,734 --> 00:00:03,369
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Gnaar/Gnaar_Arenas_Line01.wav">This is George B. Gnaar, GNN LIVE.
+
+2
+00:00:03,370 --> 00:00:06,138
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Gnaar/Gnaar_Arenas_Line02.wav">We interrupt this program in order to
+provide breaking news.
+
+3
+00:00:06,139 --> 00:00:09,742
+The Alliance maggots have penetrated our precious
+shield and invaded the city.
+
+4
+00:00:09,743 --> 00:00:13,212
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Gnaar/Gnaar_Arenas_Line03.wav">However, there is no need to panic,
+as our troops are well prepared.
+
+5
+00:00:13,213 --> 00:00:15,982
+See them crush the enemy into the oblivion...
+
+6
+00:00:15,983 --> 00:00:18,150
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Gnaar/Gnaar_Arenas_Line04.wav">...uhm, we'll probably see it later.
+
+7
+00:00:18,151 --> 00:00:20,353
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Gnaar/Gnaar_Arenas_Line05.wav">The important thing is to remain calm.
+
+8
+00:00:20,354 --> 00:00:23,900
+Mr. Mental assures you he'll deal
+with this personnaly.
+
+9
+00:00:24,558 --> 00:00:27,461
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Gnaar/Gnaar_Arenas_Line06.wav">Oh my God, one of the alliance ships
+is landing in the Arena!
+
+10
+00:00:27,462 --> 00:00:30,463
+It seems they are here to rescue that
+hero wanabee we caught!
+
+11
+00:00:30,464 --> 00:00:33,500
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Gnaar/Gnaar_Arenas_Line07.wav">Dear Lord, these savages are
+ruining everything.
+
+12
+00:00:33,501 --> 00:00:36,435
+We have reports that the enemy is deploying
+the troops throughout the city.
+
+13
+00:00:36,436 --> 00:00:40,173
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Gnaar/Gnaar_Arenas_Line08.wav">And as you can see on your screens,
+that Earthling managed to escape.
+
+14
+00:00:40,178 --> 00:00:44,510
+Don't worry, our Air defense troops are on standby,
+and will shoot on sight.
+
+15
+00:00:44,511 --> 00:00:47,246
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Gnaar/Gnaar_Arenas_Line09.wav">We'll deliver more news as
+soon as it happens.
+
+16
+00:00:47,247 --> 00:00:51,000
+George B. Gnaar,
+Siriusopolis Arenas - LIVE.
+

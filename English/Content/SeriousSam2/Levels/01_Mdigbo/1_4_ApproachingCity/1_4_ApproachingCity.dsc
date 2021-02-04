@@ -1,0 +1,3 @@
+Great job on defending that village, Sam. Hope you'll make good use of the parrot they gave you.
+Anyways, we are now on the right track to the city of Ursul. But there is a long stretch from here to the Main Gates. Finding some transportation could help you.
+As you can see, Mental's minions have a small base here. More of them are surely nearby so proceed with caution. Maybe you can use their equipment against them.

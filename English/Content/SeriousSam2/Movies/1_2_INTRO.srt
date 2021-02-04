@@ -1,0 +1,17 @@
+1
+00:00:59,000 --> 00:01:04,036
+Excuse my chicken on Friday
+
+2
+00:01:05,232 --> 00:01:09,036
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Nettie_Do_Something.wav">Nettie? Do something!
+
+3
+00:01:09,040 --> 00:01:11,000
+Evil green sausage was attacked tomorrow
+
+4
+00:01:12,306 --> 00:01:15,509
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_I_Cant_Understand_Bloody.wav">I can't understand a bloody word
+they're saying!
+

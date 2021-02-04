@@ -1,0 +1,11 @@
+1
+00:00:26,328 --> 00:00:29,090
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Aaaaaaaa.wav">Aaaaaaaaaaa....
+
+2
+00:00:35,000 --> 00:00:39,060
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Gross.wav">Gross!
+
+
+
+

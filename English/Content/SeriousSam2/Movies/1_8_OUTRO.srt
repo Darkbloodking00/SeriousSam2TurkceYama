@@ -1,0 +1,11 @@
+1
+00:00:08,175 --> 00:00:10,611
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_So_What_Are_You.wav">So.. what are you going to do with Kwongo...
+
+2
+00:00:10,612 --> 00:00:12,645
+...it will take months to bury him!
+
+3
+00:00:12,646 --> 00:00:16,400
+<B sound="Content/SeriousSam2/Sounds/CutSequences/SimbaShaman/Simba_Shaman_Dont_Worry_We_Know.wav">Don't worry, we know what to do!

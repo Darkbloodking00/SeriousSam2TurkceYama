@@ -1,0 +1,2 @@
+﻿So, this is Magnor. Well, the Wizards said there were swamps, but forgot to mention that something large died here. Yuck, it stinks like a pig farm! 
+Look around for any traces of the medallion. Also, try to get in contact with the Zixie tribe. If what the wizards said is true, they should have a village hidden somewhere around here. Anyways, I never congratulated you about that Kwongo deal. At least he is now in good hands... and mouth. There are gates dividing the base upfront, but they appear to be out of order. Try to find a way to open them.

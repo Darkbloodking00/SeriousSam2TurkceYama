@@ -1,0 +1,3 @@
+Finally, the canyon. Well, I scanned the area, there are indications of the Ceremonial Plateau at the end of the canyon.
+However, I also scanned large numbers of Kleers, as well as some other, organic, breathing scum.
+What we need to do here is reach a passage connecting the Kleer Habitat and their graveyard, called The Boneyard. Be cautious, but also be quick on your trigger, cos if the Kleers pin us to the wall, you are a goner. I mean, we are a goner.

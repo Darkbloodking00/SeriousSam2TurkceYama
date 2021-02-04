@@ -1,0 +1,2 @@
+Nice going last night. You splattered that Red BullSoldier like it was your job. Oh yeah, right, that IS your job.
+The next challenge involves jungle scenery, so we'll probably have to search for some hidden objects, while trying to stay alive. Survive this one, and I'll give you a kiss. In the form of an electric shock, of course.

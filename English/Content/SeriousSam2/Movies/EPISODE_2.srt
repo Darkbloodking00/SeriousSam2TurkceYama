@@ -1,0 +1,121 @@
+1
+00:00:08,175 --> 00:00:13,145
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode02/Wizards/Wizard1_Line01_I_Knew_It_You.wav">I knew it! You saw what he did to that
+monstrous beast... he MUST be the one.
+
+2
+00:00:13,146 --> 00:00:15,983
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode02/Wizards/Wizard2_Line01_He_Must_Be_The.wav">He must be the one, he must be the one...
+
+3
+00:00:15,984 --> 00:00:21,120
+...you said the same thing for that blondie guy
+few years ago and look what happened! 
+
+4
+00:00:21,588 --> 00:00:25,459
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode02/Wizards/Wizard1_Line02_Oh_Him_But_It.wav">Oh, him... but it took him FOREVER
+to even try!
+
+5
+00:00:25,460 --> 00:00:29,662
+This guy is different, I can feel it!
+We should call him now!
+
+6
+00:00:29,663 --> 00:00:34,000
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode02/Wizards/Wizard_Woman_Line01_Yes_Yes_After_All.wav">Yes, yes, after all he managed to get
+the first part of the medallion.
+
+7
+00:00:46,113 --> 00:00:49,482
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode02/Sam/Sam_Isnt_It_Obvious_I.wav">Who's the one? Isn't it obvious... I AM!
+
+8
+00:00:49,483 --> 00:00:53,452
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode02/Wizards/Wizard2_Line02_Dont_Be_So_Sure.wav">Don't be so sure...let's see how will you
+manage the next one!
+
+9
+00:00:53,453 --> 00:00:56,000
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode02/Sam/Sam_Bring_It_On.wav">Bring it on!
+
+10
+00:01:02,429 --> 00:01:04,764
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode02/Wizards/Wizard1_Line03_Your_Next_Stop_Is.wav">Your next stop is Magnor!
+
+11
+00:01:04,765 --> 00:01:10,603
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode02/Wizards/Wizard_Woman_Line02_Magnor_Is_A_Gigantic.wav">Magnor is a gigantic planet. It consists of giant 
+forests, giant swamps, giant trees..
+
+12
+00:01:10,604 --> 00:01:12,171
+...giant plants, giant mushrooms...
+
+13
+00:01:12,172 --> 00:01:15,074
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode02/Sam/Sam_Okay_Okay_I_Get.wav">Okay, okay, I get the point.
+
+14
+00:01:15,075 --> 00:01:20,914
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode02/Wizards/Wizard1_Line04_From_Our_Latest_Intel.wav">From our latest intel data, it seems that the 
+medallion is still in possession of the Zixie tribe.
+
+15
+00:01:20,915 --> 00:01:25,885
+However, Mental doubled its efforts,
+and decided to build an outpost in the swamps.
+
+16
+00:01:25,886 --> 00:01:30,757
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode02/Wizards/Wizard2_Line03_Thousands_Of_Its_Minions.wav">Thousands of its minions are stationed
+there in search of a missing piece.
+
+17
+00:01:30,758 --> 00:01:32,925
+Finding it should be 
+a matter of days.
+
+18
+00:01:32,926 --> 00:01:37,097
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode02/Wizards/Wizard_Woman_Line03_Mental_Also_Left_One.wav">Mental also left one of its
+giant abominations to scout the area.
+
+19
+00:01:37,098 --> 00:01:40,399
+We don't know much about it, 
+so stay alert.
+
+20
+00:01:40,400 --> 00:01:46,472
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode02/Sam/Sam_Dont_Worry_Say_Why.wav">Don't worry about it. Say... why don't you
+just teleport me straight into the Zixie village?
+
+21
+00:01:46,473 --> 00:01:50,777
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode02/Wizards/Wizard1_Line05_Well_You_See_We.wav">Well... you see... we don't
+really know its exact location.
+
+22
+00:01:50,778 --> 00:01:55,281
+Probably the best place to start looking
+would be around Mental's swamp base.
+
+23
+00:01:55,282 --> 00:01:58,617
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode02/Wizards/Wizard_Woman_Line04_This_Will_Be_A.wav">This will be a difficult task.
+Painful, no doubt!
+
+24
+00:01:58,618 --> 00:02:02,650
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode02/Sam/Sam_Yeah_It_Will_Be.wav">Yeah... it will be... for them!
+
+25
+00:02:03,190 --> 00:02:04,690
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode02/Wizards/Wizard1_Line06_Good_Luck.wav">Good luck!
+
+26
+00:02:04,691 --> 00:02:07,000
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode02/Wizards/Wizard2_Line04_He_Will_Surely_Need.wav">He'll surely need it.
+

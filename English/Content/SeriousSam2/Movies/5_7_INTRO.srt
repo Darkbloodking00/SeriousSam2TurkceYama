@@ -1,0 +1,48 @@
+1
+00:00:11,812 --> 00:00:13,614
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Gross.wav">Gross! 
+
+2
+00:00:14,515 --> 00:00:17,049
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_I_Have_Come_To.wav">I've come to take the princess!
+
+3
+00:00:17,050 --> 00:00:22,600
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Dragon/Dragon_Yes_Yes_It_Was.wav">Yes, yes, it was a mistake...
+By all means, she's yours, you can take her. 
+
+4
+00:00:26,760 --> 00:00:28,861
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Holy_Cow.wav">Holy cow!
+
+5
+00:00:28,862 --> 00:00:34,834
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Umh_I_Changed_My.wav">Umh, I... I changed my mind.
+You can keep her!
+
+6
+00:00:34,835 --> 00:00:38,200
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Dragon/Dragon_Please_Take_Her_I.wav">Please, take her, I'll give you
+anything you want! 
+
+7
+00:00:40,207 --> 00:00:41,542
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Anything.wav">Anything...? 
+
+8
+00:00:49,616 --> 00:00:52,418
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_No_Way_Dude_Its.wav">No way dude, it's not gonna happen.
+
+9
+00:00:52,419 --> 00:00:54,854
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Its_Nothing_Personal.wav">It's nothing personal, you know...
+
+10
+00:00:54,855 --> 00:01:01,862
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Dragon/Dragon_Fine_We_Shall_Settle.wav">Fine... we shall settle this the old
+way... but this time, LOSER wins... 
+
+11
+00:01:01,863 --> 00:01:04,000
+...THAT!
+

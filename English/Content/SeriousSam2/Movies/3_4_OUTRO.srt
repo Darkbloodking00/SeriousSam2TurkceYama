@@ -1,0 +1,41 @@
+1
+00:00:11,545 --> 00:00:17,000
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Come_Out_Come_Out.wav">Come out, come out, I've got something for ya!
+
+2
+00:00:17,951 --> 00:00:18,885
+<B sound="Content/SeriousSam2/Sounds/CutSequences/PrinceChan/Chan_No1.wav">No!
+
+3
+00:00:18,952 --> 00:00:25,691
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_These_Lollies_Crave_To.wav">Ooo, look at these delicious lollies...
+...ooo they are so tasty... YUMMY!
+
+4
+00:00:25,692 --> 00:00:26,959
+<B sound="Content/SeriousSam2/Sounds/CutSequences/PrinceChan/Chan_No2.wav">No!
+
+5
+00:00:27,094 --> 00:00:29,000
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Ok_That_Does_It.wav">Ok, that DOES IT!!
+
+6
+00:00:37,538 --> 00:00:41,400
+<B sound="Content/SeriousSam2/Sounds/CutSequences/PrinceChan/Chan_Nooooo.wav">Nooooooooooooooooo!
+
+7
+00:00:43,644 --> 00:00:45,711
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_See_What_You_Made.wav">See what you made me do???
+
+8
+00:00:45,712 --> 00:00:48,800
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Now_Come_Out_Or.wav">Now, come out or the lolly gets it!
+
+9
+00:00:49,149 --> 00:00:51,000
+<B sound="Content/SeriousSam2/Sounds/CutSequences/PrinceChan/Chan_Okay.wav">Oh-kay!
+
+10
+00:00:54,121 --> 00:01:01,800
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Whoa_You_Could_Be.wav">Whoa, you could be your own planet.
+You'd have to hold your pants up with an asteroid belt.

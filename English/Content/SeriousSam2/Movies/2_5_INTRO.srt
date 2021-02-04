@@ -1,0 +1,25 @@
+1
+00:00:34,360 --> 00:00:39,070
+<B sound="Content/SeriousSam2/Sounds/CutSequences/ZixieChief/Zixie_Chief_This_Is_Where_You.wav">This is where you will find Zumzum mon...
+and the medallion, of course! 
+
+2
+00:00:39,080 --> 00:00:41,000
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_This_Place_Is_Huge.wav">This place is HUGE! 
+
+3
+00:00:42,320 --> 00:00:46,080
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_We_Will_Have_To.wav">We're gonna have to 
+split up into two groups.
+
+4
+00:00:46,360 --> 00:00:47,280
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Guys.wav">Guys?
+
+5
+00:00:47,400 --> 00:00:49,680
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Guuuys.wav">Guuuuys...?
+
+6
+00:00:50,240 --> 00:00:51,000
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Doh.wav">Doh!

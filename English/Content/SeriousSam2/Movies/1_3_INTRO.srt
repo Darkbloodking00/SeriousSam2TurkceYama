@@ -1,0 +1,33 @@
+1
+00:00:05,472 --> 00:00:08,474
+<B sound="Content/SeriousSam2/Sounds/CutSequences/SimbaChief/Simba_Chief_You_Samus_Look_For.wav">You Samus look for medallion, ha? 
+
+2
+00:00:08,475 --> 00:00:13,279
+<B sound="Content/SeriousSam2/Sounds/CutSequences/SimbaChief/Simba_Chief_No_Medallion_Here_Kwongo.wav">No medallion here, Kwongo
+take medallion away.
+
+3
+00:00:13,280 --> 00:00:17,516
+<B sound="Content/SeriousSam2/Sounds/CutSequences/SimbaChief/Simba_Chief_But_Kwongo_No_Come.wav">But Kwongo no come here again,
+Shaman must call Kwongo.
+
+4
+00:00:17,517 --> 00:00:20,353
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_I_Will_Talk_To.wav"> I'll talk to him. Where is he? 
+
+5
+00:00:20,354 --> 00:00:23,656
+<B sound="Content/SeriousSam2/Sounds/CutSequences/SimbaChief/Simba_Chief_Shaman_No_Here_Shaman.wav">Shaman no here, shaman prisoner. 
+
+6
+00:00:23,657 --> 00:00:26,792
+<B sound="Content/SeriousSam2/Sounds/CutSequences/SimbaChief/Simba_Chief_You_Rescue_Shaman_And.wav">You rescue shaman and shaman help you! 
+
+7
+00:00:26,793 --> 00:00:29,500
+<B sound="Content/SeriousSam2/Sounds/CutSequences/SimbaChief/Simba_Chief_Tomorrow_I_Take_You.wav">Tomorrow I take you... 
+
+8
+00:00:39,273 --> 00:00:41,000
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Primitives.wav">Primitives!

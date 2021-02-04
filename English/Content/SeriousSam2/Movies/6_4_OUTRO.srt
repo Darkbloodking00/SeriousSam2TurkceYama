@@ -1,0 +1,24 @@
+1
+00:00:02,050 --> 00:00:03,000
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Hmmm_Five_Minutes_Should.wav">Hmmm...
+
+2
+00:00:03,000 --> 00:00:06,000
+...five minutes should be enough!
+
+3
+00:00:06,020 --> 00:00:07,850
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Here_We_Gooo.wav">Here we gooo....
+
+4
+00:00:08,860 --> 00:00:10,500
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Hey.wav">Hey! Wait!
+
+5
+00:00:09,860 --> 00:00:10,500
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Wait.wav">
+
+6
+00:00:11,026 --> 00:00:13,100
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Daaamn.wav">DAAAMN!!!
+
