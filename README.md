@@ -13,10 +13,10 @@
 [Furkan Demircioğlu](https://steamcommunity.com/id/DarkBlood007/)
 
 ### SeoN
-[Onur Şensoy](https://steamcommunity.com/id/DarkBlood007/)
+[Onur Şensoy](https://steamcommunity.com/id/seons/)
 
 ### 🖤Apocalypse~KLEER🖤
-[Mehmethan Önder](https://steamcommunity.com/id/DarkBlood007/)
+[Mehmethan Önder](https://steamcommunity.com/profiles/76561198279527780/)
 
 
  
