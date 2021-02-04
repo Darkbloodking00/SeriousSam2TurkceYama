@@ -6,5 +6,18 @@
 ## Açıklama
 
  Serious Sam 2 Gayri Resmi Türkçe Yama
+
+## Emeği Geçenler
+
+### DarkBloodKing
+[Furkan Demircioğlu](https://steamcommunity.com/id/DarkBlood007/)
+
+### SeoN
+[Onur Şensoy](https://steamcommunity.com/id/DarkBlood007/)
+
+🖤~Apocalypse~KLEER~🖤
+[Mehmethan Önder](https://steamcommunity.com/id/DarkBlood007/)
+
+
  
 
