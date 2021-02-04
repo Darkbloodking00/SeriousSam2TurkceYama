@@ -5,7 +5,7 @@ Lisans GPL-3 olarak değiştirilmiştir.
 Çeviri'nin kendi rehber sayfası:
 https://steamcommunity.com/sharedfiles/filedetails/?id=1276710601
 YENİ - GitHub Sayfası:
-https://github.com/Darkbloodking00/SeriouSam2TurkceYama
+https://github.com/Darkbloodking00/SeriousSam2TurkceYama
 
 
 Çeviride Emeği Geçenler:
