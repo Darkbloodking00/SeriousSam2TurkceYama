@@ -1,0 +1,29 @@
+﻿0
+00:00:00,000 --> 00:00:01,001
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Announcer/Announcer_Arena3.wav">
+
+1
+00:00:03,000 --> 00:00:06,999
+Bu gece turnuvanın
+üçüncü günü, ve tahmin edin ne oldu...
+
+2
+00:00:07,000 --> 00:00:10,176
+Şu can sıkıcı insan hala bizlimle!
+
+3
+00:00:10,177 --> 00:00:15,699
+Birçok kişinin kalbini kazandı,
+fakat çok daha fazlasının kalbini kırdı!
+
+4
+00:00:15,700 --> 00:00:19,499
+Hadi onu CIDDI bir şekilde selamlayalım...
+
+5
+00:00:19,500 --> 00:00:22,999
+...çünkü bu muhtemelen onu son duyuşumuz olacak!
+
+6
+00:00:23,000 --> 00:00:27,200
+Gecenin meydan okuması başlamak üzere!

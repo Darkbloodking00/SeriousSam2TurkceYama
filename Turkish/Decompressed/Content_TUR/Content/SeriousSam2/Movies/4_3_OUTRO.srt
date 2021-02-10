@@ -1,0 +1,8 @@
+﻿1
+00:00:12,150 --> 00:00:16,210
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Aaaargh.wav">Aaaahhh...
+
+2
+00:00:24,600 --> 00:00:26,001
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode07/Sam/Sam_Crap.wav">Kahretsin!
+

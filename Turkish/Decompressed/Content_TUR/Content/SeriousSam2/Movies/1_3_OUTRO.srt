@@ -1,0 +1,48 @@
+﻿1
+00:00:07,241 --> 00:00:10,810
+<B sound="Content/SeriousSam2/Sounds/CutSequences/SimbaChief/Simba_Chief_Thanks_Samus_You_Helped.wav">
+Teşekkürler Samus!
+Köyumüzü kurtarmaya yardım ettiniz!
+
+2
+00:00:10,811 --> 00:00:14,280
+<B sound="Content/SeriousSam2/Sounds/CutSequences/SimbaChief/Simba_Chief_If_There_No_You.wav">Eğer sen olmasaydın,
+hepimiz şimdi ölmüş olurduk!
+
+3
+00:00:14,281 --> 00:00:17,783
+<B sound="Content/SeriousSam2/Sounds/CutSequences/SimbaChief/Simba_Chief_So_Primitives_No_Come.wav">Yani... Primitiveler yakın bir zamanda gelmeyecekler.
+
+4
+00:00:17,784 --> 00:00:19,986
+<B sound="Content/SeriousSam2/Sounds/CutSequences/SimbaChief/Simba_Chief_I_Believe_We_Take.wav">Sanırım ara veriyoruz!
+
+5
+00:00:19,987 --> 00:00:21,654
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Now_You_Are_Talking.wav">Işte şimdi benim dilimde konuşmaya başladın!
+
+6
+00:00:21,655 --> 00:00:25,400
+<B sound="Content/SeriousSam2/Sounds/CutSequences/SimbaChief/Simba_Chief_This_Calls_For_Celebration.wav">Bu KUTLAMA çağrısı!
+
+7
+00:00:57,791 --> 00:01:02,628
+<B sound="Content/SeriousSam2/Sounds/CutSequences/SimbaChief/Simba_Chief_Thank_You_Very_Much.wav">Çok teşekkür ederim Samus!
+Ama gitmeden önce hediyemiz var!
+
+8
+00:01:02,629 --> 00:01:05,666
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Oh_Boy_I_Love.wav">Tamam! Hediyeleri severim!
+
+9
+00:01:07,734 --> 00:01:12,270
+<B sound="Content/SeriousSam2/Sounds/CutSequences/SimbaChief/Simba_Chief_This_Bird_Klodovik_Well.wav">Bu kuşun adı Clawdovic, evcildir.
+Kuş sana yardım edecek.
+
+10
+00:01:14,675 --> 00:01:18,600
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_I_See_We_Will.wav">Fazla uzatmaya gerek yok sadece harika...
+
+11
+00:01:20,047 --> 00:01:23,500
+Görüşürüz Samus,Görüşürüz...

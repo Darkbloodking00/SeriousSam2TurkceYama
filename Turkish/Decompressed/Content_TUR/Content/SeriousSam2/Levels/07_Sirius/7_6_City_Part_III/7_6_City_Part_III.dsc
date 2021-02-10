@@ -1,0 +1,4 @@
+﻿He he, cesur Müttefik Savaşçılarını gördün mü? Mental'ın dalkavuklarına tekmeyi bastılar. Birkaç dakika önce ölen pilot için ise çok yazık.
+Pekala, şimdi şehrin diğer bölümündeyiz, fakat sorun ise ana meydandan ve caddelerden geçmemiz gerektiği. Ve orada muhtemelen binlerce asker ve çete olacaktır. Burada "Savaşçı" deneyimini elde edeceğiz gibi hissediyorum. Bizi Mental Institution'a götürecek bir araca atlamalıyız. Oraya vardığımz zaman, hiçbir şey bizi durduramaz.
+Lütfen dikkatli ol. Caddeleri taradım ve etrafına dağılmış bir dizi araç buldum.
+Onları ne zaman kullanabilirsen o zaman kullan. Iyi şanslar!

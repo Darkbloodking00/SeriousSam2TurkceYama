@@ -1,0 +1,2 @@
+﻿Harika, kaçtı. Durum daha da karmaşıklaştı. Şimdi bu boku çıkmış Chanolin Odalarından geçmek zorundayız. Iyi olan şey, en azından birçoğu tekradan dekore edilmiş, bu yüzden sadece birkaçını geçmek zorundayız. Ama bunu iyi bir şey olarak düşünme, göreceksin muhtemelen her taraftan saldırıya uğrayacağız.
+İç odalardan geçtikten sonra, eğitim alanından çıkacağız. Orada Roket Atar ile oynamak için yeterli alan olacak.

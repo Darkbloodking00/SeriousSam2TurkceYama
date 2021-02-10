@@ -1,0 +1,2 @@
+Sam, burada bir hata var ve düzeltmek zorundasın. Ayrıca bu hiç kolay olmayacak. Zum Zum çiçeklerin özünü emerek gücünü geri kazanabiliyor. Ona engel olmalısın. Fakat dikkatli ol, onun çok tehlikeli bir dizi saldırıları var.
+Yapabileceğin en akıllıca şey onun saldırılarını engelleyebilecek bir şeyin arkasına saklanman. Iyi Şanslar!

@@ -1,0 +1,110 @@
+﻿1
+00:00:17,517 --> 00:00:20,187
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode07/Sam/Sam_It_Is_The_Moment.wav">Момент, которого мы так ждали, наступил.
+
+2
+00:00:20,188 --> 00:00:25,124
+Пришло время избавиться от Зла раз
+и навсегда! Вы готовы?
+
+3
+00:00:25,125 --> 00:00:27,093
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode07/Npc/Pilot_Ready1.wav">Всегда готов!
+
+4
+00:00:25,726 --> 00:00:26,559
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode07/Npc/Pilot_Acknowledged.wav">Вас понял!
+
+5
+00:00:26,560 --> 00:00:27,093
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode07/Npc/Pilot_Check.wav">Так точно!
+
+6
+00:00:27,094 --> 00:00:29,095
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode07/Npc/Pilot_Affirmative.wav">Слушаюсь!
+
+7
+00:00:27,761 --> 00:00:28,427
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode07/Npc/Pilot_Roger1.wav">Есть!
+
+8
+00:00:28,428 --> 00:00:29,095
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode07/Npc/Pilot_Rabbit.wav">Пить!
+
+9
+00:00:29,096 --> 00:00:30,600
+Через 2 часа
+
+10
+00:00:30,964 --> 00:00:33,100
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode07/Npc/Pilot_Roger2.wav">Есть!
+
+11
+00:00:31,732 --> 00:00:33,100
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode07/Npc/Pilot_Ready2.wav">Готов!
+
+12
+00:00:33,467 --> 00:00:37,100
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode07/Sam/Sam_We_Are_Going_In.wav">И... вперед! За мной!
+
+13
+00:00:51,551 --> 00:00:55,600
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode07/Npc/Pilot_Oh_My_God_The.wav">О нет, пушка теряет мощность!
+
+14
+00:01:01,395 --> 00:01:04,731
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode07/Wizards/Wizard2_Line01_He_Failed_And_I.wav">Он не смог! А я уже вам поверил!
+
+15
+00:01:04,998 --> 00:01:07,967
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode07/Wizards/Wizard1_Line01_He_Is_Still_Very.wav">Ну, он пока еще довольно живой, нет?
+
+16
+00:01:07,968 --> 00:01:12,872
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode07/Wizards/Wizard2_Line02_He_Is_All_Alone.wav">Он один, глубоко в тылу врага!
+У него нет шансов!
+
+17
+00:01:12,873 --> 00:01:17,009
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode07/Wizards/Wizard1_Line02_Remember_Who_Are_You.wav">Не забывайте, о ком вы говорите. Он не простой
+человек, он особенный.
+
+18
+00:01:17,010 --> 00:01:21,013
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode07/Wizards/Wizard2_Line03_So_When_I_Was.wav">И? Что дальше? Когда я был молод, мне
+тоже говорили, что я ''особенный''!
+
+19
+00:01:21,014 --> 00:01:22,480
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode07/Wizards/Wizard_Woman_Line01_Stop_This_Is_No.wav">Хватит!!!
+
+20
+00:01:22,481 --> 00:01:27,553
+Нет времени на споры! Если хотите, займитесь этим позже.
+Если это позже ВООБЩЕ наступит.
+
+21
+00:01:27,554 --> 00:01:31,992
+Он наша последняя надежда! И если
+он не справится, мы обречены!
+
+22
+00:01:31,993 --> 00:01:34,800
+Интересно, как он там сейчас...
+
+23
+00:01:51,945 --> 00:01:54,600
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode07/Sam/Sam_Lets_Rock_And_Roll.wav">Потанцуем!
+
+24
+00:01:57,818 --> 00:02:00,700
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode07/Sam/Sam_Yeehaw.wav">Йоохооооо!!!
+
+25
+00:02:04,658 --> 00:02:07,600
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode07/Sam/Sam_Oh_Boy_Oh_Boy.wav">О да, о да, еще разок!!
+
+26
+00:02:20,440 --> 00:02:21,700
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode07/Sam/Sam_Crap.wav">Черт!
+

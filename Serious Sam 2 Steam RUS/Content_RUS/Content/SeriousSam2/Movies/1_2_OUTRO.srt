@@ -1,0 +1,11 @@
+﻿1
+00:00:31,000 --> 00:00:32,299
+<B sound="Content/SeriousSam2/Sounds/CutSequences/SimbaChief/Simba_Chief_You_Samus.wav">Твоя Сэмус?
+
+2
+00:00:32,300 --> 00:00:34,599
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_I_Guess.wav">Похоже на то...
+
+3
+00:00:34,600 --> 00:00:36,300
+<B sound="Content/SeriousSam2/Sounds/CutSequences/SimbaChief/Simba_Chief_Follow_Me.wav">Ходи за мной!

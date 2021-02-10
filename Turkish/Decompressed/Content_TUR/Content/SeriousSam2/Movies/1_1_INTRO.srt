@@ -1,0 +1,45 @@
+﻿1
+00:00:13,914 --> 00:00:17,584
+<B sound="Content/SeriousSam2/Sounds/Netricsa/NG_Hi_Sam_No_No.wav">Merhaba Sam! Hayır hayır, etrafına bakma.
+Benim, Nettie.
+
+2
+00:00:17,751 --> 00:00:18,452
+<B sound="Content/SeriousSam2/Sounds/Player/Quotes/SG_Nettie.wav">Nettie?
+
+3
+00:00:18,562 --> 00:00:20,954
+<B sound="Content/SeriousSam2/Sounds/Netricsa/NG_Netricsa_But_Nettie_To.wav">Netricsa.
+Ama arkadaşlarım bana Nettie der ...
+
+4
+00:00:20,954 --> 00:00:24,458
+<B sound="Content/SeriousSam2/Sounds/Player/Quotes/SG_Nettie_Nettie_You_Can.wav">Netricsa? Nettie ??? Konuşa...biliyorsun!
+
+5
+00:00:24,524 --> 00:00:27,027
+<B sound="Content/SeriousSam2/Sounds/Netricsa/NG_Yes_It_Is_A.wav">Evet, bu biraz karışık ...
+
+6
+00:00:27,028 --> 00:00:30,997
+Sadece şunu söyleyebilirim ki, bu büyük bir oyun 
+bütçesiyle yapılabikeceklerden sadece biri ...
+
+7
+00:00:31,075 --> 00:00:31,910
+<B sound="Content/SeriousSam2/Sounds/Player/Quotes/SG_What_Game_Budget.wav">Ne oyun bütçesi?
+
+8
+00:00:32,099 --> 00:00:36,436
+<B sound="Content/SeriousSam2/Sounds/Netricsa/NG_Just_Kidding_Anyway_I.wav">Sadece şaka yapıyordum ... Zaten,
+buraya elimden geldiğince sana yardım etmek için geldim.
+
+9
+00:00:36,437 --> 00:00:39,406
+Bu mavi adamlardan bir kaçını daha bul ve
+onları konuştur.
+
+10
+00:00:39,407 --> 00:00:42,000
+Belki de onların ne söylediklerini
+çevirebilirim.

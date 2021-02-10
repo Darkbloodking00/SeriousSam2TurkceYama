@@ -1,0 +1,5 @@
+﻿1
+00:00:39,720 --> 00:00:46,000
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Chinese_I_Love_Them.wav"> Китайцы! Я люблю китайцев!
+Только вот едят они всякую дрянь.
+

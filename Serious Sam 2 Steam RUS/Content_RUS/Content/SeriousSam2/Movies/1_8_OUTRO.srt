@@ -1,0 +1,11 @@
+﻿1
+00:00:08,175 --> 00:00:10,611
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_So_What_Are_You.wav">Хм, а что вы теперь будете делать с Квонго?
+
+2
+00:00:10,612 --> 00:00:12,645
+Его похоронить - это ж на полгода работы!
+
+3
+00:00:12,646 --> 00:00:16,400
+<B sound="Content/SeriousSam2/Sounds/CutSequences/SimbaShaman/Simba_Shaman_Dont_Worry_We_Know.wav"> Не волнуйся, мы знаем что делать!

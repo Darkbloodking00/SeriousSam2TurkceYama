@@ -1,0 +1,46 @@
+﻿1
+00:00:13,914 --> 00:00:17,584
+<B sound="Content/SeriousSam2/Sounds/Netricsa/NG_Hi_Sam_No_No.wav"> Привет, Сэм! Не оглядывайся по сторонам,
+это я, Нетти.
+
+2
+00:00:17,751 --> 00:00:18,452
+<B sound="Content/SeriousSam2/Sounds/Player/Quotes/SG_Nettie.wav">Нетти?
+
+3
+00:00:18,562 --> 00:00:20,954
+<B sound="Content/SeriousSam2/Sounds/Netricsa/NG_Netricsa_But_Nettie_To.wav">Нетрикса.
+Но для друзей просто Нетти...
+
+4
+00:00:20,954 --> 00:00:24,458
+<B sound="Content/SeriousSam2/Sounds/Player/Quotes/SG_Nettie_Nettie_You_Can.wav"> Нетрикса? Нетти? Так ты умеешь говорить?
+
+5
+00:00:24,524 --> 00:00:27,027
+<B sound="Content/SeriousSam2/Sounds/Netricsa/NG_Yes_It_Is_A.wav"> Ну, это долго объяснять...
+
+6
+00:00:27,028 --> 00:00:30,997
+В общем, дело в том, что
+бюджет игры решили увеличить...
+
+7
+00:00:31,075 --> 00:00:31,910
+<B sound="Content/SeriousSam2/Sounds/Player/Quotes/SG_What_Game_Budget.wav"> Какой еще бюджет?!
+
+8
+00:00:32,099 --> 00:00:36,436
+<B sound="Content/SeriousSam2/Sounds/Netricsa/NG_Just_Kidding_Anyway_I.wav"> Ладно, проехали... Короче, мы снова вместе
+и мои советы к твоим услугам.
+
+9
+00:00:36,437 --> 00:00:39,406
+Найди побольше этих синих ребят
+и заставь их разговориться.
+
+10
+00:00:39,407 --> 00:00:42,000
+Возможно, я смогу перевести,
+что они говорят.
+

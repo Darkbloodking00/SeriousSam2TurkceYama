@@ -1,0 +1,42 @@
+﻿1
+00:00:07,608 --> 00:00:09,109
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Man_It_Is_Cold.wav">Adamım, çok soğuk!
+
+2
+00:00:10,277 --> 00:00:13,750
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode06/Wizards/Wizard_Woman_Line03_Planet_Sirius_Is_Protected.wav">Sirius Gezegeni
+yarılmaz bir kalkanla korunuyor...
+
+3
+00:00:13,981 --> 00:00:16,617
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode06/Wizards/Wizard2_Line01_Impenetrable_Even_To_Our.wav">...bizim gücümüze göre bile yarılmaz.
+
+4
+00:00:17,384 --> 00:00:20,220
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode06/Wizards/Additional_Wizard1_We_Need_That_Cannon.wav">Bu topla Sirius'a
+ateş etmemiz gerek!
+
+5
+00:00:20,454 --> 00:00:21,455
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode06/Wizards/Additional_Wizard1_Good_Luck.wav">Iyi Şanslar.
+
+6
+00:00:21,922 --> 00:00:24,625
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode06/Wizards/Additional_Wizard2_To_Make_Omelette_Du.wav">Omelette de Frommage yapmak için,
+iki adet yumurtayı kırın.
+
+7
+00:00:24,825 --> 00:00:27,200
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode06/Wizards/Additional_Wizard1_Slice_The_Bordeaux_Cheese.wav">Bordo Peyniri ince
+ince doğrayın...
+
+8
+00:00:27,500 --> 00:00:30,300
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode06/Wizards/Additional_Wizard_Woman_Heat_The_Onions_In.wav">Soğanları bir kızartma tavasında
+pişirin ve yumurtaları ekleyin...
+
+9
+00:00:30,400 --> 00:00:34,100
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode06/Wizards/Additional_Wizard2_Add_Cheese_And_Sprinkle.wav">Peyniri ekleyin, ve maydanozu 
+bir çizgi halinde serpin!
+

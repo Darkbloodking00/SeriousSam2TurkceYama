@@ -1,0 +1,11 @@
+﻿1
+00:00:08,175 --> 00:00:10,611
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_So_What_Are_You.wav">Peki.. Kwongo ile ne yapacaksınız..
+
+2
+00:00:10,612 --> 00:00:12,645
+...onu gömmek aylar sürer!
+
+3
+00:00:12,646 --> 00:00:16,400
+<B sound="Content/SeriousSam2/Sounds/CutSequences/SimbaShaman/Simba_Shaman_Dont_Worry_We_Know.wav">Merak etme, ne yapacağımızı biz çok iyi biliyoruz!

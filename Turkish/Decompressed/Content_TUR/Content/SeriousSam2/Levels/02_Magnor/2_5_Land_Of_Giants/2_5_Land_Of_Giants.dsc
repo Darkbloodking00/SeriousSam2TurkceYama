@@ -1,0 +1,2 @@
+﻿VAY BE, Devlerin bir ve tek diyarı. Bununla ilgili bir yerde bir şey okumuştum, prensesler ve fasulyeler ile ilgiliydi, fakat böyle görüneceğini hayal bile edemezdim. 
+Her neyse, Kabile şefi Zum Zum'un madalyonu aldığını ve burada bir yere sakladığını söyledi. Akıntıdan kurtulmak için oyuk kütüğün içinden geç, o orada olmalı. Eğer orada değilse, Her zaman Bosses R Us'ı arayabiliriz.

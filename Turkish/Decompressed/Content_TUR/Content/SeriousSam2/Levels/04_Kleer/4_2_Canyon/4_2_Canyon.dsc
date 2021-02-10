@@ -1,0 +1,3 @@
+﻿Sonunda kanyon. Pekala, alanı taradım, kanyonun sonunda Seremoni Platosu'nu işaret eden izler var.
+Bununla birlikte, çok sayıda Kleer'in yanı sıra, etrafta bazı nefes alan organik pisliklerin de olduğunu buldum.
+Burada yapmamız gereken şey Kleer Habitatını ve Kleer mezarlığını birbirine bağlayan geçite ulaşmak. Dikkatli ol, ancak sezgisel olarak da hızlı ol, çünkü eğer Kleerlar bizi duvara iğnelerse, bu gidicisin demektir. Yani, gidiciyiz demek istemiştim.

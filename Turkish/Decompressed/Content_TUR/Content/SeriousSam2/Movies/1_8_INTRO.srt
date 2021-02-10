@@ -1,0 +1,29 @@
+﻿1
+00:00:02,402 --> 00:00:05,138
+<B sound="Content/SeriousSam2/Sounds/CutSequences/SimbaShaman/Simba_Shaman_The_City_Of_Ursul.wav">Ursul şehri neredeyse özgürlüğene kavuştu!
+
+2
+00:00:05,139 --> 00:00:09,843
+<B sound="Content/SeriousSam2/Sounds/CutSequences/SimbaShaman/Simba_Shaman_But_Now_We_Must.wav">Ama şimdi ise en büyük tehditle yüzleşmeliyiz,
+Kwongo'nun kendisiyle!
+
+3
+00:00:09,877 --> 00:00:12,312
+<B sound="Content/SeriousSam2/Sounds/CutSequences/SimbaShaman/Simba_Shaman_We_Constructed_A_Device.wav">Bir mancınık inşa ettik
+bu onu öldürebilir.
+
+4
+00:00:13,780 --> 00:00:16,250
+<B sound="Content/SeriousSam2/Sounds/CutSequences/SimbaShaman/Simba_Shaman_Protect_Us_While_We.wav">Cephaneyi hazırlarken bizi koru.
+
+5
+00:00:16,251 --> 00:00:17,918
+<B sound="Content/SeriousSam2/Sounds/CutSequences/SimbaShaman/Simba_Shaman_I_Will_Summon_Kwongo.wav">Şimdi Kwongo'yu çağıracağım!
+
+6
+00:00:33,033 --> 00:00:36,003
+<B sound="Content/SeriousSam2/Sounds/CutSequences/SimbaShaman/Simba_Shaman_Hmm_I_Will_Have.wav">Hmm... Tamamen farklı bir şey denemek zorunda kalacağım!
+
+7
+00:01:00,226 --> 00:01:03,997
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Woow_Look_At_The_Size.wav">Vaaaaay be... Şunun büyüklüğüne bakın!

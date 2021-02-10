@@ -1,0 +1,75 @@
+﻿1
+00:00:08,509 --> 00:00:11,478
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Hmm_I_Must_Be.wav">Хмм, у меня что, уже галлюцинации?!
+
+2
+00:00:14,314 --> 00:00:16,349
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Whadda_Hell.wav">Что за?!
+
+3
+00:00:29,763 --> 00:00:32,132
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Five_Million_Kleer_Drahmas.wav">Пять миллионов клирских драхм?
+
+4
+00:00:32,132 --> 00:00:33,766
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Its_A_Ripoff.wav">Это грабеж!
+
+5
+00:00:33,767 --> 00:00:38,538
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_I_Need_To_Have.wav">Думаю, мне стоит кое-что обсудить с этим парнем!
+
+6
+00:00:38,539 --> 00:00:40,673
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Look_I_Dont_Have.wav">Слушай, у меня нет таких денег!
+
+7
+00:00:40,674 --> 00:00:42,541
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Gnaar/Gnaar_Then_You_Can_Go.wav">Тогда можешь идти обратно.
+
+8
+00:00:42,542 --> 00:00:47,213
+<B sound="Content/SeriousSam2/Sounds/CutSequences/People/People_Hurry_Up.wav">Побыстрее!
+
+9
+00:00:43,310 --> 00:00:47,213
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_But_I_Am_Here.wav">Но я здесь для того, чтобы спасти вселенную от Ментала!
+
+10
+00:00:47,214 --> 00:00:48,381
+<B sound="Content/SeriousSam2/Sounds/CutSequences/People/People_Hurry_Up_Man1.wav">Эй, не тормози!
+
+11
+00:00:48,382 --> 00:00:50,983
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Yeah_Just_A_Second.wav">Да-да, секундочку!
+
+12
+00:00:50,984 --> 00:00:53,287
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Gnaar/Gnaar_Sorry_No_Can_Do.wav">Ничем не могу помочь!
+
+13
+00:00:54,121 --> 00:00:55,621
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Pretty_Please.wav">Очень прошу!
+
+14
+00:00:55,622 --> 00:00:56,999
+<B sound="Content/SeriousSam2/Sounds/CutSequences/People/People_You_Are_Holding_Up.wav">Эй ты, там! Ты всех задерживашь!
+
+15
+00:00:57,000 --> 00:01:01,000
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_I_Said_Just_A.wav">Я сказал, секун... Ни хрена себе!
+
+16
+00:01:05,632 --> 00:01:07,633
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Gnaar/Gnaar_No_Money_No_Pass.wav">Нет денег - проваливай. Все просто!
+
+17
+00:01:07,634 --> 00:01:11,671
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Look_I_Really_Dont.wav">Послушай, у меня нет времени, так что...
+
+18
+00:01:11,672 --> 00:01:15,300
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Raise_The_Ramp_And.wav">ПОДНИМИ ШЛАГБАУМ И ГОНИ БАБКИ, МАТЬ ТВОЮ!
+
+19
+00:01:18,211 --> 00:01:21,316
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Hehe_That_Felt_Good.wav">Хе-хе, это было неплохо!

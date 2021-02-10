@@ -1,0 +1,29 @@
+﻿1
+00:00:01,002 --> 00:00:04,002
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Now_Where_Will_I.wav"> И где мне искать этого шамана...
+
+2
+00:00:04,022 --> 00:00:07,006
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Ha_Fountain_Of_Wishes.wav"> Ха! Фонтан желаний!
+
+3
+00:00:07,006 --> 00:00:08,027
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Where_Did_I_Put.wav"> Куда же я задевал эти монетки?..
+
+4
+00:00:09,009 --> 00:00:10,024
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Ah_Here_Is_One.wav"> О... вот! 
+
+5
+00:00:16,700 --> 00:00:18,900
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_I_Wish_I_Wish.wav"> Я хочу... я хочу... 
+
+6
+00:00:19,700 --> 00:00:22,600
+Покажи мне путь к шаману!
+
+7
+00:00:23,800 --> 00:00:26,600
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Hm_Aha_There_He.wav"> Хм.. Ага, вот туда!
+
+

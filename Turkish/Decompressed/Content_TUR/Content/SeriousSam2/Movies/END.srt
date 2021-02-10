@@ -1,0 +1,312 @@
+﻿1
+00:00:05,138 --> 00:00:07,840
+Mütevazi evime hoş geldin.
+
+2
+00:00:07,841 --> 00:00:10,543
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Yeah_Well_I_Am.wav">Evet, peki. Artık buradayım!
+
+3
+00:00:10,544 --> 00:00:13,246
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_We_Shall_Settle_This.wav">Artık buna bir son vereceğiz!
+
+4
+00:00:13,247 --> 00:00:17,817
+Öncelikle bir şeyi bilmen gerek...
+
+5
+00:00:17,818 --> 00:00:19,585
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Yeah_What.wav">Evet? NEDIR?!!
+
+6
+00:00:19,586 --> 00:00:21,454
+Sam... Ben... 
+
+7
+00:00:21,455 --> 00:00:23,500
+...senin.... b...
+
+8
+00:00:25,592 --> 00:00:27,100
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Whatever.wav">Her neyse işte...
+
+10
+00:01:12,339 --> 00:01:13,173
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Whadda_Hell.wav">Buda nesi ?!
+
+11
+00:01:14,274 --> 00:01:15,909
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Aw_Crap.wav">Ah kahretsin!
+
+12
+00:01:17,210 --> 00:01:19,246
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_I_Knew_It_I.wav">Biliyordum! Biliyordum!
+
+13
+00:01:20,247 --> 00:01:23,917
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_I_Am_Going_To.wav">Şu günlerden birinde croteam ile ciddi
+bir konuşma yapmam gerek...
+
+
+14
+00:01:28,508 --> 00:01:31,800
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Guys/Guy1_You_Are_Kidding_Me.wav">Ah, ne, 
+benimle dalga geçiyor olmalısın, değil mi?
+
+
+15
+00:01:31,811 --> 00:01:34,915
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Guys/Guy1_This_Can_Not_Be.wav">Ahh, bu son olamaz!
+
+
+16
+00:01:34,925 --> 00:01:37,249
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Guys/Guy2_Of_Course_It_Is.wav">Peki, err...
+Tabii ki değil, adamım!
+
+17
+00:01:37,250 --> 00:01:39,484
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Guys/Guy3_I_want_To_Fight.wav">Savaşmak istiyorum!!!
+
+18
+00:01:39,485 --> 00:01:41,386
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Guys/Guy4_Me_too.wav">EVET! Ben de!
+
+19
+00:01:41,387 --> 00:01:43,956
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Guys/Guy2_Haha_This_Is_Funny.wav">Ha, ha, ha, bu komikti!
+
+20
+00:01:43,957 --> 00:01:45,791
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Guys/Guy3_Its_Not_Funny_At.wav">HIÇ komik değildi bile!
+
+21
+00:01:45,792 --> 00:01:49,127
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Guys/Guy3_They_Are_Not_Serious.wav">Hey, onlar ciddi değiller...
+değil mi?
+
+22
+00:01:49,128 --> 00:01:52,531
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Guys/Guy2_I_Know_They_Are.wav">Uh, biliyorsun, sadece aklımızla
+oynuyorlar, adamım...
+
+23
+00:01:52,532 --> 00:01:55,167
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Guys/Guy1_Maybe_Its_Really_The.wav">Hey, belki de gerçekten öyledir,
+son, felan...
+
+24
+00:01:55,168 --> 00:01:58,470
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Guys/Guy4_Or_Its_One_Of.wav">...ya da tekrar Croteam'in kötü şakalarından biri...?
+
+25
+00:01:58,471 --> 00:02:02,175
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Guys/Guy5_Hey_Who_Is_Mental.wav">Hey millet, kim bu Mental
+gerçekten?
+
+26
+00:02:02,174 --> 00:02:04,676
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Guys/Guy4_Dont_Know_Nobody_Ever.wav">Bilmiyorum.
+Kimse onu görmedi.
+
+27
+00:02:04,677 --> 00:02:06,611
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Guys/Guy5_Does_He_Even_Exist.wav">O gerçekten var mı, hah?
+
+28
+00:02:06,612 --> 00:02:09,881
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Guys/Guy2_I_Wonder_How_Big.wav">Evet, Ne kadar büyük olduğunu merak ediyorum...
+
+29
+00:02:09,882 --> 00:02:14,152
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Guys/Guy1_I_Would_Bet_That.wav">Ah evet, Ugh-Zan'da daha
+büyük olduğuna bahse girerim...
+
+30
+00:02:14,153 --> 00:02:18,825
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Guys/Guy5_Yeah_He_Is_Probably.wav">Evet, Muhtemelen gezegen Sirius'dan
+bile büyüktür...
+
+31
+00:02:18,823 --> 00:02:20,859
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Guys/Guy1_We_Will_Never_Know.wav">Ah, asla öğrenemeyeceğiz...
+
+32
+00:02:20,860 --> 00:02:22,594
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Guys/Guy3_I_want_To_Fight.wav">SAVAŞMAK Istiyorum!
+
+33
+00:02:23,000 --> 00:02:27,165
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Guys/Guy2_Haha_This_Is_Really.wav">Ha, ha, ha, 
+bu gerçekten komikti, adamım!
+
+34
+00:02:27,166 --> 00:02:28,500
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Guys/Guy3_No_It_Is_Not.wav">Hayır, değildi!
+
+35
+00:02:28,501 --> 00:02:34,473
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Guys/Guy5_Guys_How_Many_Rockets.wav">Millet, dinleyin... Mental'i öldürmek
+için ne kadar roket gerekirdi?
+
+36
+00:02:34,474 --> 00:02:38,443
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Guys/Guy2_I_Guess_More_Than.wav">Sanırım yüzlercesi.
+
+37
+00:02:38,444 --> 00:02:43,348
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Guys/Guy5_With_Hundred_Rockets_you.wav">Yüzlerce roketle diğer oyunlardaki Bossları bile
+öldüremedin.
+
+38
+00:02:43,348 --> 00:02:46,151
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Guys/Guy3_Stupid_Conversation_Cos_He.wav">Pekala, bu aptalca bir karşılaştırmaydı
+çünkü o birdaha görünmeyecek.
+
+39
+00:02:46,152 --> 00:02:50,622
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Guys/Guy2_Ha_Ha_Ha_This.wav">Ha, ha, ha, bu oyunlar tarihindeki en büyük
+boss, adamım!
+
+40
+00:02:50,623 --> 00:02:53,058
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Guys/Guy4_Dude_Do_You_Work.wav">Hey dosyum, Croteam için mi çalışıyorsun?
+
+41
+00:02:53,059 --> 00:02:57,362
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Guys/Guy5_I_Must_Go_To.wav">Dinleyin çocuklar, tuvalete gitmem gerek,
+Umarım burada olmadığım sürede yeniden gözükmez...
+
+42 
+00:02:57,363 --> 00:03:00,165
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Guys/Guy3_He_Wont_Appear_At.wav">Bak, adamım, 
+o hiç gözükmeyecek bile, anladın mı bunu!?!
+
+43
+00:03:00,166 --> 00:03:01,733
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Guys/Guy4_I_Am_Sure_He.wav">Ah, Gözükeceğine eminim.
+
+44
+00:03:01,734 --> 00:03:06,573
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Guys/Guy3_No_Way_You_See.wav">Imkansız be adamım, bak, görüyorsun,
+bu S. O. N...son...SON!
+
+45
+00:03:06,573 --> 00:03:10,842
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Guys/Guy5_I_Am_Back_Did.wav">Taaa-mam, Geri döndüm, 
+Onu biraz yalnız bıraktım, yani...o ortaya çıktı mı?
+
+46
+00:03:10,843 --> 00:03:14,379
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Guys/Guy3_How_Does_It_Look.wav">Sana nasıl görünüyor!
+O ortaya çıktı mı? Ne düşünüyorsun, he?
+
+47
+00:03:14,380 --> 00:03:17,750
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Guys/Guy5_Hey_Maybe_We_Must.wav">Ben tuvaletteyken ne olduğunu biliyorsun,
+aklımda bir ampul parladı.
+
+48
+00:03:17,751 --> 00:03:21,486
+Belki de oyunu Ciddi zorlukta
+bitirmeliyiz?
+
+49
+00:03:21,487 --> 00:03:23,455
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Guys/GuysAll_Yes_That_Must_Be.wav">Evet, öyle olmalı!
+
+50
+00:03:23,456 --> 00:03:25,425
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Guys/Guy4_Damn_I_Could_Never.wav">Ahh...kahretsin,
+Bunu asla yapamam.
+
+51
+00:03:25,426 --> 00:03:27,759
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Guys/Guy3_It_Is_Not_Fair.wav">Ah adamım, bu adil değil.
+
+52
+00:03:27,760 --> 00:03:33,231
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Guys/Guy6_Sorry_Guys_I_Have.wav">Eee, Üzgünüm beyler,
+Oyunu Ciddi modda bitirdim,
+fakat Mental gene de ortalıkta yoktu.
+
+53
+00:03:33,232 --> 00:03:37,803
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Guys/Guy1_I_Never_Saw_More.wav">Bir oyun için kadar aptalca bir
+son görmedim...
+
+54
+00:03:37,804 --> 00:03:40,739
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Guys/Guy2_Maybe_They_Are_Preparing.wav">Tamam, peki, belki de 
+devamını hazırlıyorlardır, adamım?
+
+55
+00:03:40,740 --> 00:03:42,941
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Guys/Guy1_Hey_Maybe_It_Is.wav">Belki de. Bu, tam olarak, bir son değil!
+
+56
+00:03:42,942 --> 00:03:45,977
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Guys/Guy3_Yes_Now_The_Real.wav">Evet, hey, 
+artık gerçek kapışma başladı!
+
+57
+00:03:45,978 --> 00:03:49,015
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Guys/GuysAll_Pheeew_Yooohooo.wav">Vay be, yuuuuhuuuuuuuu,
+HARIKA!
+
+58
+00:03:49,016 --> 00:03:52,520
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Guys/Guy2_Lets_Kick_Some_Ass.wav">Hadi biraz kıç tekmeleyelim, adamım.
+
+59
+00:03:55,153 --> 00:03:58,958
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Guys/GuysAll_Nooooooooo.wav">Aaaa, hayıııır...
+
+60
+00:04:01,494 --> 00:04:05,931
+Işte madalyon!
+
+61
+00:04:05,932 --> 00:04:08,967
+Eee.. ne!?
+
+62
+00:04:08,968 --> 00:04:11,870
+Boşver gitsin,
+bırak onunla ben ilgileneyim.
+
+63
+00:04:12,805 --> 00:04:15,373
+Ah, ne,
+benimle dalga geçiyorsunuz, değil mi?
+
+64
+00:04:15,374 --> 00:04:18,443
+Buda nesi?!?
+
+65
+00:04:18,444 --> 00:04:21,647
+x@$^%!&*|!!
+
+66
+00:04:21,648 --> 00:04:24,082
+Kaçabilirsiniz,
+ama saklanamazsınız!
+
+67
+00:04:24,083 --> 00:04:26,018
+Bunu hiç yaşanmamış saysak olmaz mı?
+
+68
+00:04:26,019 --> 00:04:27,953
+Madalyonu alıp 
+g... sokacağım!!!
+
+69
+00:04:27,954 --> 00:04:29,122
+Ciddi olamazsın?
+
+70
+00:04:29,123 --> 00:04:31,858
+Ah, evet Çok ciddiyim!!!
+

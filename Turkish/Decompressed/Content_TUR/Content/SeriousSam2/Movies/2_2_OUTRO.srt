@@ -1,0 +1,17 @@
+﻿1
+00:00:04,959 --> 00:00:07,728
+Yardım edin, yardım edin, yardım edin...
+
+2
+00:00:09,124 --> 00:00:10,998
+...yardım edin, yardım edin, yardım edin...
+
+3
+00:00:12,059 --> 00:00:14,603
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Netricsa/Netricsa_Help_Him_Sam.wav">Yardım et ona Sam!
+
+4
+00:00:15,000 --> 00:00:19,664
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Help_Help_Help.wav">...YARDIM EDIN,YARDIM EDIN,YARDIM EDIN...
+
+

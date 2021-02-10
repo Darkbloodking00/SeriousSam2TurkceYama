@@ -1,0 +1,50 @@
+﻿1
+00:00:21,388 --> 00:00:23,524
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Hi_We_Need_To_Talk.wav">Merhaba...konuşmamız gerek.
+
+2
+00:00:24,524 --> 00:00:28,562
+<B sound="Content/SeriousSam2/Sounds/CutSequences/ZixieChief/Zixie_Chief_I_Know_Stranger_Please.wav">Biliyorum yabancı...lütfen bizimle gel.
+
+3
+00:00:30,664 --> 00:00:33,666
+<B sound="Content/SeriousSam2/Sounds/CutSequences/ZixieChief/Zixie_Chief_As_You_Can_See.wav">Gördüğün gibi, biz çok barışçıl bir kabileyiz.
+
+4
+00:00:33,667 --> 00:00:40,407
+<B sound="Content/SeriousSam2/Sounds/CutSequences/ZixieChief/Zixie_Chief_For_Many_Years_We.wav">Yıllarca şehrimizde mutlu bir şekilde yaşadık, ta ki ... 
+Büyük Konsey Madalyonu korumamız için bizi görevlendirene kadar.
+
+5
+00:00:40,507 --> 00:00:46,500
+<B sound="Content/SeriousSam2/Sounds/CutSequences/ZixieChief/Zixie_Chief_Since_Then_Mentals_Troops.wav">O zamandan beri, Mental'in birlikleri
+Branchester'ı bulmaya çalışıyor, ama başarılı olamadılar.
+
+6
+00:00:46,747 --> 00:00:51,450
+<B sound="Content/SeriousSam2/Sounds/CutSequences/ZixieChief/Zixie_Chief_As_A_Matter_Of.wav">Doğrusu, Mental'in bizi bulması,
+milyonda bir bi' olasılık
+
+7
+00:00:51,451 --> 00:00:53,889
+<B sound="Content/SeriousSam2/Sounds/CutSequences/ZixieChief/Zixie_Chief_We_Are_Simply_Too.wav">Biz basitçe çok iyi gizlendik.
+
+8
+00:00:53,889 --> 00:00:54,700
+Bizi ASLA bulamayacaklar!
+
+9
+00:00:55,100 --> 00:00:56,300
+ASLA!
+
+10
+00:00:56,623 --> 00:00:59,525
+<B sound="Content/SeriousSam2/Sounds/Ambient/Kronor/Voice_IntruderAlert.wav">Uyarı! Davetsiz misafir alarmı!
+
+11
+00:00:59,526 --> 00:01:01,828
+<B sound="Content/SeriousSam2/Sounds/CutSequences/ZixieChief/Zixie_Chief_Oh_My_God_They.wav">Aman Tanrım, bizi buldular!
+
+12
+00:01:01,962 --> 00:01:04,865
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Damn_They_Must_Have.wav">Kahretsin, beni takip etmiş olmalılar!

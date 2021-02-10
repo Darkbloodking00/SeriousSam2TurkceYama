@@ -1,0 +1,37 @@
+﻿1
+00:00:15,749 --> 00:00:20,487
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Gnaar/Gnaar_Kleer_Line01.wav">Ve şimdi, gösterimizde bir ilk olarak,
+karşınızda... M.G. Kleerofski!
+
+2
+00:00:20,488 --> 00:00:24,758
+Normal büyüklüğünün BEŞ KATINA
+çıkmayı deneyecek. Hadi görelim bakalım ...
+
+3
+00:00:33,867 --> 00:00:37,671
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Gnaar/Gnaar_Kleer_Line02.wav">Peki, onu denerken suçlayamazsınız!
+Başka bir deneme daha yapacak!
+
+4
+00:00:37,672 --> 00:00:42,000
+Onu yeraltı dünyasının güçlerini
+çağırırken ve salarken izleyin, ortaya çıkartmak için ...
+
+5
+00:00:51,218 --> 00:00:55,422
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Gnaar/Gnaar_Kleer_Line03.wav">Canlı tavşanlar mı!? Pekala, bu etkileyiciydi,
+burasını yaşayan ölülerin gezegeni olarak göze alırsak.  
+
+6
+00:00:55,423 --> 00:00:58,458
+Tamam, büyük Kleerofski bir deneme daha yapacak ...
+
+7
+00:00:58,459 --> 00:01:00,000
+Sessizlik lütfen!
+
+8
+00:01:07,200 --> 00:01:10,600
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Gnaar/Gnaar_Kleer_Line04.wav">Ve başardı! Ona güzelinden
+bir alkış alalım, beyfendiler.

@@ -1,0 +1,18 @@
+﻿1
+00:00:01,952 --> 00:00:05,990
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Gnaar/Gnaar_Sirius.wav">Merhaba, ben George B. Gnaar, canlı olarak
+25. Otoyol'a yakın bir yerdeki bir kazayı rapor ediyorum...
+
+2
+00:00:05,990 --> 00:00:11,800
+Görünüşe göre tanımlanamayan uçan nesne liderimiz,
+Bay Mental'in paha biçilemez anıtına çarptı!
+
+3
+00:00:11,990 --> 00:00:14,299
+Yetkililer hala olayı araştırıyor...
+
+4
+00:00:14,300 --> 00:00:16,854
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Ha_That_Should_Keep_Them.wav">HEH! Bu onları bir süre meşgul etmeli!
+

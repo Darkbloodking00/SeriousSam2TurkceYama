@@ -1,0 +1,8 @@
+﻿1
+00:00:07,720 --> 00:00:10,600
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_This_Is_My_Lucky.wav">Şanslı günümdeyim!
+
+2
+00:00:15,480 --> 00:00:19,120
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Now_This_Baby_Should.wav">Şimdi, bu bebek bir şeyleri hareketlendirmeli.
+

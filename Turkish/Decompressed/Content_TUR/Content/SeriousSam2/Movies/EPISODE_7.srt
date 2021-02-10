@@ -1,0 +1,108 @@
+﻿1
+00:00:17,517 --> 00:00:20,187
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode07/Sam/Sam_It_Is_The_Moment.wav">Hepimizin beklediği an geldi.
+
+2
+00:00:20,188 --> 00:00:25,124
+Düşmandan sonsuza kadar kurtulmanın
+zamanı geldi! Hazır mısınız?
+
+3
+00:00:25,125 --> 00:00:27,093
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode07/Npc/Pilot_Ready1.wav">Hazırız!
+
+4
+00:00:25,726 --> 00:00:26,559
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode07/Npc/Pilot_Acknowledged.wav"> Anlaşıldı!
+
+5
+00:00:26,560 --> 00:00:27,093
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode07/Npc/Pilot_Check.wav"> Kontrol!
+
+6
+00:00:27,094 --> 00:00:29,095
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode07/Npc/Pilot_Affirmative.wav">Olumlu!
+
+7
+00:00:27,761 --> 00:00:28,427
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode07/Npc/Pilot_Roger1.wav">Anlaşıldı!
+
+8
+00:00:28,428 --> 00:00:29,095
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode07/Npc/Pilot_Rabbit.wav">Tavşan!
+
+9
+00:00:29,096 --> 00:00:30,600
+2 saat sonra
+
+10
+00:00:30,964 --> 00:00:33,100
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode07/Npc/Pilot_Roger2.wav">Anlaşıldı!
+
+11
+00:00:31,732 --> 00:00:33,100
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode07/Npc/Pilot_Ready2.wav">Hazırız!
+
+12
+00:00:33,467 --> 00:00:37,100
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode07/Sam/Sam_We_Are_Going_In.wav">Içeri gidiyoruz... Beni izleyin!
+
+13
+00:00:51,551 --> 00:00:55,600
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode07/Npc/Pilot_Oh_My_God_The.wav">Aman Tanrım, top gücünü kaybediyor!
+
+14
+00:01:01,395 --> 00:01:04,731
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode07/Wizards/Wizard2_Line01_He_Failed_And_I.wav">Başarısz oldu! Ve size güvenmiştim çocuklar!
+
+15
+00:01:04,998 --> 00:01:07,967
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode07/Wizards/Wizard1_Line01_He_Is_Still_Very.wav">O hala taş gibi, öyle değil mi?
+
+16
+00:01:07,968 --> 00:01:12,872
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode07/Wizards/Wizard2_Line02_He_Is_All_Alone.wav">O düşman bölgesinde tek başına! 
+Hiç şansı bile yok!
+
+17
+00:01:12,873 --> 00:01:17,009
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode07/Wizards/Wizard1_Line02_Remember_Who_Are_You.wav">Kimin hakkında konuştuğunu hatırla. O sıradan bir
+insan değil. O çok özel.
+
+18
+00:01:17,010 --> 00:01:21,013
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode07/Wizards/Wizard2_Line03_So_When_I_Was.wav">Yani? Bana da küçükken özel olduğum söylenmişti!!!
+
+19
+00:01:21,014 --> 00:01:22,480
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode07/Wizards/Wizard_Woman_Line01_Stop_This_Is_No.wav">Kesin şunu!!!
+
+20
+00:01:22,481 --> 00:01:27,553
+Tartışacak zamanımız yok, bunu sonra yapabilirsiniz. 
+TABII 'sonrası' olursa.
+
+21
+00:01:27,554 --> 00:01:31,992
+O hala bizim son umudumuz. Eğer o
+başaramazsa hepimiz mahvoluruz!
+
+22
+00:01:31,993 --> 00:01:34,800
+Ona şu anda ne olduğunu merak ediyorum...
+
+23
+00:01:51,945 --> 00:01:54,600
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode07/Sam/Sam_Lets_Rock_And_Roll.wav">Hadi koçum benim be!
+
+24
+00:01:57,818 --> 00:02:00,700
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode07/Sam/Sam_Yeehaw.wav">Yiiiiiiihavv!!!!!
+
+25
+00:02:04,658 --> 00:02:07,600
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode07/Sam/Sam_Oh_Boy_Oh_Boy.wav">Amanın, amanın, bir kez daha!!
+
+26
+00:02:20,440 --> 00:02:21,700
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode07/Sam/Sam_Crap.wav">Kahretsin!

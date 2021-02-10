@@ -1,0 +1,3 @@
+﻿O, Sam'in asla istemediği veya beklemediği kız kardeşidir. Alışılmadık derecede güçlü bir şekilde, kardeşi kadar iyi şeyler yapmayı başarmıştı. Fakat o kadar iyi değil.
+Sam'in gölgesinde yaşamak onun her şeyiydi, Sammy, tanınma ve itibar için mücadele etti. Sam time lock'a girmek için hazırlandıktan sonra, Sammy küçük elleriyle büyük işler yapmaya karar verdi. Savaşta Sam'i sonuna kadar geçmenin son şansını veren bir yedek kuvvetler ekibine katıldı. 
+"Bana Bebek-Pastaları DEME" genellikle ondan duyabileceğiniz bir şey.

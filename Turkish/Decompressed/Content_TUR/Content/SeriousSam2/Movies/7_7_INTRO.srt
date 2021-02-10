@@ -1,0 +1,7 @@
+﻿1
+00:00:06,473 --> 00:00:08,564
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_No_Wait_I_Can.wav">Hayır! Bekle! Açıklayabilirim!
+
+2
+00:00:10,777 --> 00:00:12,903
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Gnaar/Gnaar_Next_Time_Buy_Ticket.wav">Bir dahaki sefere bilet al!

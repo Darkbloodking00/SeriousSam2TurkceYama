@@ -1,0 +1,50 @@
+﻿1
+00:00:21,388 --> 00:00:23,524
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Hi_We_Need_To_Talk.wav">Привет... есть разговор!
+
+2
+00:00:24,524 --> 00:00:28,562
+<B sound="Content/SeriousSam2/Sounds/CutSequences/ZixieChief/Zixie_Chief_I_Know_Stranger_Please.wav">Я знаю, путник... идем с нами.
+
+3
+00:00:30,664 --> 00:00:33,666
+<B sound="Content/SeriousSam2/Sounds/CutSequences/ZixieChief/Zixie_Chief_As_You_Can_See.wav">Как видишь, мы очень мирное племя.
+
+4
+00:00:33,667 --> 00:00:40,407
+<B sound="Content/SeriousSam2/Sounds/CutSequences/ZixieChief/Zixie_Chief_For_Many_Years_We.wav">Мы безбедно жили в нашем городе,
+пока Великий Совет не поручил нам охранять Медальон.
+
+5
+00:00:40,507 --> 00:00:46,500
+<B sound="Content/SeriousSam2/Sounds/CutSequences/ZixieChief/Zixie_Chief_Since_Then_Mentals_Troops.wav">С тех пор войска Ментала пытаются
+найти Ветвецию, но безуспешно.
+
+6
+00:00:46,747 --> 00:00:51,450
+<B sound="Content/SeriousSam2/Sounds/CutSequences/ZixieChief/Zixie_Chief_As_A_Matter_Of.wav">К счастью, у Ментала не больше
+одного шанса из миллиона нас найти.
+
+7
+00:00:51,451 --> 00:00:53,889
+<B sound="Content/SeriousSam2/Sounds/CutSequences/ZixieChief/Zixie_Chief_We_Are_Simply_Too.wav">Мы хорошо спрятались.
+
+8
+00:00:53,889 --> 00:00:54,700
+Они не найдут нас!
+
+9
+00:00:55,100 --> 00:00:56,300
+НИКОГДА!
+
+10
+00:00:56,623 --> 00:00:59,525
+<B sound="Content/SeriousSam2/Sounds/Ambient/Kronor/Voice_IntruderAlert.wav">Тревога! Обнаружен противник!
+
+11
+00:00:59,526 --> 00:01:01,828
+<B sound="Content/SeriousSam2/Sounds/CutSequences/ZixieChief/Zixie_Chief_Oh_My_God_They.wav">Ой!.. Они нас нашли!
+
+12
+00:01:01,962 --> 00:01:04,865
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Damn_They_Must_Have.wav">Черт, похоже, они следили за мной!

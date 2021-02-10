@@ -1,0 +1,2 @@
+﻿Tamam, artık Branchester'ın "Endüstri" alanındayız. Yolun sonunda madalyo'nun ikinci parçası'nın olduğu seremoni platosu uzanıyor.
+Muhtemelen Mental'in birlikleri de bunu biliyor, yani elimizi çabuk tutmalı ve madalyonu onlardan önce almalıyız. Ah, ve ayrıca Zum Zum tiksinci konusunda dikkatli ol. O şey beni gerçekten rahatsız ediyor. Neredeyse varlığını hissedebiliyorum.

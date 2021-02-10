@@ -1,0 +1,41 @@
+﻿1
+00:00:11,545 --> 00:00:17,000
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Come_Out_Come_Out.wav">Э-эй, выходи, у меня для тебя кое-что есть!
+
+2
+00:00:17,951 --> 00:00:18,885
+<B sound="Content/SeriousSam2/Sounds/CutSequences/PrinceChan/Chan_No1.wav">Нет!
+
+3
+00:00:18,952 --> 00:00:25,691
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_These_Lollies_Crave_To.wav">Ну же, ты только посмотри на эти вкусные леденцы...
+... ммм, какие сладкие... ням-ням!
+
+4
+00:00:25,692 --> 00:00:26,959
+<B sound="Content/SeriousSam2/Sounds/CutSequences/PrinceChan/Chan_No2.wav">Нет!
+
+5
+00:00:27,094 --> 00:00:29,000
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Ok_That_Does_It.wav">Ладно, ты меня вынудил!
+
+6
+00:00:37,538 --> 00:00:41,400
+<B sound="Content/SeriousSam2/Sounds/CutSequences/PrinceChan/Chan_Nooooo.wav">Нееееееееееееееет!
+
+7
+00:00:43,644 --> 00:00:45,711
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_See_What_You_Made.wav">Видишь, что ты заставил меня сделать?
+
+8
+00:00:45,712 --> 00:00:48,800
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Now_Come_Out_Or.wav">А теперь выходи, или он покойник!
+
+9
+00:00:49,149 --> 00:00:51,000
+<B sound="Content/SeriousSam2/Sounds/CutSequences/PrinceChan/Chan_Okay.wav">Хорошо.
+
+10
+00:00:54,121 --> 00:01:01,800
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Whoa_You_Could_Be.wav">Ого, да ты прямо с планету размером.
+И штанишки небось поясом астероидов поддерживаешь.

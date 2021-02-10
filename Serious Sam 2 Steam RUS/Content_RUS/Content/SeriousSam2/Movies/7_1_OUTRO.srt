@@ -1,0 +1,12 @@
+﻿1
+00:00:15,214 --> 00:00:17,000
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Damn_Come_On.wav">Черт!
+
+2
+00:00:17,000 --> 00:00:18,972
+Ну давай!
+
+3
+00:00:22,300 --> 00:00:24,500
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Say_Hello_To_Papa.wav">Скажи папочке ''привет''!
+

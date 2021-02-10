@@ -1,0 +1,76 @@
+﻿1
+00:00:00,734 --> 00:00:03,369
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Gnaar/Gnaar_Arenas_Line01.wav">Ben George B. Gnaar, GNN CANLI YAYIN.
+
+2
+00:00:03,370 --> 00:00:06,138
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Gnaar/Gnaar_Arenas_Line02.wav">Bu programı son dakika haberleri nedeniyle
+kesmek zorunda kaldık.
+
+3
+00:00:06,139 --> 00:00:09,742
+Müttefik yandaşı çaylaklar kıymetli kalkanımızı
+yardılar ve şehri işgal ettiler.
+
+4
+00:00:09,743 --> 00:00:13,212
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Gnaar/Gnaar_Arenas_Line03.wav">Fakat, panik yapmaya gerek yok,
+birliklerimiz hazırlıklılar.
+
+5
+00:00:13,213 --> 00:00:15,982
+Gördüğünüz gibi düşmanları tamamen yok ediyorlar...
+
+6
+00:00:15,983 --> 00:00:18,150
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Gnaar/Gnaar_Arenas_Line04.wav">...eee, muhtemelen yakında göreceğiz.
+
+7
+00:00:18,151 --> 00:00:20,353
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Gnaar/Gnaar_Arenas_Line05.wav">Önemli olan şey sakin kalmak.
+
+8
+00:00:20,354 --> 00:00:23,900
+Bay Mental bu konuyla ilgileneceğini
+şahsen temin ediyor.
+
+9
+00:00:24,558 --> 00:00:27,461
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Gnaar/Gnaar_Arenas_Line06.wav">Aman Tanrım, müttefik gemilerinden biri
+arenaya iniş yapıyor!
+
+10
+00:00:27,462 --> 00:00:30,463
+Görünüşe göre şu yakaladığımız kahraman bozuntusunu
+kurtarmak için buradalar!
+
+11
+00:00:30,464 --> 00:00:33,500
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Gnaar/Gnaar_Arenas_Line07.wav">Aman Tanrım, bu barbarlar
+her şeyi mahvediyorlar.
+
+12
+00:00:33,501 --> 00:00:36,435
+Düşman birliklerinin şehir boyunca yerlerini aldıklarını
+rapor ediyoruz.
+
+13
+00:00:36,436 --> 00:00:40,173
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Gnaar/Gnaar_Arenas_Line08.wav">Ve ekranlarınızda gördüğünüz gibi,
+Dünyalı kaçmayı planlamış.
+
+14
+00:00:40,178 --> 00:00:44,510
+Endişelenmeyin, Hava savunmamız hazırda bekliyor,
+ve onu gördükleri an ateş açacaklar.
+
+15
+00:00:44,511 --> 00:00:47,246
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Gnaar/Gnaar_Arenas_Line09.wav">Size anında en güncel haberleri
+aktaracağız.
+
+16
+00:00:47,247 --> 00:00:51,000
+George B. Gnaar,
+Siriusopolis Arenaları - CANLI.
+

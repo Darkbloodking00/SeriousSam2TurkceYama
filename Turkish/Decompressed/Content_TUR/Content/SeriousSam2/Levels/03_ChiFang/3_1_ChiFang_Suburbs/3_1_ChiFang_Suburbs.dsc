@@ -1,0 +1,3 @@
+﻿Hey, burası çok hoş görünüyor. Ve seni bir gülümseme ile karşıladılar. Tipik bir şekilde.
+Her neyse, Rolando, bugün Prens Chan'in doğum gününü kutlayacağını ve onun adalyonu yediğini söyledi. Sanırım senin Chan'e ne yapman gerektiğini söylememe gerek yok.
+O Lunapark'tan hemen sonraki yer olan şehrin ana meydanı'nda. Parkın ana kapılarına ulaşmalıyız. Içeriye girdiğimiz zaman istediğin gibi eğlenebilirsin.

@@ -1,0 +1,11 @@
+﻿1
+00:00:11,945 --> 00:00:16,216
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Oh_Boy_I_Have.wav">Отлично! Всегда хотел покататься на такой штуке.
+
+2
+00:00:16,650 --> 00:00:18,646
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Damn.wav">Черт!
+
+3
+00:00:21,521 --> 00:00:23,310
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_What_Is_This.wav">А это что такое? 

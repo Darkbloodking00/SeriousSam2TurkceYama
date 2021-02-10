@@ -1,0 +1,8 @@
+﻿1
+00:00:04,557 --> 00:00:06,689
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Now_That_Was_A.wav">Işte bu tam bir çocuk oyuncağıydı.
+
+2
+00:00:10,000 --> 00:00:12,876
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_I_Can_Almost_Feel.wav">O madalyonu neredeyse ellerimde hissedebiliyorum.
+

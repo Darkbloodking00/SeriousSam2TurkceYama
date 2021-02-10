@@ -1,0 +1,27 @@
+﻿0
+00:00:07,140 --> 00:00:09,000
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Hmmm.wav">Hmmm...
+
+1
+00:00:14,882 --> 00:00:20,486
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Bosses_R_Us_I.wav">Bosses 'R' Us mı ?
+Bir adet boss sipariş etmek istiyorum...
+
+2
+00:00:20,487 --> 00:00:23,200
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Yeah_Put_It_On.wav">Evet, ücreti sadece kredi kartımdan alın!
+3
+00:00:24,558 --> 00:00:27,300
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Now_All_I_Have.wav">Şimdi, tek yapmam gereken beklemek!
+
+4
+00:00:27,661 --> 00:00:34,333
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Hmmm_Strange_Buzzing_Weird.wav">Hmmmm...garip bir uğultu...garip yaprak kokusu...
+
+5
+00:00:34,334 --> 00:00:37,037
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_It_Is_Zum_Zum.wav">Bu...ZUMZUM!!!!
+
+6
+00:00:42,175 --> 00:00:44,000
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Incoming.wav">GELIYOR ! ! !

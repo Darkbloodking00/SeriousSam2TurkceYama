@@ -1,0 +1,107 @@
+﻿1
+00:00:18,051 --> 00:00:20,653
+О, папочка, спасибо тебе за такой 
+прекрасный праздник. 
+
+2
+00:00:20,654 --> 00:00:24,000
+Как бы я хотела, чтобы это мгновение 
+никогда не кончалось...
+
+3
+00:00:40,509 --> 00:00:45,000
+<B sound="Content/SeriousSam2/Sounds/CutSequences/King/King_No_Stop_Him.wav">Нееет! Остановите его!
+
+5
+00:00:46,146 --> 00:00:48,000
+<B sound="Content/SeriousSam2/Sounds/CutSequences/King/King_Princess_Noo.wav">Принцесса, неееет! 
+
+6
+00:00:55,522 --> 00:00:59,725
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_It_Was_A_Perfect_Sunday.wav">Было прекрасное утро, но
+в воздухе пахло неприятностями...
+
+7
+00:00:59,726 --> 00:01:02,860
+Что-то мне подсказывало, что это 
+будет не лучший день в моей жизни. 
+
+8
+00:01:02,996 --> 00:01:06,300
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_They_Wanted_To_See.wav">Одно было ясно - они 
+хотели видеть МЕНЯ.
+
+9
+00:01:06,500 --> 00:01:10,603
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_It_Had_Something_To.wav">Что-то по поводу пропавшей принцессы...
+В общем, как обычно.
+
+10
+00:01:10,604 --> 00:01:13,407
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Suspicios_Faces_Stared_At.wav">Куда я ни оборачивался, отовсюду на меня 
+глядели подозрительные лица...
+
+11
+00:01:13,408 --> 00:01:15,141
+...из каждого угла...  
+
+12
+00:01:15,142 --> 00:01:18,000
+...ну что ж, я решил играть по правилам.
+
+13
+00:01:19,846 --> 00:01:21,782
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Was_It_The_Groom.wav">Может быть, это сделал жених?..  
+
+14
+00:01:22,082 --> 00:01:26,888
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_The_Bloke_Looked_Suspicios.wav">Подозрительным было уже то, как он тут стоял... 
+тихий... почти радостный. 
+
+15
+00:01:27,821 --> 00:01:30,157
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Or_The_King.wav">Или все-таки... Король?  
+
+16
+00:01:30,223 --> 00:01:33,360
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Hiding_His_True_Intentions.wav">Скрывающий свои истинные намерения
+за большими очками...  
+
+17
+00:01:33,361 --> 00:01:37,130
+с неподвижным лицом, словно
+высеченным из камня. 
+
+18
+00:01:38,899 --> 00:01:41,034
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Or_The_Queen.wav">Или Королева? 
+
+19
+00:01:43,370 --> 00:01:50,000
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Nah_It_Definately_Was_Not.wav">Нет, это точно не она... хотя не помешало бы
+присмотреться к ней поближе. 
+
+20
+00:01:50,344 --> 00:01:54,781
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Apparently_The_Princess_Had.wav">Очевидно, принцессу похитили и они
+хотели, чтобы я ее спас. 
+
+21
+00:01:54,915 --> 00:01:59,000
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_They_Were_Also_Very.wav">И они были очень убедительны  
+в своей настойчивости. 
+
+22
+00:01:59,353 --> 00:02:01,253
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_I_Decided_To_Take.wav">Я решил взяться за это дело. 
+
+23
+00:02:01,254 --> 00:02:04,991
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Hell_If_The_Princess.wav">Если принцесса хоть вполовину
+так же хороша, как ее мать,
+
+24
+00:02:04,992 --> 00:02:08,550
+день может все же оказаться неплохим...
+если вы понимаете, о чем я!
+

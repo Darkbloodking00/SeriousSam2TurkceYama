@@ -1,0 +1,24 @@
+﻿23
+Sam2Installer.ProductNameLong=Serious Sam 2
+Sam2Installer.GameShortcut=Serious Sam 2
+Sam2Installer.EditorShortcut=Serious Editor 2
+Sam2Installer.WebShortcuts= Serious Sam icin ayrilmis web siteleri
+Sam2Installer.DlgAdditional.Label=<Product NameLong> icin ek görevler secin.
+Sam2Installer.DlgAdditional.Choice0='Baslat' menusunde simgeler olusturun
+Sam2Installer.DlgAdditional.Choice1=Masaustu simgeleri olustur
+Sam2Installer.Shortcut00.Description= 
+Sam2Installer.Shortcut01.Description=Tum zamanlarin en ciddi oyunu
+Sam2Installer.Shortcut02.Name=Benioku dosyasini goruntuleyin
+Sam2Installer.Shortcut03.Name=GameSpy Arcade'yi kullanarak ag uzerinden <ProductNameLong> oyna
+Sam2Installer.Shortcut03.LinkFile=<StartPrograms>/<ProductNameLong>/<Shortcut03.Name>.url
+Sam2Installer.Shortcut20.Name=Croteam
+Sam2Installer.Shortcut21.Name=Serious Sam 2
+Sam2Installer.Shortcut22.Name=Forum Serious Sam 
+Sam2Installer.Shortcut23.Name=Serious Zone
+Sam2Installer.Shortcut50.Description=Tum zamanlarin en ciddi oyunu
+Sam2Installer.ServerShortcut=Adanmis Sunucu 
+Sam2Installer.Shortcut04.ExtraName=Guvenli Mod
+Sam2Installer.Shortcut05.Name=Sorunlarin cozulmesi <ProductNameLong>
+Sam2Installer.Shortcut06.Description=Serious Sam 2 Adanmis Sunucu.
+Sam2Installer.Shortcut07.Description=Serious Sam 2 Adanmis Sunucu icin Beniokuyun
+Sam2Installer.Shortcut07.Name=Serious Sam 2 Adanmis Sunucu icin Beniokuyun.

@@ -1,0 +1,197 @@
+﻿1
+00:00:03,570 --> 00:00:07,540
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode01/Wizards/Wizard1_Line01_How_many_times.wav">Сколько раз тебе повторять...
+Он - избранный!
+
+2
+00:00:07,541 --> 00:00:11,879
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode01/Wizards/Wizard2_Line01_If_that_is_our_last_hope.wav">Если вот это наша последняя надежда,
+думаю, мы никогда не избавимся от Ментала.
+
+3
+00:00:11,880 --> 00:00:17,250
+Разве кто-нибудь в своем уме скажет,
+что этот человек может спасти вселенную?
+
+4
+00:00:17,251 --> 00:00:24,258
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode01/Wizards/Wizard1_Line02_Well_It_Is_Written.wav">Но ведь было сказано, что чужак из
+далекой-далекой галактики придет
+и спасет нас от грядущего зла.
+
+5
+00:00:24,259 --> 00:00:26,525
+А зло уже пришло...
+
+6
+00:00:26,526 --> 00:00:29,595
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode01/Wizards/Wizard2_Line02_Was_Is_Also_Written.wav">А там было написано, что
+чужак будет носить красные кеды?
+
+7
+00:00:29,596 --> 00:00:32,632
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode01/Wizards/Wizard1_Line03_What_Do_You_Have.wav">А что ты имеешь против кед?!
+Ты вообще носил розовый костюм с желтыми...
+
+8
+00:00:32,633 --> 00:00:36,202
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode01/Wizards/Wizard2_Line03_Yes_Yes_And_You.wav">Да, да, да... А ты со
+своими нелепыми...
+
+9
+00:00:36,203 --> 00:00:38,939
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode01/Wizards/Wizard_Woman_Line02_Guys_Guys_Stop.wav">Мальчики, мальчики, прекратите!!!
+
+10
+00:00:39,907 --> 00:00:44,310
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode01/Wizards/Wizard_Woman_Line03_Lets_not_forget.wav">Давайте не забывать, зачем мы здесь.
+Мы должны с ним связаться, немедленно.
+
+11
+00:00:44,311 --> 00:00:46,713
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode01/Wizards/Wizard_Woman_Line01_Concentrate_Boys.wav">Сконцентрируйтесь, мальчики.
+
+12
+00:00:53,720 --> 00:00:58,258
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode01/Sam/Sam_You_Have_Exactly_5.wav">У вас ровно пять секунд, чтобы
+объяснить, что я тут делаю.
+
+13
+00:00:58,259 --> 00:01:01,294
+И две уже прошли...
+
+14
+00:01:01,295 --> 00:01:05,231
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode01/Wizards/Wizard_Woman_Line04_Please_mr_stone.wav">Пожалуйста, мистер Стоун, успокойтесь.
+Мы можем помочь вам.
+
+15
+00:01:05,232 --> 00:01:10,469
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode01/Wizards/Wizard_Woman_Line05_My_Name_Is.wav">Мое имя Роланда, а это мои братья,
+Джебедия и Раджив.
+
+16
+00:01:10,470 --> 00:01:13,406
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode01/Sam/Sam_I_Am_Sam_Serious.wav">А я Сэм. Серьезный Сэм.
+
+17
+00:01:13,407 --> 00:01:20,250
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode01/Wizards/Wizard_Woman_Line06_We_Are_The_Sirian.wav">Мы - Великий Совет Сириуса, и мы хотим
+показать тебе, как остановить Ментала. Смотри...
+
+18
+00:01:21,515 --> 00:01:27,486
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode01/Wizards/Wizard_Woman_Line07_This_is_medallion.wav">Это Медальон Силы... единственная вещь,
+которая может сделать Ментала уязвимым.
+
+19
+00:01:27,487 --> 00:01:36,362
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode01/Wizards/Wizard_Woman_Line08_It_was_forged.wav">Он был выкован слепым кузнецом Громлином,
+и мы, мудрецы и маги, зачаровали его согласно
+инструкциям из нашего Святого Руководства (2 переиздание).
+
+20
+00:01:36,363 --> 00:01:42,000
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode01/Wizards/Wizard_Woman_Line09_It_was_split.wav">Медальон был разделен на 5 частей, и
+эти части были розданы 5 расам...
+
+21
+00:01:42,069 --> 00:01:44,403
+Симбам с планеты М'Дигбо...
+
+22
+00:01:44,404 --> 00:01:46,907
+...Чи-че с планеты Чи Фан...
+
+23
+00:01:46,910 --> 00:01:49,242
+...Зикси с планеты Магнор...
+
+24
+00:01:49,243 --> 00:01:51,544
+...Клирам с планеты Клир...
+
+25
+00:01:51,545 --> 00:01:54,313
+...и эльфисам с планеты Эленьер!
+
+26
+00:01:54,314 --> 00:01:59,852
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode01/Wizards/Wizard2_Line04_But_that_simply.wav">Но этого оказалось недостаточно!
+Вскоре Ментал завладел всеми частями Медальона.
+
+27
+00:01:59,853 --> 00:02:05,391
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode01/Wizards/Wizard1_Line04_Thankfully_those_pieces.wav">К счастью, части оказались неуничтожимыми,
+так что Менталу остается лишь охранять их.
+
+28
+00:02:05,392 --> 00:02:13,165
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode01/Wizards/Wizard2_Line05_When_All_Five_Pieces.wav">Когда все пять частей воссоединятся, медальон
+выпустит заключенную в нем силу
+и сделает Ментала уязвимым!
+
+29
+00:02:13,166 --> 00:02:18,471
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode01/Wizards/Wizard_Woman_Line10_Your_task_is_to_go.wav">Твоя задача - направиться на планету М'Дигбо
+и добыть первую часть!
+
+30
+00:02:18,572 --> 00:02:22,308
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode01/Wizards/Wizard1_Line05_And_If_You_Bring.wav">И если ты принесешь эту часть, то ты...
+
+31
+00:02:22,309 --> 00:02:24,309
+...ИЗБРАННЫЙ!!!
+
+32
+00:02:25,178 --> 00:02:27,000
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode01/Sam/Sam_The_One.wav">Ээээ... избранный?
+
+33
+00:02:27,714 --> 00:02:31,584
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode01/Wizards/Wizard1_Line06_The_One_Our_Holy.wav">Тот, о ком упоминается в
+нашем Святом Руководстве (2 переиздание).
+
+34
+00:02:31,585 --> 00:02:34,920
+Тот который спасет вселенную.
+
+35
+00:02:32,866 --> 00:02:34,920
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode01/Wizards/Wizard2_Line06_Yeah_Right.wav">Да, точно!
+
+36
+00:02:34,921 --> 00:02:36,423
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode01/Wizards/Wizard_Woman_Line11_Well_you_should_go.wav">Тебе нужно идти.
+
+37
+00:02:36,424 --> 00:02:40,893
+Мы свяжемся с тобой,
+как только ты закончишь...
+
+38
+00:02:38,125 --> 00:02:40,893
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode01/Wizards/Wizard2_Line07_If_You_finish.wav">ЕСЛИ ты закончишь свое задание!
+
+39
+00:02:40,894 --> 00:02:42,194
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode01/Wizards/Wizard_Woman_Line12_Shhh.wav">Тссссс...
+
+40
+00:02:42,195 --> 00:02:47,001
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode01/Sam/Sam_No_One_Is_Gonna.wav">Думаете, кто-то в это поверит? Ну ладно...
+
+41
+00:02:57,711 --> 00:03:00,001
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Aaaargh.wav">ААААААААААА!
+
+42
+00:03:19,766 --> 00:03:23,001
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Aaaaaaaa.wav">АААА!
+
+43
+00:03:24,604 --> 00:03:26,000
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode07/Sam/Sam_Crap.wav">Черт!
+
+

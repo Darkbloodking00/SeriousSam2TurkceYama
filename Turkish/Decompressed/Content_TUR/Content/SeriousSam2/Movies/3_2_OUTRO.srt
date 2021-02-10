@@ -1,0 +1,105 @@
+﻿1
+00:00:03,203 --> 00:00:08,407
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Gnaar/Gnaar_Chifang_Line01.wav">Merhabalar, ben George B. Gnaar, rapor veriyorum.
+Chi Fang City'den canlı yayındayız!
+
+2
+00:00:08,408 --> 00:00:13,145
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Gnaar/Gnaar_Chifang_Line02.wav">Vatandaşlar burada majestelerinin 
+doğum gününü kutlamak için toplanıyor..
+
+3
+00:00:13,146 --> 00:00:18,300
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Gnaar/Gnaar_Chifang_Line03.wav">Seremoni güzel havai fişekler ve eğlence programı ile 
+saniyeler içinde başlayacak.
+
+4
+00:00:19,152 --> 00:00:24,523
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Gnaar/Gnaar_Chifang_Line04.wav">Hatta belirli indeksler bile var,
+Prens Chan son müzikal şiirini söyleyecek!
+
+5
+00:00:24,524 --> 00:00:30,000
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Gnaar/Gnaar_Chifang_Line05.wav">Vatandaşlar, seremoni
+için sabırsızlanıyor ve gerçekten burada olmaktan onur duyuyorlar.
+
+6
+00:00:33,433 --> 00:00:39,600
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Gnaar/Gnaar_Chifang_Line06.wav">Eğlencenin tadını çıkarın, canlı yayın haberlirini izlediniz.
+GNAAR HABER AĞI!
+
+7
+00:00:45,913 --> 00:00:47,500
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Gross.wav">Iğrenç!
+
+8
+00:00:58,525 --> 00:01:03,030
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Oh_My_God_That.wav">Aman Tanrım, bu KORKUNÇ!
+
+9
+00:01:00,694 --> 00:01:03,030
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_My_Turn_Now.wav">Şimdi benim sıram geldi!
+
+10
+00:01:04,064 --> 00:01:06,900
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Aaaaaarrrghhh.wav">Aaaarrrr!!!
+
+11
+00:01:09,336 --> 00:01:12,200
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Yeeehaaaw.wav">Yiiihaaavv!
+
+12
+00:01:14,908 --> 00:01:19,178
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Ok_Who_Is_Gonna.wav">Tamam, önce kim gelecek, aşağılık herifler!
+
+13
+00:01:19,179 --> 00:01:20,613
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Time_Out.wav">Mola!
+
+14
+00:01:20,614 --> 00:01:23,115
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_I_Think_We_Should.wav">Bence yaşlı adamın gitmesini beklemeliyiz!
+
+15
+00:01:23,116 --> 00:01:24,400
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_I_Will_Wait_If.wav">Ben Bekleyeceğim,eğer siz de BEKLERSENIZ!
+
+16
+00:01:26,086 --> 00:01:27,320
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Deal.wav">Anlaştık mı?
+
+17
+00:01:28,021 --> 00:01:31,400
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Quickly_Old_Man_Save.wav">Acele et ihtiyar, KURTAR kendini!
+
+18
+00:01:39,800 --> 00:01:42,800
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Oh_For_Crying_Out.wav">Ah, yüksek sesle ağladığın için...
+
+19
+00:01:48,141 --> 00:01:51,000
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Will_You_Go_Already.wav">GIDECEK MISIN?
+
+20
+00:01:53,046 --> 00:01:55,115
+20 dakika sonra
+
+21
+00:01:59,186 --> 00:02:03,200
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Ok_Guys_Lets_Do.wav">Tamam, millet, hadi yapalım şunu!
+
+22
+00:02:17,771 --> 00:02:20,370
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Netricsa/Netricsa_Prince_Chan_Is_Escaping.wav">Prens Chan kaçıyor!
+
+23
+00:02:21,375 --> 00:02:24,543
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Damn_What_Now.wav">Kahretsin, Şimdi ne olacak?
+
+24
+00:02:24,544 --> 00:02:27,279
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Netricsa/Netricsa_I_Bet_He_Is.wav">Bahse girerim Chan'in sarayına doğru gidiyor!
+
+25
+00:02:27,280 --> 00:02:29,000
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Netricsa/Netricsa_Lets_Go_There.wav">Hadi oraya gidelim!

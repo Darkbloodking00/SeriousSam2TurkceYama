@@ -1,0 +1,108 @@
+﻿1
+00:00:02,636 --> 00:00:04,136
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode03/Wizards/Wizard1_Line01_See_Told_Ya.wav">Gördün mü... Sana söylemiştim!!
+
+2
+00:00:04,137 --> 00:00:05,671
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode03/Wizards/Wizard2_Line01_I_Could_Have_Done.wav">Hıh...Aynısı ben de yapabilirdim!
+
+3
+00:00:05,672 --> 00:00:13,212
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode03/Wizards/Wizard1_Line02_You_You_Couldnt_Even.wav">Sen mi?!? Sen daha hızlandırılmış
+alfa boşluklarını basit
+polimorf altmoleküler dörtlüyapısına...bile entegre edemiyorsun.
+
+4
+00:00:13,213 --> 00:00:16,983
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode03/Wizards/Wizard2_Line02_Ha_Look_Who_Is.wav">Hah, konuşana bak hele! SEN, diğer taraftan, 
+daha...
+
+5
+00:00:16,984 --> 00:00:19,418
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode03/Wizards/Wizard_Woman_Line01_Enough_We_Have_No.wav">Yeter! Kaybedecek zamanımız yok.
+
+6
+00:00:19,419 --> 00:00:24,490
+Prensen Chan'in doğum günü partisi devam ediyor ve hemen
+Sam'i Chi-Fang'e yollamalıyız!
+
+7
+00:00:24,491 --> 00:00:27,360
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode03/Sam/Sam_That_Was_A_Piece.wav">Bu çocuk oyuncağıydı, sıradaki ne!
+
+8
+00:00:27,361 --> 00:00:32,498
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode03/Wizards/Wizard2_Line03_You_Did_Pretty_Good.wav">Aşağıda çok iyi iş başardın. Belki şimdi
+gerçek çarpışmaya hazırsındır!
+
+9
+00:00:32,499 --> 00:00:36,536
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode03/Sam/Sam_Yeah_And_What_Was.wav">Evet? Peki önceki neydi? 
+Video oyunu oynamak mı???
+
+10
+00:00:40,040 --> 00:00:42,276
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode03/Wizards/Wizard_Woman_Line02_Nevermind_Lets_Get_It.wav">Boşver gitsin. Hadi devam edelim.
+
+11
+00:00:43,577 --> 00:00:46,646
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode03/Wizards/Wizard1_Line03_The_Next_Part_Of.wav">Madalyonun sonraki parçası Chi-Fang
+gezegeninde.
+
+12
+00:00:46,647 --> 00:00:51,884
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode03/Wizards/Wizard1_Line04_Chiche_The_Residents_Of.wav">ChiChe, yani Chi-Fang sakinleri, sana yardım
+edecek, fakat yapabilecekleri fazla bir şey yok. 
+
+13
+00:00:51,885 --> 00:00:58,858
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode03/Wizards/Wizard1_Line05_They_Live_In_Constant.wav">Sürekli Prenses Chan tarafından yenilmenin korkusuyla
+yaşıyorlar,Mental'in dalkavukları gezegene dehşet saçıyor.
+
+14
+00:00:58,859 --> 00:01:03,596
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode03/Wizards/Wizard1_Line06_And_What_Is_Most.wav">Ve en önemli ve ürkütücü şey
+o lanet şey madalyonu YEDI.
+
+15
+00:01:03,596 --> 00:01:06,465
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode03/Wizards/Wizard_Woman_Line03_Lets_Just_Hope_He.wav">Yedikten sonra tuvalete gitmediğini
+umalım...
+
+16
+00:01:06,466 --> 00:01:11,971
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode03/Wizards/Wizard2_Line04_Today_Is_His_Birthday.wav">Bugün onun doğum günü! Ana meydanda büyük
+bir seremoni olacak. Bir plan yaptık! 
+
+17
+00:01:11,972 --> 00:01:15,600
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode03/Wizards/Wizard1_Line07_Yes_Here_Is_The.wav">Evet, işte plan: Şehre gireceksin...
+
+18
+00:01:17,377 --> 00:01:20,080
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode03/Wizards/Wizard1_Line08_Arrive_At_Prince_Chans.wav">...Prenses Chan'in doğum günü partisine ulaşacaksın...
+
+19
+00:01:21,148 --> 00:01:23,150
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode03/Wizards/Wizard1_Line09_Destroy_Him_And_His.wav">...onu ve yandaşlarını yok edeceksin...
+
+20
+00:01:28,355 --> 00:01:30,500
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode03/Wizards/Wizard1_Line10_And_Take_The_Medallion.wav">...ve madalyonu alacaksın.
+
+21
+00:01:32,973 --> 00:01:34,760
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode03/Wizards/Wizard2_Line05_Simple_But_Effective.wav">Basit, fakat etkili!
+
+22
+00:01:34,761 --> 00:01:40,500
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode03/Sam/Sam_Could_We_Go_Through.wav">Üzerinden bir kez daha geçebilir misin...
+Hepsini anladığımdan emin değilim...
+
+23
+00:01:49,509 --> 00:01:51,811
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode03/Wizards/Wizard1_Line11_Okay_You_Will_Enter.wav">Taaaamam... Şehre gireceksin...
+
+24
+00:01:51,812 --> 00:01:54,600
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode03/Sam/Sam_Hey_Hey_Hey_Just.wav">Hey hey hey... sadece şakaydı.

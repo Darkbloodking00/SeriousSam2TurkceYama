@@ -1,0 +1,32 @@
+﻿1
+00:00:05,405 --> 00:00:08,508
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Dragon/Dragon_Dont_Come_Any_Closer.wav">Нет, не подходи!.. А не то я прыгну!!!
+
+2
+00:00:13,780 --> 00:00:17,183
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Dont_Be_A_Fool.wav">Не глупи, у тебя впереди еще целая жизнь.
+
+3
+00:00:17,184 --> 00:00:20,119
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Dragon/Dragon_I_Will_Do_It.wav">Нет, я прыгну... я прыгну, клянусь!
+
+4
+00:00:20,120 --> 00:00:24,790
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Listen_Listen_I_Will.wav">Ладно, ладно... Я заберу принцессу и
+отвезу ее королю...
+
+5
+00:00:24,791 --> 00:00:27,660
+...но взамен ты отдашь мне медальон.
+
+6
+00:00:27,661 --> 00:00:29,328
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Deal.wav">Договорились?
+
+7
+00:00:29,329 --> 00:00:35,435
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Dragon/Dragon_Oh_My_Mental_Is.wav">О-ох... Ментал меня убьет...
+
+8
+00:00:35,436 --> 00:00:37,137
+...договорились!

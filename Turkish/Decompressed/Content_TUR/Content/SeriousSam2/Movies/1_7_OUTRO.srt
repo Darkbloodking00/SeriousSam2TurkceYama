@@ -1,0 +1,41 @@
+﻿1
+00:00:08,339 --> 00:00:12,323
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Hey_Let_Me_In.wav">Hey, beni içeri al.
+
+2
+00:00:14,058 --> 00:00:15,697
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Come_On.wav">Hadi ama...
+
+3
+00:00:17,449 --> 00:00:19,674
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Open_The_Goddamn_Door.wav">Şu lanet kapıyı açın!
+
+4
+00:00:21,522 --> 00:00:23,901
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Wiiiilmaaaaaaa.wav">Wiiiiilmaaaaaaaaaaa!
+
+5
+00:00:25,876 --> 00:00:27,607
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Whadda.wav">Buda nesi!?
+
+6
+00:00:29,000 --> 00:00:32,900
+<B sound="Content/SeriousSam2/Sounds/CutSequences/SimbaShaman/Simba_Shaman_It_Is_Me_Shaman.wav">Benim, Şaman.
+Neden bağırıyorsun?
+
+7
+00:00:33,079 --> 00:00:34,990
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Dunno_Feels_Good_I.wav">Bilmiyorum... sanırım iyi hissettiriyor...
+
+8
+00:00:35,850 --> 00:00:36,850
+<B sound="Content/SeriousSam2/Sounds/CutSequences/SimbaShaman/Simba_Shaman_Let_Me_Try.wav">Bırak bir de ben deneyeyim!
+
+9
+00:00:44,048 --> 00:00:45,610
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Whoa.wav">Çüüş!!
+
+10
+00:00:47,318 --> 00:00:49,317
+<B sound="Content/SeriousSam2/Sounds/CutSequences/SimbaShaman/Simba_Shaman_Now_Lets_Hurry_And.wav">Şimdi acele edelim ve Kwongo'yu çağıralım!
+

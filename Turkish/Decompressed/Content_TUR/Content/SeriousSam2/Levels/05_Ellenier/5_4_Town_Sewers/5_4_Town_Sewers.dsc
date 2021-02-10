@@ -1,0 +1,3 @@
+﻿Heh, er ya da geç işimizin kanalizasyonda sonlanacağını biliyordum. Oyunun onlar olmadan eğlencesi çıkmıyor.
+Fakat bu bok çukuruna düştüğümüz hızda, hatta daha hızlı bir şekilde çıkışı bulmalıyız. Eğer bu seni rahatlatacaksa, sana söylüyorum bunlar normal dışkı değil. Hayır, hayır, hiçte bile bunlar kraliyet kakası.
+Ve ayrıca Mental'in birliklerinin burada ne yaptığını da merak ediyorum. Bir karargah kurmak için mi ? Kleerlar, anlayabiliyorum. Onların burunları yok, ama peki ya diğerleri...

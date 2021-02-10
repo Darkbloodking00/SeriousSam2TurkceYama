@@ -1,0 +1,8 @@
+﻿1
+00:00:11,663 --> 00:00:14,753
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Liftboy_Lets_Get_Out.wav">Что ж... давай убираться отсюда!
+
+2
+00:00:31,000 --> 00:00:33,990
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_I_Smell_An_Ambush.wav">Я чую засаду!
+

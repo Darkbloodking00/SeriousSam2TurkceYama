@@ -1,0 +1,20 @@
+﻿1
+00:00:01,001 --> 00:00:04,449
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Say_You_Would_Not.wav">Скажи, ты ведь знаешь, 
+где находится дворец Чаня, да?
+
+2
+00:00:04,472 --> 00:00:06,928
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_I_Have_Been_Asking.wav">Я брожу тут уже целый день!
+
+3
+00:00:07,200 --> 00:00:08,010
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Great_Can_You_Give.wav">Отлично! 
+
+4
+00:00:08,015 --> 00:00:09,844
+Подвезешь до дворца?
+
+4
+00:00:20,120 --> 00:00:23,090
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Here_Keep_The_Change.wav">Сдачу оставь себе!

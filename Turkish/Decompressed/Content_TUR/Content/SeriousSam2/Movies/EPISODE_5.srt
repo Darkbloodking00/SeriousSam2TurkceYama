@@ -1,0 +1,78 @@
+﻿1
+00:00:08,175 --> 00:00:11,811
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode05/Wizards/Wizard_Woman_Line01_Boys_Thats_Enough_Is.wav">Millet, Bu kadar YETER! Düşündüğünüz
+tek şey bu mu?
+
+2
+00:00:11,812 --> 00:00:14,814
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode05/Wizards/Wizard1_Line01_But_Its_The_Galaxy.wav">Fakat bu
+
+3
+00:00:11,813 --> 00:00:14,814
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode05/Wizards/Wizard2_Line01_But_Its_The_Galaxy.wav">GALAKSI KUPASI finalleri...
+
+4
+00:00:14,815 --> 00:00:20,453
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode05/Wizards/Wizard_Woman_Line02_Can_Anything_Be_More.wav">Hiç bir şey evreni kutarmak kadar ciddi
+olabilir mi?!? Onunla şimdi iletişime geçmeliyiz!
+
+5
+00:00:20,454 --> 00:00:22,356
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode05/Sam/Sam_Who_Won_Who_Won.wav">Kim kazandı? KIM KAZANDI?
+
+6
+00:00:22,356 --> 00:00:25,424
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode05/Wizards/Wizard2_Line02_Is_That_All_You.wav">Düşündüğün tek şey bu mu?!
+
+7
+00:00:25,425 --> 00:00:30,330
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode05/Wizards/Wizard1_Line02_Yeah_What_Could_Be.wav">Evet, evreni kurtarmak kadar ciddi
+ne olabilir ki!
+
+8
+00:00:31,589 --> 00:00:33,266
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode05/Wizards/Wizard_Woman_Line03_Yeah_Right_Sam_You.wav">Evet... doğru...
+
+9
+00:00:33,267 --> 00:00:37,471
+Sam, madalyonun son parçasını da
+geri almalısın!
+
+10
+00:00:40,774 --> 00:00:45,011
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode05/Wizards/Wizard_Woman_Line04_Ellenier_Home_Of_Elvians.wav">Ellenier... Elvianların evi, barışçıl ve soylu bir ırk.
+
+11
+00:00:45,012 --> 00:00:47,613
+Başarılı bir şekilde madalyonu korudular...
+
+12
+00:00:47,614 --> 00:00:50,616
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode05/Wizards/Wizard_Woman_Line05_Until_Cecil_The_Dragon.wav">...Ejder Cecil gelip onu alana dek.
+
+13
+00:00:50,617 --> 00:00:56,000
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode05/Wizards/Wizard1_Line03_Your_Task_Is_Simple.wav">Görevin basit. Cecil'ı bul... 
+ondan kurtul..
+
+14
+00:01:00,127 --> 00:01:05,298
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode05/Wizards/Wizard1_Line04_And_Take_The_Medallion.wav">... ve madalyonu al, bu sonunda senin
+O kişi olduğunu kanıtlayacak!
+
+15
+00:01:05,299 --> 00:01:10,036
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode05/Wizards/Wizard_Woman_Line06_You_Will_Start_At.wav">Işe Heartbreak dağlarının zirvesinde başlayacaksın. 
+Altında küçük bir köy var.
+
+16
+00:01:10,037 --> 00:01:13,739
+Ejderhanın ayda bir kez gelip 
+haraç topladığını duyduk.
+
+17
+00:01:13,740 --> 00:01:19,000
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode05/Wizards/Wizard2_Line03_That_Will_Be_Your.wav">Işte bu Cecil ile karşılaşman için bir fırsat... 
+kafa... kafaya!
+
+

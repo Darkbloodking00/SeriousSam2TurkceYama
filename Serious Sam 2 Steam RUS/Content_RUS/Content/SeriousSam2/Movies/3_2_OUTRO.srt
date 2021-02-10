@@ -1,0 +1,105 @@
+﻿1
+00:00:03,203 --> 00:00:08,407
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Gnaar/Gnaar_Chifang_Line01.wav">Привет, это Джордж Б. Гнаар, в прямом
+эфире из города Чи Фан!
+
+2
+00:00:08,408 --> 00:00:13,145
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Gnaar/Gnaar_Chifang_Line02.wav">Горожане собрались отпраздновать
+день рождения Его Величества.
+
+3
+00:00:13,146 --> 00:00:18,300
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Gnaar/Gnaar_Chifang_Line03.wav">Церемония может начаться в любую минуту!
+Ожидаются великолепный фейерверк и развлечения.
+
+4
+00:00:19,152 --> 00:00:24,523
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Gnaar/Gnaar_Chifang_Line04.wav">Ходят даже слухи о том, что принц Чань
+лично исполнит свою последнюю поэму!
+
+5
+00:00:24,524 --> 00:00:30,000
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Gnaar/Gnaar_Chifang_Line05.wav">Горожане с нетерпением ждут начала церемонии,
+для них настоящая честь присутствовать здесь.
+
+6
+00:00:33,433 --> 00:00:39,600
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Gnaar/Gnaar_Chifang_Line06.wav">И благодаря Гнаар Ньюс вы можете
+увидеть все это в прямом эфире!
+
+7
+00:00:45,913 --> 00:00:47,500
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Gross1.wav">Вот дерьмо!
+
+8
+00:00:58,525 --> 00:01:03,030
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Oh_My_God_That.wav">О нет, это ужасно!
+
+9
+00:01:00,694 --> 00:01:03,030
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_My_Turn_Now.wav">Теперь моя очередь!
+
+10
+00:01:04,064 --> 00:01:06,900
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Aaaaaarrrghhh.wav">АААААА!
+
+11
+00:01:09,336 --> 00:01:12,200
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Yeeehaaaw.wav">Ииииихаааа!
+
+12
+00:01:14,908 --> 00:01:19,178
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Ok_Who_Is_Gonna.wav">Ну что, придурки, кто хочет сдохнуть первым?
+
+13
+00:01:19,179 --> 00:01:20,613
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Time_Out.wav">Стоп-стоп-стоп!
+
+14
+00:01:20,614 --> 00:01:23,115
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_I_Think_We_Should.wav">Думаю, стоит дать старику спокойно уйти!
+
+15
+00:01:23,116 --> 00:01:24,400
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_I_Will_Wait_If.wav">Я подожду, если ВЫ подождете! 
+
+16
+00:01:26,086 --> 00:01:27,320
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Deal.wav">Договорились?
+
+17
+00:01:28,021 --> 00:01:31,400
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Quickly_Old_Man_Save.wav">Поторопись, дедуля, спасайся!
+
+18
+00:01:39,800 --> 00:01:42,800
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Oh_For_Crying_Out.wav">О, блииин...
+
+19
+00:01:48,141 --> 00:01:51,000
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Will_You_Go_Already.wav">Ты уйдешь наконец?!!!
+
+20
+00:01:53,046 --> 00:01:55,115
+Через 20 минут...
+
+21
+00:01:59,186 --> 00:02:03,200
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Ok_Guys_Lets_Do.wav">Что ж, приступим!
+
+22
+00:02:17,771 --> 00:02:20,370
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Netricsa/Netricsa_Prince_Chan_Is_Escaping.wav">Принц Чань убегает!
+
+23
+00:02:21,375 --> 00:02:24,543
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Damn_What_Now.wav">Черт! И что теперь?
+
+24
+00:02:24,544 --> 00:02:27,279
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Netricsa/Netricsa_I_Bet_He_Is.wav">Он наверняка спрячется у себя во дворце!
+
+25
+00:02:27,280 --> 00:02:29,000
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Netricsa/Netricsa_Lets_Go_There.wav">За ним!

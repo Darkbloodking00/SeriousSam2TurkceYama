@@ -1,0 +1,107 @@
+﻿1
+00:00:18,051 --> 00:00:20,653
+Oo, babacığım, sana bu güzel
+seremoni için çok teşekkür ederim. 
+
+2
+00:00:20,654 --> 00:00:24,000
+Umarım bu an
+sonsuza kadar sürer...
+
+3
+00:00:40,509 --> 00:00:45,000
+<B sound="Content/SeriousSam2/Sounds/CutSequences/King/King_No_Stop_Him.wav">Hayııır! Durdur onu!
+
+5
+00:00:46,146 --> 00:00:48,000
+<B sound="Content/SeriousSam2/Sounds/CutSequences/King/King_Princess_Noo.wav">Prenses, hayıııııııır! 
+
+6
+00:00:55,522 --> 00:00:59,725
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_It_Was_A_Perfect_Sunday.wav">Mükemmel bir Pazar sabahıydı,
+fakat havada tehlike kokusu vardı.
+
+7
+00:00:59,726 --> 00:01:02,860
+Bir şeyler bana bugün bir şeyin 
+ters gideceğini söylüyordu. 
+
+8
+00:01:02,996 --> 00:01:06,300
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_They_Wanted_To_See.wav">Bir şey su geçirmez bir gerçek - 
+onlar BENI görmek istiyorlar.
+
+9
+00:01:06,500 --> 00:01:10,603
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_It_Had_Something_To.wav">Kayıp prensesle ilgili bir şey...
+hep böyle olmuştur zaten.
+
+10
+00:01:10,604 --> 00:01:13,407
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Suspicios_Faces_Stared_At.wav">Odanın hangi köşesinden
+bakarsam bakayım...
+
+11
+00:01:13,408 --> 00:01:15,141
+..şüpheli yüzler hep bana dik dik bakıyordu ....  
+
+12
+00:01:15,142 --> 00:01:18,000
+... fakat, ne halt olduysa, bende birlikte oynamaya karar verdim.
+
+13
+00:01:19,846 --> 00:01:21,782
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Was_It_The_Groom.wav">Yoksa damat mıydı?...  
+
+14
+00:01:22,082 --> 00:01:26,888
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_The_Bloke_Looked_Suspicios.wav">Herif sadece oturmuş şüpheli
+bir şekilde...sessizce...neredeyse mutlu gibi bakıyordu.
+
+15
+00:01:27,821 --> 00:01:30,157
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Or_The_King.wav">Ya...Kral?  
+
+16
+00:01:30,223 --> 00:01:33,360
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Hiding_His_True_Intentions.wav">Gerçek yüzünü büyük gölgenin
+arkasına saklıyordu.
+
+17
+00:01:33,361 --> 00:01:37,130
+Oyulmuş bir taş gibi görünen
+bir yüz ifadesi vardı. 
+
+18
+00:01:38,899 --> 00:01:41,034
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Or_The_Queen.wav">Ya...Kraliçe? 
+
+19
+00:01:43,370 --> 00:01:50,000
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Nah_It_Definately_Was_Not.wav">Yok be, kesinlikle kraliçe olamaz ... yine de 
+onun hakkında daha fazla araştırma yapmak zorunda kalabilirim.
+
+20
+00:01:50,344 --> 00:01:54,781
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Apparently_The_Princess_Had.wav">Görünüşe göre, prenses kaçırılmış,
+ve benden onu kurtarmamı istiyorlar. 
+
+21
+00:01:54,915 --> 00:01:59,000
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_They_Were_Also_Very.wav">Ayrıca onlar bu teklifi reddetmem sonucunda
+bana yapabileceklerini açık bir şekilde gösterdiler. 
+
+22
+00:01:59,353 --> 00:02:01,253
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_I_Decided_To_Take.wav">Bu işi almaya karar verdim. 
+
+23
+00:02:01,254 --> 00:02:04,991
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Hell_If_The_Princess.wav">Vay anasını, eğer prenses annesinin
+yarısı kadar güzelse, kim bilir... 
+
+24
+00:02:04,992 --> 00:02:08,550
+...gün hala güzel bir sonla bitebilir...
+eğer ne demek istediğimi anladıysanız!
+

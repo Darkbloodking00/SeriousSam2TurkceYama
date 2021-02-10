@@ -1,0 +1,41 @@
+﻿1
+00:00:11,545 --> 00:00:17,000
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Come_Out_Come_Out.wav">Dışarı gel, dışarı gel, sana bir şey getirdim!
+
+2
+00:00:17,951 --> 00:00:18,885
+<B sound="Content/SeriousSam2/Sounds/CutSequences/PrinceChan/Chan_No1.wav">Hayır!
+
+3
+00:00:18,952 --> 00:00:25,691
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_These_Lollies_Crave_To.wav">Ooo, şu lezzetli lolipoplara bir bakın...
+...ooo çok lezzetliler... LEZIZ!
+
+4
+00:00:25,692 --> 00:00:26,959
+<B sound="Content/SeriousSam2/Sounds/CutSequences/PrinceChan/Chan_No2.wav">Hayır!
+
+5
+00:00:27,094 --> 00:00:29,000
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Ok_That_Does_It.wav">Tamam, BU KADAR YETER!!
+
+6
+00:00:37,538 --> 00:00:41,400
+<B sound="Content/SeriousSam2/Sounds/CutSequences/PrinceChan/Chan_Nooooo.wav">Hayıııııırrrr!
+
+7
+00:00:43,644 --> 00:00:45,711
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_See_What_You_Made.wav">Bana ne yaptırdığını gördün mü???
+
+8
+00:00:45,712 --> 00:00:48,800
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Now_Come_Out_Or.wav">Şimdi, çık dışarı yoksa lolly mermiyi yer!
+
+9
+00:00:49,149 --> 00:00:51,000
+<B sound="Content/SeriousSam2/Sounds/CutSequences/PrinceChan/Chan_Okay.wav">Ta-mam!
+
+10
+00:00:54,121 --> 00:01:01,800
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Whoa_You_Could_Be.wav">Çüş, kendi gezegenine sahip olmalısın.
+Pantolonunu sıkı tutmak için asteroit kuşağı kullanıyor olmalısın.

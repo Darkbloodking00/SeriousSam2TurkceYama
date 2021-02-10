@@ -1,0 +1,28 @@
+﻿0
+00:00:07,140 --> 00:00:09,000
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Hmmm.wav">Хммм...
+
+1
+00:00:14,882 --> 00:00:20,486
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Bosses_R_Us_I.wav">Это 'Босс-для-вас'?
+Мне нужен один босс для окончания уровня.
+
+2
+00:00:20,487 --> 00:00:23,200
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Yeah_Put_It_On.wav">Да, запишите на мой счет
+
+3
+00:00:24,558 --> 00:00:27,300
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Now_All_I_Have.wav">Ну вот, теперь надо немного подождать.
+
+4
+00:00:27,661 --> 00:00:34,333
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Hmmm_Strange_Buzzing_Weird.wav"> Хммм... странное ж-ж-ж... цветочный запах...
+
+5
+00:00:34,334 --> 00:00:37,037
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_It_Is_Zum_Zum.wav">Это... ЗУМ-ЗУМ!
+
+6
+00:00:42,175 --> 00:00:44,000
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Incoming.wav">Воздух!

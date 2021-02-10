@@ -1,0 +1,198 @@
+﻿1
+00:00:03,570 --> 00:00:07,540
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode01/Wizards/Wizard1_Line01_How_many_times.wav">Kaç kere söylemem gerekiyor...
+O, o kişi!
+
+2
+00:00:07,541 --> 00:00:11,879
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode01/Wizards/Wizard2_Line01_If_that_is_our_last_hope.wav">Eğer BU bizim son umudumuz olsaydı,
+Mental'den hiçbir zaman kurtulabileceğimize inanmıyorum.
+
+3
+00:00:11,880 --> 00:00:17,250
+Hadi ama, ona bir bakın! Aklı başında biri buna inanır mı?
+Bu adam gerçekten evreni kurtarabilir mi ?!?!
+
+4
+00:00:17,251 --> 00:00:24,258
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode01/Wizards/Wizard1_Line02_Well_It_Is_Written.wav">Aslında, çok uzak bir galaksideki 
+bir yabancının gelip, 
+yaklaşan kötülükten bizi kurtaracağı yazıyor.
+
+5
+00:00:24,259 --> 00:00:26,525
+Ve kötülük çoktan geldi bile...
+
+6
+00:00:26,526 --> 00:00:29,595
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode01/Wizards/Wizard2_Line02_Was_Is_Also_Written.wav">Onun kırmızı spor ayakkabı
+giydiği de yazıyor muydu ?
+
+7
+00:00:29,596 --> 00:00:32,632
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode01/Wizards/Wizard1_Line03_What_Do_You_Have.wav">Spor ayakkabılarına neden bu kadar taktın?!
+Eskiden pembe tayt ve sarı... giymiştin.
+
+8
+00:00:32,633 --> 00:00:36,202
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode01/Wizards/Wizard2_Line03_Yes_Yes_And_You.wav">Evet, evet,...Ve senin
+gülünç...
+
+9
+00:00:36,203 --> 00:00:38,939
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode01/Wizards/Wizard_Woman_Line02_Guys_Guys_Stop.wav">Çocuklar, çocuklar, KESIN ŞUNU!!!
+
+10
+00:00:39,907 --> 00:00:44,310
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode01/Wizards/Wizard_Woman_Line03_Lets_not_forget.wav">Neden burada olduğumuzu unutmayalım.
+Onunla ŞIMDI iletişime geçmeliyiz.
+
+11
+00:00:44,311 --> 00:00:46,713
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode01/Wizards/Wizard_Woman_Line01_Concentrate_Boys.wav">YOĞUNLAŞIN, millet.
+
+12
+00:00:53,720 --> 00:00:58,258
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode01/Sam/Sam_You_Have_Exactly_5.wav">Burada tam olarak ne aradığımı açıklamak için
+5 saniyeniz var.
+
+13
+00:00:58,259 --> 00:01:01,294
+Ve 2 saniye geçti bile...
+
+14
+00:01:01,295 --> 00:01:05,231
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode01/Wizards/Wizard_Woman_Line04_Please_mr_stone.wav">Lütfen Bay Stone, sakin olun.
+Görevinde sana yardım edebiliriz.
+
+15
+00:01:05,232 --> 00:01:10,469
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode01/Wizards/Wizard_Woman_Line05_My_Name_Is.wav">Benim adım Rolanda ve bunlar 
+benim kardeşlerim, Jebediah ve Rajiv.
+
+16
+00:01:10,470 --> 00:01:13,406
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode01/Sam/Sam_I_Am_Sam_Serious.wav">Ben Sam. Serious Sam.
+
+17
+00:01:13,407 --> 00:01:20,250
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode01/Wizards/Wizard_Woman_Line06_We_Are_The_Sirian.wav">Bizler Sirian Büyük Konseyiyiz ve biz burada sana 
+Mental'i nasıl yenebileceğini göstereceğiz. Bak...
+
+18
+00:01:21,515 --> 00:01:27,486
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode01/Wizards/Wizard_Woman_Line07_This_is_medallion.wav">Bu Güç Madalyonu...Mental'i zayıf
+ve savunmasız bırakabilecek tek şey.
+
+19
+00:01:27,487 --> 00:01:36,362
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode01/Wizards/Wizard_Woman_Line08_It_was_forged.wav">Madalyon, kör demirci Gromlin tarafından dövüldü
+ve biz, sihirbazlar, ona bir büyü yaptık
+kutsal el kitabımızdaki talimatları izleyerek (revizyon 2).
+
+20
+00:01:36,363 --> 00:01:42,000
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode01/Wizards/Wizard_Woman_Line09_It_was_split.wav">Madalyon 5 parçaya bölündü, ve parçalar 
+5 farklı ırka verildi...
+
+21
+00:01:42,069 --> 00:01:44,403
+Simbalar M'digbo gezegeni...
+
+22
+00:01:44,404 --> 00:01:46,907
+...ChiChe Chi Fang gezegeni...
+
+23
+00:01:46,910 --> 00:01:49,242
+...Zixieler  Magnor gezegeni...
+
+24
+00:01:49,243 --> 00:01:51,544
+...Kleerlar  Kleer gezegeni...
+
+25
+00:01:51,545 --> 00:01:54,313
+...ve Elvianlar  Ellenier Gezegeni!
+
+26
+00:01:54,314 --> 00:01:59,852
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode01/Wizards/Wizard2_Line04_But_that_simply.wav">Fakat bu basitçe yeterli gelmedi!
+Çok yakında Mental tüm parçalara sahip olmuş olacak..
+
+27
+00:01:59,853 --> 00:02:05,391
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode01/Wizards/Wizard1_Line04_Thankfully_those_pieces.wav">Neyse ki, bu parçalar yok edilemez,
+yani Mental yalnızca onları koruyabilir.
+
+28
+00:02:05,392 --> 00:02:13,165
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode01/Wizards/Wizard2_Line05_When_All_Five_Pieces.wav">5 parça da bir araya geldiğinde, madalyon
+gücünü ortaya çıkaracak ve
+Mental'i savunmasız kılacak.
+
+29
+00:02:13,166 --> 00:02:18,471
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode01/Wizards/Wizard_Woman_Line10_Your_task_is_to_go.wav">Senin görevin M'digbo gezegenine gitmek ve
+Madalyonun ilk parçasını geri almak!
+
+30
+00:02:18,572 --> 00:02:22,308
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode01/Wizards/Wizard1_Line05_And_If_You_Bring.wav">Ve eğer bu parçayı geri getirirsen,
+bu senin...olduğun anlamına gelir.
+
+31
+00:02:22,309 --> 00:02:24,309
+...O KIŞI!!!
+
+32
+00:02:25,178 --> 00:02:27,000
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode01/Sam/Sam_The_One.wav">O..kişi mi?
+
+33
+00:02:27,714 --> 00:02:31,584
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode01/Wizards/Wizard1_Line06_The_One_Our_Holy.wav">O kişi bizim kutsal el kitabımızdan,
+(revizyon 2), anlatmaya devam ediyor.
+
+34
+00:02:31,585 --> 00:02:34,920
+Evreni kurtaracak olan
+o kişi hakkında.
+
+35
+00:02:32,866 --> 00:02:34,920
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode01/Wizards/Wizard2_Line06_Yeah_Right.wav">He, kesin!
+
+36
+00:02:34,921 --> 00:02:36,423
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode01/Wizards/Wizard_Woman_Line11_Well_you_should_go.wav">Pekala, şimdi gitmelisin.
+
+37
+00:02:36,424 --> 00:02:40,893
+Işin bitince seninle
+iletişime geçeceğiz...
+
+38
+00:02:38,125 --> 00:02:40,893
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode01/Wizards/Wizard2_Line07_If_You_finish.wav">EĞER bitirebilirsen!
+
+39
+00:02:40,894 --> 00:02:42,194
+<B sound="Content/SersiousSam2/Sounds/CutSequences/Episode01/Wizards/Wizard_Woman_Line12_Shhh.wav">Şşşşşş....
+
+40
+00:02:42,195 --> 00:02:47,001
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode01/Sam/Sam_No_One_Is_Gonna.wav">Kimse buna inanmayacak. Ah pekala...
+
+41
+00:02:57,711 --> 00:03:00,001
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Aaaargh.wav">AAAAAAAAARGH!
+
+42
+00:03:19,766 --> 00:03:23,001
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Aaaaaaaa.wav">AAAAA!
+
+43
+00:03:24,604 --> 00:03:26,000
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode07/Sam/Sam_Crap.wav">KAHRETSINs!
+

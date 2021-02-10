@@ -1,0 +1,2 @@
+﻿Acele karar almadığında neler olduğunu gördün mü. Şimdi Chan'ın Sarayı'nı bulmak zorundayız. Bulduğumuz zaman, Chan'ı dışarı çıkartmak zorundayız.
+Onun nasıl sıvıştığını gördün. Adam tam bir ödlek, bu yüzden onu cezbetmenin bir yolunu bulmalıyız. Belki yiyecekleri kapısının dışına bırakırsak ya da onu kandırabilir veya ikram verirsek, o da dışarıya çıkar.

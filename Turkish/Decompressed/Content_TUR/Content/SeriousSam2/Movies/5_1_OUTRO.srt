@@ -1,0 +1,7 @@
+﻿1
+00:00:25,459 --> 00:00:27,059
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_U_Kurac.wav">x@$^%!&*|!!
+
+
+
+

@@ -1,0 +1,3 @@
+Pekala, Zixieleri bulamadık, onlar bizi buldu. Her neyse. Önemli olan bizim burada olmamız.
+Şimdi git bütün Mental pisliklerinden kurtul, ve madalyon platosuna ulaş. O köyün diğer tarafında, yani ağaçların üzerinden atlayarak karşıya geçmelisin.
+Köyde iki ana kısım var. Biz şuan çoğu Zixie'nin yaşadığı yer olan, topluluk kısmındayız. Diğer tarafta ilkel makinelerle ahşap freze atölyeleri var. Bu iki kısım malları ve insanları taşımak için gondollarla bağlı. Yani, oraya ulaşmaya çalış.

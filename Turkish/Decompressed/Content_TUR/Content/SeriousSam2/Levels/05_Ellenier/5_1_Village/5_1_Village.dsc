@@ -1,0 +1,2 @@
+﻿Vay be, gerçekten peri masallarından fırlamış bir gezegen. Bahse girerim kar beyazı bir prenses, ve yüceler yücesi bir Kral ile onun sevgili Kraliçesi vardır. Bu tür şeylerde tereyağ gibi içimin yağları erir.
+Her neyse, köye doğru inip halkla konuşmalıyız. Muhakkak Kingsburg'a giden yolu biliyorlardır. Işte orası kralla buluşup, ona madalyonun parçasını soracağımız yer.

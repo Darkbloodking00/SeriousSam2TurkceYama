@@ -1,0 +1,32 @@
+﻿1
+00:00:06,480 --> 00:00:12,159
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Pilot/Pilot_Sam_As_You_Can.wav">Сэм, как видишь, там, внизу, настоящая бойня.
+Скоро противник просто задавит нас числом.
+
+2
+00:00:12,160 --> 00:00:16,320
+Чтобы долететь до штаб-квартиры Ментала придется
+держаться подальше от земли!
+
+3
+00:00:17,280 --> 00:00:18,960
+Где-то над городом...
+
+4
+00:00:21,800 --> 00:00:24,719
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Pilot/Pilot_We_Are_Closing_In.wav">Мы приближаемся, но противовоздушная
+оборона слишком сильна!
+
+5
+00:00:24,720 --> 00:00:26,200
+Тебе придется прыгать!
+
+6
+00:00:27,240 --> 00:00:28,519
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Pilot/Pilot_Go_Go_Go.wav">Вперед!..
+
+7
+00:00:28,520 --> 00:00:31,520
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Geronimo.wav">Вперед!..
+
+

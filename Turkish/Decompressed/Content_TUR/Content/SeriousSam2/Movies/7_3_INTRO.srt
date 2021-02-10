@@ -1,0 +1,38 @@
+﻿0
+00:00:00,000 --> 00:00:01,000
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Announcer/Announcer_Arena1.wav">
+
+1
+00:00:01,179 --> 00:00:07,500
+Galaksinin her bir yanından gelen
+ucubelere iyi akşamlar, ve her yıl yapılan...
+
+2
+00:00:07,510 --> 00:00:14,500
+...*Hayatın Için Koş* turnuvasına hoşgeldiniz, bütün evrende.
+en çok izlenen reality şovu.
+
+3
+00:00:14,600 --> 00:00:22,300
+Bugünkü yarışmacımız Sam 'Serious' Stone,
+küçük gezegen Dünya'dan gelen kahraman bozuntusu.
+
+4
+00:00:22,400 --> 00:00:27,999
+Hadi bakalım neyden yapılmışsın görelim! 
+Bildiğiniz gibi, oyunun kuralları oldukça basit.
+
+5
+00:00:28,000 --> 00:00:37,000
+Yarışmacı kısıtlı süre içinde kontrol noktalarına ulaşmalı
+aksi takdirde kolyesi havaya uçacak ve boynunu koparacak...
+
+6
+00:00:37,100 --> 00:00:40,244
+...afedersiniz, görünüşe göre biraz Gnaar gribine yakalanmışım.
+
+7
+00:00:40,424 --> 00:00:45,250
+Bahisleri kapatın çünkü oyun her an başlayabilir!
+
+    

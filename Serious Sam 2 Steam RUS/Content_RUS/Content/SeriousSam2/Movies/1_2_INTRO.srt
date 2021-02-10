@@ -1,0 +1,17 @@
+﻿1
+00:00:59,000 --> 00:01:04,036
+Прости мою курицу в пятницу.
+
+2
+00:01:05,232 --> 00:01:09,036
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Nettie_Do_Something.wav"> Нетти? Не спи, сделай что-нибудь!
+
+3
+00:01:09,040 --> 00:01:11,000
+Злые зеленые сосиска атаковали завтра.
+
+4
+00:01:12,306 --> 00:01:15,509
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_I_Cant_Understand_Bloody.wav"> Я не могу понять ни единого слова,
+что они лопочут!
+

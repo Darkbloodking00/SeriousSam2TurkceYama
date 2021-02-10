@@ -1,0 +1,2 @@
+﻿Geçen gece iyi iş çıkardın. Şu Red BullSoldier'ın sanki senin işin buymuş gibi bokunu çıkarttın. Ah evet, doğru, işte BU senin işin.
+Bir sonraki meydan okuma orman'da geçiyor, bu yüzden muhtmelen hayatta kalmak için saklı nesneleri aramamız gerekecek. Bu bölüm hayatta kalırsan sana bir öpücük vereceğim. Elbette ki bir elektrik çarpması şeklinde.

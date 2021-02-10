@@ -1,0 +1,32 @@
+﻿1
+00:00:05,405 --> 00:00:08,508
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Dragon/Dragon_Dont_Come_Any_Closer.wav">Bir adım daha yaklaşma, yoksa...Atlarım!!!
+
+2
+00:00:13,780 --> 00:00:17,183
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Dont_Be_A_Fool.wav">Aptallaşma, önünde koca bir hayat var.
+
+3
+00:00:17,184 --> 00:00:20,119
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Dragon/Dragon_I_Will_Do_It.wav">Yapacağım... Yapacağım, Yemin ederim!!!
+
+4
+00:00:20,120 --> 00:00:24,790
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Listen_Listen_I_Will.wav">Dinle, dinle, Prenses'i Kral'a 
+geri götüreceğim...
+
+5
+00:00:24,791 --> 00:00:27,660
+...fakat o geri döndüğünde, bana madalyonu vereceksin.
+
+6
+00:00:27,661 --> 00:00:29,328
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Deal.wav">Anlaştık mı!?
+
+7
+00:00:29,329 --> 00:00:35,435
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Dragon/Dragon_Oh_My_Mental_Is.wav">Kesin...Mentalinkiler beni öldürecek...
+
+8
+00:00:35,436 --> 00:00:37,137
+...ANLAŞTIK!

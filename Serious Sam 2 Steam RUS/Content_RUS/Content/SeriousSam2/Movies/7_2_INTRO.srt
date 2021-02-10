@@ -1,0 +1,8 @@
+﻿1
+00:00:02,069 --> 00:00:03,500
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_That_Was_Buurp_Refreshing.wav">Этот меня немного... 
+
+2
+00:00:04,000 --> 00:00:05,500
+...освежило!
+

@@ -1,0 +1,7 @@
+﻿1
+00:00:10,677 --> 00:00:16,000
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Halooo_Is_There_Anybody.wav">Merhabaaa.... kimse yok muuuu?
+
+
+
+

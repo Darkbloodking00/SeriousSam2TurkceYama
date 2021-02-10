@@ -1,0 +1,34 @@
+﻿32
+Installer.CloseApplications=Запущены следующие приложения:\n%1Закройте их и нажмите 'Повторить'. Если вы хотите прервать установку, нажмите 'Отмена'.
+Installer.CopyingFile=Копируется %1...
+Installer.CreatingShortcut=Создается ярлык %1...
+Installer.ErrorSaveShortcut=Невозможно сохранить ярлык %1.
+Installer.ErrorCreateShortcut=Невозможно создать ярлык.
+Installer.UpdatingRegistry=Обновление реестра...
+Installer.StoringCDKey=Сохранение CD-ключа...
+Installer.StoringData=Сохранение данных установки...
+Installer.StoringLog=Создание лог-файла...
+Installer.SpaceRequired=Требуется места: %1МБ
+Installer.Button.Browse=Выбрать
+Installer.DialogName.FolderBrowser=Папка установки
+Installer.NotEnoughSpace=Недостаточно места для установки. Освободите необходимое место или выберите другую папку для установки.
+Installer.ButtonOk=ОК
+Installer.SpaceAvailable=Свободное место: %1МБ
+Installer.RollingBack=Отмена изменений...
+Installer.InstallationError=Ошибка установки:\n%1\nПовторить действие, игнорировать, или отменить установку?
+Installer.ButtonAbort=Отмена
+Installer.ButtonIgnore=Пропустить
+Installer.ButtonRetry=Повторить
+Installer.Preparing=Подготовка к установке...
+Installer.DeclineLicense=Я не принимаю условия лицензионного соглашения
+Installer.AcceptLicense=Я принимаю условия лицензионного соглашения
+Installer.ButtonBack=< Назад
+Installer.ButtonNext=Далее >
+Installer.ButtonCancel=Отмена
+Installer.CancelConfirm=Вы уверены, что хотите прервать установку?
+Installer.ButtonNo=Нет
+Installer.ButtonYes=Да
+Installer.ButtonInstall=Установка
+Installer.ButtonUninstall=Далее
+Installer.ButtonFinish=Готово
+

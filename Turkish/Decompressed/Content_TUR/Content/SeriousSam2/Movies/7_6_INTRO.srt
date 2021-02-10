@@ -1,0 +1,32 @@
+﻿1
+00:00:06,480 --> 00:00:12,159
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Pilot/Pilot_Sam_As_You_Can.wav">Sam, gördüğün gibi, aşağıda kıyamet kopuyor.
+Müttefik savaşcıları yakında sayıca üstün olacak.
+
+2
+00:00:12,160 --> 00:00:16,320
+Irtifayı Mental'in karargahına kadar
+yerden yüksekte tutacağız!
+
+3
+00:00:17,280 --> 00:00:18,960
+Şehrin yukarısında bir yerde...
+
+4
+00:00:21,800 --> 00:00:24,719
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Pilot/Pilot_We_Are_Closing_In.wav">Yakınlaşıyoruz, fakat hava
+kuvvetleri çok güçlü!
+
+5
+00:00:24,720 --> 00:00:26,200
+Atlamak zorundasın!
+
+6
+00:00:27,240 --> 00:00:28,519
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Pilot/Pilot_Go_Go_Go.wav">HADI, HADI, HADI!
+
+7
+00:00:28,520 --> 00:00:31,520
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Geronimo.wav">Geronimo...
+
+

@@ -1,0 +1,24 @@
+﻿23
+Sam2Installer.ProductNameLong=Serious Sam 2
+Sam2Installer.GameShortcut=Serious Sam 2
+Sam2Installer.EditorShortcut=Serious Editor 2
+Sam2Installer.WebShortcuts=Веб-сайты, посвященные Serious Sam
+Sam2Installer.DlgAdditional.Label=Выберите дополниельные задания для программы установки <ProductNameLong>.
+Sam2Installer.DlgAdditional.Choice0=Создать значки в меню 'Пуск'
+Sam2Installer.DlgAdditional.Choice1=Создать значки на рабочем столе
+Sam2Installer.Shortcut00.Description= 
+Sam2Installer.Shortcut01.Description=Самая серьезная игра всех времен и народов
+Sam2Installer.Shortcut02.Name=Просмотреть файл ReadMe
+Sam2Installer.Shortcut03.Name=Играть в <ProductNameLong> по сети с помощью GameSpy Arcade
+Sam2Installer.Shortcut03.LinkFile=<StartPrograms>/<ProductNameLong>/<Shortcut03.Name>.url
+Sam2Installer.Shortcut20.Name=Croteam
+Sam2Installer.Shortcut21.Name=Serious Sam 2
+Sam2Installer.Shortcut22.Name=Форумы Serious Sam 
+Sam2Installer.Shortcut23.Name=Serious Zone
+Sam2Installer.Shortcut50.Description=Самая серьезная игра всех времен и народов
+Sam2Installer.ServerShortcut=Выделенный сервер 
+Sam2Installer.Shortcut04.ExtraName=Безопасный режим
+Sam2Installer.Shortcut05.Name=Разрешение вопросов <ProductNameLong>
+Sam2Installer.Shortcut06.Description=Выделенный сервер Serious Sam 2.
+Sam2Installer.Shortcut07.Description=ReadMe к выделенному серверу Serious Sam 2
+Sam2Installer.Shortcut07.Name=Просмотреть ReadMe к выделенному серверу.

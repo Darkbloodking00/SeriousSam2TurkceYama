@@ -1,0 +1,78 @@
+﻿1
+00:00:08,175 --> 00:00:11,811
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode05/Wizards/Wizard_Woman_Line01_Boys_Thats_Enough_Is.wav">Мальчики, ХВАТИТ! Это единственное,
+что вас волнует?
+
+2
+00:00:11,812 --> 00:00:14,814
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode05/Wizards/Wizard1_Line01_But_Its_The_Galaxy.wav">Но это же...
+
+3
+00:00:11,813 --> 00:00:14,814
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode05/Wizards/Wizard2_Line01_But_Its_The_Galaxy.wav">финал КУБКА ГАЛАКТИКИ!..
+
+4
+00:00:14,815 --> 00:00:20,453
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode05/Wizards/Wizard_Woman_Line02_Can_Anything_Be_More.wav">Разве может быть что-то серьезнее спасения
+вселенной? Ну-ка, пора связаться с Сэмом.
+
+5
+00:00:20,454 --> 00:00:22,356
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode05/Sam/Sam_Who_Won_Who_Won.wav">Кто выиграл? КТО ВЫИГРАЛ?
+
+6
+00:00:22,356 --> 00:00:25,424
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode05/Wizards/Wizard2_Line02_Is_That_All_You.wav">Это все, что тебя волнует?
+
+7
+00:00:25,425 --> 00:00:30,330
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode05/Wizards/Wizard1_Line02_Yeah_What_Could_Be.wav">Да, что может быть серьезнее, чем
+спасение галактики?
+
+8
+00:00:31,589 --> 00:00:33,266
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode05/Wizards/Wizard_Woman_Line03_Yeah_Right_Sam_You.wav">Да... именно...
+
+9
+00:00:33,267 --> 00:00:37,471
+Сэм, ты должен достать последнюю
+часть медальона!
+
+10
+00:00:40,774 --> 00:00:45,011
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode05/Wizards/Wizard_Woman_Line04_Ellenier_Home_Of_Elvians.wav">Эленьер... дом для эльфисов, мирной и благородной расы.
+
+11
+00:00:45,012 --> 00:00:47,613
+Они успешно охраняли медальон...
+
+12
+00:00:47,614 --> 00:00:50,616
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode05/Wizards/Wizard_Woman_Line05_Until_Cecil_The_Dragon.wav">пока не прилетел Дракон Сесил
+и не забрал его.
+
+13
+00:00:50,617 --> 00:00:56,000
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode05/Wizards/Wizard1_Line03_Your_Task_Is_Simple.wav">Задание простое: найди дракона...
+избавься от него...
+
+14
+00:01:00,127 --> 00:01:05,298
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode05/Wizards/Wizard1_Line04_And_Take_The_Medallion.wav">...забери часть медальона, доказав,
+что ты ИЗБРАННЫЙ!
+
+15
+00:01:05,299 --> 00:01:10,036
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode05/Wizards/Wizard_Woman_Line06_You_Will_Start_At.wav">Ты начнешь на вершине горы Разбитых Сердец.
+У ее подножия лежит небольшая деревня.
+
+16
+00:01:10,037 --> 00:01:13,739
+Дракон прилетает в нее для сбора дани.
+
+17
+00:01:13,740 --> 00:01:19,000
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Episode05/Wizards/Wizard2_Line03_That_Will_Be_Your.wav">Это твой шанс встретиться с драконом...
+лицом к лицу!
+
+

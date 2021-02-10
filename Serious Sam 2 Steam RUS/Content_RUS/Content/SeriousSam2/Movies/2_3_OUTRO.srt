@@ -1,0 +1,16 @@
+﻿1
+00:00:20,900 --> 00:00:23,700
+<B sound="Content/SeriousSam2/Sounds/CutSequences/ZixieFemale/Zixie_Female_Hello_Mr_Stone_this.wav">Здравствуйте, мистер Стоун,
+это специальный рейс для героев.
+
+2
+00:00:23,700 --> 00:00:25,500
+Для вас - абсолютно бесплатно.
+
+3
+00:00:25,600 --> 00:00:28,000
+Пожалуйста, входите!
+
+4
+00:00:28,500 --> 00:00:30,000
+<B sound="Content/SeriousSam2/Sounds/CutSequences/Sam/Sam_Thanks_The_Pleasure_Is.wav">Спасибо, очень приятно.
